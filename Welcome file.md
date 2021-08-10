@@ -1,11 +1,11 @@
-﻿# Impact-of-Lifestyle-on-PCas-from-Knowledge-Graph-to-Chatbot-
+# Impact-of-Lifestyle-on-PCas-from-Knowledge-Graph-to-Chatbot-
 
-This repository is about the paper Modeling the Impact of Lifestyle on PCas: from Knowledge Graph to Chatbot by Fei Ye ^1,*^, ; Baivab Sinha^1,*^ ; Yalan Chen^2,*^ ; Tong Tang^1^, MSc; Rongrong Wu^1^; Mengqiao He^1^,Xiaonan Zheng^3^; Qiang Wei^3^,  Bairong Shen^1^
+This repository is about the paper Modeling the Impact of Lifestyle on PCas: from Knowledge Graph to Chatbot by Fei Ye <sup>1*</sup>, ; Baivab Sinha<sup>1*</sup>; Yalan Chen<sup>2*</sup>;Tong Tang<sup>1</sup>; Rongrong Wu<sup>1</sup>; Mengqiao He<sup>1</sup>,Xiaonan Zheng<sup>3</sup>; Qiang Wei<sup>3</sup>, Bairong Shen<sup>1</sup>
 
->^1^Institutes for Systems Genetics, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, 610041, China.
->^2^Department of Medical Informatics, School of Medicine, Nantong University, Nantong, China.
->^3^Department of Urology, West China Hospital, Sichuan University, Chengdu, China.
->^*^these authors contributed equally
+><sup>1</sup>Institutes for Systems Genetics, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, 610041, China.
+><sup>2</sup>Department of Medical Informatics, School of Medicine, Nantong University, Nantong, China.
+><sup>3</sup>Department of Urology, West China Hospital, Sichuan University, Chengdu, China.
+
 
 **Background:** Personal lifestyle is an important cause of prostate cancer (PCa), hence establishing a corresponding knowledge graph (KG) is a convenient way for preventing and assessing risks. However, currently, there exists no work on the construction and application of this kind of KG.
 
@@ -17,11 +17,95 @@ This repository is about the paper Modeling the Impact of Lifestyle on PCas: fro
 
 **Conclusions:** The lifestyle-associated KB is transformed into a professional KG and conveniently visualized. We have initially constructed a chatbot based on PCalfst_KG to help researchers or physicians learn more about PCa interactively.
 
-## Gallery
+# Gallery
 
 For more examples, visit our  [project page](http://rpg.ifi.uzh.ch/timelens).
 
+# Set-up
 
+## Install nodejs
+Node.js is a run-time environment which includes everything you need to execute a program written in JavaScript. It’s used for running scripts on the server to render content before it is delivered to a web browser.
+
+NPM stands for Node Package Manager, which is an application and repository for developing and sharing JavaScript code.
+
+Step 1: Download Node.js Installer
+In a web browser, navigate to https://nodejs.org/en/download/. Click the Platform Installer button to download the latest default version
+
+Step 3: Verify Installation
+Open a command prompt (or PowerShell), and enter the following:
+
+node -v
+The system should display the Node.js version installed on your system. You can do the same for NPM:
+
+npm -v
+
+## Flask
+Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. 
+
+Installing
+Install and update using pip:
+
+$ pip install -U Flask
+A Simple Example
+# save this as app.py
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/")
+def hello():
+    return "Hello, World!"
+$ flask run
+  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+Using Neo4j
+Neo4j is available both as a standalone server, or an embeddable component. You can download or try online.
+
+Extending Neo4j
+We encourage experimentation with Neo4j. You can build extensions to Neo4j, develop library or drivers atop the product, or make contributions directly to the product core. You’ll need to sign a Contributor License Agreement in order for us to accept your patches.
+
+Dependencies
+Neo4j is built using Apache Maven version 3.6.3 and a recent version of supported VM. Bash and Make are also required. Note that maven needs more memory than the standard configuration, this can be achieved with export MAVEN_OPTS="-Xmx512m".
+
+macOS users need to have Homebrew installed.
+
+With brew on macOS
+brew install maven
+Please note that we do not support building Debian packages on macOS.
+
+With apt-get on Ubuntu
+sudo apt install maven openjdk-11-jdk
+On top of that, to build Debian packages and Neo4j Desktop:
+
+apt install debhelper devscripts dos2unix dpkg make xmlstarlet
+# You will need a license for install4j, which is only needed for Neo4j Desktop
+curl -O https://download-keycdn.ej-technologies.com/install4j/install4j_linux_6_1_4.deb
+dpkg -i install4j_linux_6_1_4.deb
+Building Neo4j
+Before you start running the unit and integration tests in the Neo4j Maven project on a Linux-like system, you should ensure your limit on open files is set to a reasonable value. You can test it with ulimit -n. We recommend you have a limit of at least 40K.
+
+A plain mvn clean install will only build the individual jar files.
+
+Test execution is, of course, part of the build.
+
+In case you just want the jars, without running tests, this is for you: mvn clean install -DskipTests.
+
+To build product packages, do export PATH="bin:$PATH" && make clean all in the packaging directory after building artifacts with Maven.
+
+To build the documentation see the Neo4j documentation.
+
+If you are running into problems building on Windows you can try building Neo4j in a Ubuntu virtual machine.
+
+You may need to increase the memory available to Maven: export MAVEN_OPTS="-Xmx512m".
+
+Running Neo4j
+After running a mvn clean install, cd into packaging/standalone/target and extract the version you want, then:
+
+bin/neo4j start
+in the extracted folder to start Neo4j on localhost:7474. On Windows you want to run:
+
+bin\neo4j start
+instead.
 
 # Welcome to StackEdit!
 
