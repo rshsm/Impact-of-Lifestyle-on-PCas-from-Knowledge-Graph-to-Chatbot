@@ -139,6 +139,29 @@ Chat Bot
 ### The realization principle of the dialogue system based on Pcalfst_KG
 ![image](https://user-images.githubusercontent.com/10841083/128831785-b15faee7-c309-43dd-a6ef-bc00c714a794.png)
 
+Question and answer examples of 10 basic design questions
+|       Question   |Synoonym                     |Classification                        |Response                        |
+|----------------|-------------------------------|-----------------------------|
+|Which papers are related to the lifestyle [genistein]?|survey, paper, investigation, research, report   |  Asks related papers   | The PMID of related papers about genistein is 17634273;19235037;…|                     |
+
+QUESTIONS exm	Synonym	Classification	R exm
+Which papers are related to the lifestyle [genistein]?	survey, paper, investigation, research, report	Asks related papers	The PMID of related papers about genistein is 17634273;19235037;…
+Can you give me brief information on paper whose PMID is [17634273]?	information, introduction, detailed information, specific information, core information, brief introduction, brief information	ask information
+(paper/baseline/outcome)	The detailed information of the paper is as follows: Title: xxx
+Author: xxx …
+Can you give me brief information of baseline whose ID is [pbase_102]?			index_name: xxx; group_number: xxx; stratification: xxx; …
+Can you give me brief information of the outcome whose ID is [pcaoc_4584]?			index_name: xxx; pcatype: xxx;
+eaj: xxx; aj_value: xxx; …
+How do we measure the lifestyle [genistein]?	measurement, unit, measure, dosage	Asks units	The corresponding units of genistein are g/day; mg/day;…
+Where the lifestyle [genistein] may appear?	where, area, country, nation, region, location, appear	Asks geographical areas	From KG, we find that the genistein appears in Japan, China, Italy,…
+Can you give the involved baselines of lifestyle [genistein]?	-	asks baselines of lifestyle	The possible baselines of genistein are pbase_102, …
+What is the influence factor of lifestyle [genistein]?	-	Asks influencing factor	The influence factor of genistein is “No statistical significance factor”, “Protective factor; impact level: Strong”.
+Which class level the lifestyle [genistein] belongs to?	kind, class, type, classification, belong	Asks class level 	The genistein belongs to classes:  food composition, plant compounds, genistein.
+Lifestyle [genistein] can lead to which kind of PCas? 	Pca, illness, sickness, disease, pathema, prostate cancer, prostatic carcinoma, CRPC, prostatic cancer, cancer	PCas led  by lifestyle	The genistein may lead to total/local/advanced PCa.
+When lifestyle [genistein] leads [total PCa], please give possible outcomes.	-	Asks about the outcomes of PCas	The total PCa may bring about outcomes: pcaoc_4584,….
+How many genes may [advance PCa] be associated with? 	-	Asks about associated genes	The advanced PCa is associated with genes such as xxx.
+
+
 
 
 # Welcome to StackEdit!
