@@ -32,22 +32,20 @@ The types of entity and corresponding count in PCalfst_KG
 
 |       Entity   |Properties                     |Count                        |
 |----------------|-------------------------------|-----------------------------|
-|       Lifestyle   |Properties                     |Count                        |
-|       Paper   |Properties                     |Count                        |
-|       Baseline   |Properties                     |Count                        |
-|       Outcome   |Properties                     |Count                        |
-|       PCa   |Properties                     |Count                        |
-|       Nation   |Properties                     |Count                        |
-|       Unit   |Properties                     |Count                        |
-|       Gene   |Properties                     |Count                        |
-|       FirClass   |Properties                     |Count                        |
-|       SecClass   |Properties                     |Count                        |
-|       ThrClass   |Properties                     |Count                        |
+|       Lifestyle   |factor_type; fenlei; index_name; inv_papers; level_class; name; paper_count; pca_type; unit.                     |2290                        |
+|       Paper   |area; author; duration; gene; name; sample_size; study_type; title; year.                     |300                        |
+|       Baseline   |group_number; index_name; name; notes; pmid; stratification; value.                     |2570                        |
+|       Outcome   |aj_value; eaj; eunaj; index_name; name; notes; pcatype; pmid; stratification; unaj_value; unit.                     |15586                        |
+|       PCa   |Properties                     |79                        |
+|       Nation   |Properties                     |31                        |
+|       Unit   |Properties                     |125                        |
+|       Gene   |Properties                     |38                        |
+|       FirClass   |Properties                     |11                        |
+|       SecClass   |Properties                     |294                        |
+|       ThrClass   |Properties                     |22                        |
 
 
-|Lifestyle	 |Isn't this fun?'`            |'Isn't this fun?'            |
-|Paper           |"Isn't this fun?"`            |"Isn't this fun?"            |
-|Baseline        |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
 
 
 		
