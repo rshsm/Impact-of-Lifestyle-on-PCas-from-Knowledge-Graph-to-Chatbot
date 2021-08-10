@@ -29,7 +29,7 @@ Node.js is a run-time environment which includes everything you need to execute 
 NPM stands for Node Package Manager, which is an application and repository for developing and sharing JavaScript code.
 
 Step 1: Download Node.js Installer
-In a web browser, navigate to https://nodejs.org/en/download/. Click the Platform Installer button to download the latest default version
+In a web browser, navigate to [nodejs website](https://nodejs.org/en/download/). Click the Platform Installer button to download the latest default version
 
 Step 3: Verify Installation
 Open a command prompt (or PowerShell), and enter the following:
@@ -63,8 +63,8 @@ def hello():
 $ flask run
   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
-Using Neo4j
-Neo4j is available both as a standalone server, or an embeddable component. You can download or try online.
+Neo4j
+Neo4j is available both as a standalone server, or an embeddable component. You can [download](https://neo4j.com/download/) from here .
 
 Extending Neo4j
 We encourage experimentation with Neo4j. You can build extensions to Neo4j, develop library or drivers atop the product, or make contributions directly to the product core. You’ll need to sign a Contributor License Agreement in order for us to accept your patches.
