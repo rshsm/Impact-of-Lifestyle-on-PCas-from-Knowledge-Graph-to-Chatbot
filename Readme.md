@@ -17,9 +17,7 @@ This repository is about the paper Modeling the Impact of Lifestyle on PCas: fro
 
 **Conclusions:** The lifestyle-associated KB is transformed into a professional KG and conveniently visualized. We have initially constructed a chatbot based on PCalfst_KG to help researchers or physicians learn more about PCa interactively.
 
-# Gallery
 
-For more examples, visit our  [project page](http://rpg.ifi.uzh.ch/timelens).
 
 # Set-up
 
@@ -121,7 +119,7 @@ yarn start and point your web browser to http://localhost:8080.
 
 Knowledge Graph
 
-## Architecture
+# Architecture
 
 ### Knowledge Graph
 
@@ -154,7 +152,7 @@ Knowledge Graph
   <b>The realization principle of the dialogue system based on Pcalfst_KG</b>
 </p>
 
-## Result
+# Result
 
 ### Knowledge Graph
 
