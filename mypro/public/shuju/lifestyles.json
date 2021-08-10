@@ -1,0 +1,6872 @@
+﻿[
+	{
+		"lfst": "age"
+	},
+	{
+		"lfst": "body mass index"
+	},
+	{
+		"lfst": "smoke"
+	},
+	{
+		"lfst": "serum selenium"
+	},
+	{
+		"lfst": "rice consumption"
+	},
+	{
+		"lfst": "race"
+	},
+	{
+		"lfst": "black"
+	},
+	{
+		"lfst": "whites"
+	},
+	{
+		"lfst": "selenium"
+	},
+	{
+		"lfst": "age<70+selenium"
+	},
+	{
+		"lfst": "age>=70+selenium"
+	},
+	{
+		"lfst": "atlanta+selenium"
+	},
+	{
+		"lfst": "detroit+selenium"
+	},
+	{
+		"lfst": "new jersey+selenium"
+	},
+	{
+		"lfst": "never smoke+selenium"
+	},
+	{
+		"lfst": "former smoke+selenium"
+	},
+	{
+		"lfst": "current smoke+selenium"
+	},
+	{
+		"lfst": "plasmaselenium"
+	},
+	{
+		"lfst": "selenoprotein p"
+	},
+	{
+		"lfst": "calcium"
+	},
+	{
+		"lfst": "dairy calcium"
+	},
+	{
+		"lfst": "non-dairy calcium"
+	},
+	{
+		"lfst": "phosphorus"
+	},
+	{
+		"lfst": "ca:p ratio"
+	},
+	{
+		"lfst": "ca+low p<1291"
+	},
+	{
+		"lfst": "ca+high p>=1291"
+	},
+	{
+		"lfst": "dairy products"
+	},
+	{
+		"lfst": "milk"
+	},
+	{
+		"lfst": "cheese"
+	},
+	{
+		"lfst": "fresh cheese"
+	},
+	{
+		"lfst": "yoghurt"
+	},
+	{
+		"lfst": "lignans"
+	},
+	{
+		"lfst": "isoflavones"
+	},
+	{
+		"lfst": "lariciresinol"
+	},
+	{
+		"lfst": "matairesinol"
+	},
+	{
+		"lfst": "pinoresinol"
+	},
+	{
+		"lfst": "secoisolariciresinol"
+	},
+	{
+		"lfst": "daidzein"
+	},
+	{
+		"lfst": "genistein"
+	},
+	{
+		"lfst": "glycitein"
+	},
+	{
+		"lfst": "biochanin a"
+	},
+	{
+		"lfst": "toenail selenium+low vitamin c"
+	},
+	{
+		"lfst": "toenail selenium+high vitamin c"
+	},
+	{
+		"lfst": "toenail selenium+low vitamin e"
+	},
+	{
+		"lfst": "toenail selenium+high vitamin e"
+	},
+	{
+		"lfst": "toenail selenium+low acarotene"
+	},
+	{
+		"lfst": "toenail selenium+high acarotene"
+	},
+	{
+		"lfst": "toenail selenium+low bcarotene"
+	},
+	{
+		"lfst": "toenail selenium+high bcarotene"
+	},
+	{
+		"lfst": "toenail selenium+low bcryptoxanthin"
+	},
+	{
+		"lfst": "toenail selenium+high bcryptoxanthin"
+	},
+	{
+		"lfst": "toenail selenium+low lycopene"
+	},
+	{
+		"lfst": "toenail selenium+high lycopene"
+	},
+	{
+		"lfst": "toenail selenium+low lutein/zeaxanthin"
+	},
+	{
+		"lfst": "toenail selenium+high lutein/zeaxanthin"
+	},
+	{
+		"lfst": "never smoke"
+	},
+	{
+		"lfst": "former smoke"
+	},
+	{
+		"lfst": "current smoke"
+	},
+	{
+		"lfst": "folate"
+	},
+	{
+		"lfst": "vitamin b6"
+	},
+	{
+		"lfst": "vitamin b12"
+	},
+	{
+		"lfst": "homocysteine"
+	},
+	{
+		"lfst": "total testosterone"
+	},
+	{
+		"lfst": "testosterone/shbg"
+	},
+	{
+		"lfst": "estradiol"
+	},
+	{
+		"lfst": "age+calcium"
+	},
+	{
+		"lfst": "body mass index+calcium"
+	},
+	{
+		"lfst": "total testosterone+calcium"
+	},
+	{
+		"lfst": "testosterone/shbg+calcium"
+	},
+	{
+		"lfst": "estradiol+calcium"
+	},
+	{
+		"lfst": "sexual function"
+	},
+	{
+		"lfst": "number of meals"
+	},
+	{
+		"lfst": "fish"
+	},
+	{
+		"lfst": "lamb"
+	},
+	{
+		"lfst": "beef"
+	},
+	{
+		"lfst": "animal fat"
+	},
+	{
+		"lfst": "fruits"
+	},
+	{
+		"lfst": "vegetable"
+	},
+	{
+		"lfst": "green tea"
+	},
+	{
+		"lfst": "family history"
+	},
+	{
+		"lfst": "alcohol"
+	},
+	{
+		"lfst": "tobacco"
+	},
+	{
+		"lfst": "plasma enterolactone"
+	},
+	{
+		"lfst": "weight"
+	},
+	{
+		"lfst": "height"
+	},
+	{
+		"lfst": "psa"
+	},
+	{
+		"lfst": "testosterone"
+	},
+	{
+		"lfst": "waist circumference"
+	},
+	{
+		"lfst": "logpase score"
+	},
+	{
+		"lfst": "glucose"
+	},
+	{
+		"lfst": "triglyceride"
+	},
+	{
+		"lfst": "high-density lipoprotein"
+	},
+	{
+		"lfst": "blood pressure"
+	},
+	{
+		"lfst": "metabolic syndrome"
+	},
+	{
+		"lfst": "greenness"
+	},
+	{
+		"lfst": "pcb153 exposure"
+	},
+	{
+		"lfst": "lycopene"
+	},
+	{
+		"lfst": "tea+lycopene"
+	},
+	{
+		"lfst": "plasma concentration"
+	},
+	{
+		"lfst": "chlordecone plasma+without family history"
+	},
+	{
+		"lfst": "chlordecone plasma+family history"
+	},
+	{
+		"lfst": "chlordecone plasma++without past residence"
+	},
+	{
+		"lfst": "chlordecone plasma+past residence"
+	},
+	{
+		"lfst": "warfarin"
+	},
+	{
+		"lfst": "binge drinking status"
+	},
+	{
+		"lfst": "vasectomy"
+	},
+	{
+		"lfst": "year since vasectomy"
+	},
+	{
+		"lfst": "total dairy products products"
+	},
+	{
+		"lfst": "low-fat dairy"
+	},
+	{
+		"lfst": "high-fat dairy"
+	},
+	{
+		"lfst": "dietary calcium"
+	},
+	{
+		"lfst": "supplement calcium"
+	},
+	{
+		"lfst": "antidiabetic drug"
+	},
+	{
+		"lfst": "metformin"
+	},
+	{
+		"lfst": "sulphonylurea"
+	},
+	{
+		"lfst": "thiazolidinedione"
+	},
+	{
+		"lfst": "insulin"
+	},
+	{
+		"lfst": "folate+vitamin b12"
+	},
+	{
+		"lfst": "folate+non-swedish"
+	},
+	{
+		"lfst": "folate+swedish"
+	},
+	{
+		"lfst": "duration of multivitamins"
+	},
+	{
+		"lfst": "duration of vitamin e"
+	},
+	{
+		"lfst": "duration of beta-carotene"
+	},
+	{
+		"lfst": "duration of folate"
+	},
+	{
+		"lfst": "duration of zinc"
+	},
+	{
+		"lfst": "duration of selenium"
+	},
+	{
+		"lfst": "zinc+selenium"
+	},
+	{
+		"lfst": "multivitamins"
+	},
+	{
+		"lfst": "calories+african americans"
+	},
+	{
+		"lfst": "protein+african americans"
+	},
+	{
+		"lfst": "carbohydrate+african americans"
+	},
+	{
+		"lfst": "fat+african americans"
+	},
+	{
+		"lfst": "fiber+african americans"
+	},
+	{
+		"lfst": "vitamin c+african americans"
+	},
+	{
+		"lfst": "vitamin e+african americans"
+	},
+	{
+		"lfst": "vitamin a+african americans"
+	},
+	{
+		"lfst": "total glutathione+african americans"
+	},
+	{
+		"lfst": "retinol+african americans"
+	},
+	{
+		"lfst": "pro-vitamin a carotenoids+african americans"
+	},
+	{
+		"lfst": "alpha-carotene+african americans"
+	},
+	{
+		"lfst": "beta-carotene+african americans"
+	},
+	{
+		"lfst": "cryptoxanthin+african americans"
+	},
+	{
+		"lfst": "folate+african americans"
+	},
+	{
+		"lfst": "lutein+african americans"
+	},
+	{
+		"lfst": "lycopene+african americans"
+	},
+	{
+		"lfst": "genistein+african americans"
+	},
+	{
+		"lfst": "daidzein+african americans"
+	},
+	{
+		"lfst": "grains+african americans"
+	},
+	{
+		"lfst": "vegetable+african americans"
+	},
+	{
+		"lfst": "fruits and/or fruits juices+african americans"
+	},
+	{
+		"lfst": "calories+caucasians"
+	},
+	{
+		"lfst": "protein+caucasians"
+	},
+	{
+		"lfst": "carbohydrate+caucasians"
+	},
+	{
+		"lfst": "fat+caucasians"
+	},
+	{
+		"lfst": "fiber+caucasians"
+	},
+	{
+		"lfst": "vitamin c+caucasians"
+	},
+	{
+		"lfst": "vitamin e+caucasians"
+	},
+	{
+		"lfst": "vitamin a+caucasians"
+	},
+	{
+		"lfst": "total glutathione+caucasians"
+	},
+	{
+		"lfst": "retinol+caucasians"
+	},
+	{
+		"lfst": "pro-vitamin a carotenoids+caucasians"
+	},
+	{
+		"lfst": "alpha-carotene+caucasians"
+	},
+	{
+		"lfst": "beta-carotene+caucasians"
+	},
+	{
+		"lfst": "cryptoxanthin+caucasians"
+	},
+	{
+		"lfst": "folate+caucasians"
+	},
+	{
+		"lfst": "lutein+caucasians"
+	},
+	{
+		"lfst": "lycopene+caucasians"
+	},
+	{
+		"lfst": "genistein+caucasians"
+	},
+	{
+		"lfst": "daidzein+caucasians"
+	},
+	{
+		"lfst": "grains+caucasians"
+	},
+	{
+		"lfst": "vegetable+caucasians"
+	},
+	{
+		"lfst": "fruits and/or fruits juices+caucasians"
+	},
+	{
+		"lfst": "calories"
+	},
+	{
+		"lfst": "protein"
+	},
+	{
+		"lfst": "carbohydrate"
+	},
+	{
+		"lfst": "fat"
+	},
+	{
+		"lfst": "fiber"
+	},
+	{
+		"lfst": "vitamin c"
+	},
+	{
+		"lfst": "vitamin e"
+	},
+	{
+		"lfst": "vitamin a"
+	},
+	{
+		"lfst": "total glutathione"
+	},
+	{
+		"lfst": "retinol"
+	},
+	{
+		"lfst": "pro-vitamin a carotenoids"
+	},
+	{
+		"lfst": "alpha-carotene"
+	},
+	{
+		"lfst": "beta-carotene"
+	},
+	{
+		"lfst": "cryptoxanthin"
+	},
+	{
+		"lfst": "lutein"
+	},
+	{
+		"lfst": "grains"
+	},
+	{
+		"lfst": "fruits and/or fruits juices"
+	},
+	{
+		"lfst": "sun exposure in warmer months of the yr when aged 30 and 50"
+	},
+	{
+		"lfst": "sun exposure on weekdays in warmer months of the yr when aged 30 and 50"
+	},
+	{
+		"lfst": "sun exposure on weekends in warmer months of the yr when aged 30 and 50"
+	},
+	{
+		"lfst": "skin color"
+	},
+	{
+		"lfst": "ability to tan"
+	},
+	{
+		"lfst": "sun sensitivity"
+	},
+	{
+		"lfst": "hat"
+	},
+	{
+		"lfst": "african americans+refined grain intake"
+	},
+	{
+		"lfst": "african americans+whole grain intake"
+	},
+	{
+		"lfst": "african americans+fiber"
+	},
+	{
+		"lfst": "african americans+insoluble fiber"
+	},
+	{
+		"lfst": "african americans+soluble fiber"
+	},
+	{
+		"lfst": "european americans+refined grain intake"
+	},
+	{
+		"lfst": "european americans+whole grain intake"
+	},
+	{
+		"lfst": "european americans+fiber"
+	},
+	{
+		"lfst": "european americans+insoluble fiber"
+	},
+	{
+		"lfst": "european americans+soluble fiber"
+	},
+	{
+		"lfst": "refined grain intake"
+	},
+	{
+		"lfst": "whole grain intake"
+	},
+	{
+		"lfst": "insoluble fiber"
+	},
+	{
+		"lfst": "soluble fiber"
+	},
+	{
+		"lfst": "methionine"
+	},
+	{
+		"lfst": "mthfr polymorphism c677t"
+	},
+	{
+		"lfst": "mthfr polymorphism a1298c"
+	},
+	{
+		"lfst": "methionine > 2.6g/day+ mthfr polymorphism c677t carriers"
+	},
+	{
+		"lfst": "methionine > 2.6g/day+ mthfr polymorphism a1298c carriers"
+	},
+	{
+		"lfst": "regular coffee+brca+"
+	},
+	{
+		"lfst": "regular vigorous exercise+brca+"
+	},
+	{
+		"lfst": "daily aspirin+brca+"
+	},
+	{
+		"lfst": "statin+brca+"
+	},
+	{
+		"lfst": "finasteride+brca+"
+	},
+	{
+		"lfst": "alcohol+brca+"
+	},
+	{
+		"lfst": "smokehistory+brca+"
+	},
+	{
+		"lfst": "vasectomy history+brca+"
+	},
+	{
+		"lfst": "regular coffee+brca-"
+	},
+	{
+		"lfst": "regular vigorous exercise+brca-"
+	},
+	{
+		"lfst": "daily aspirin+brca-"
+	},
+	{
+		"lfst": "statin+brca-"
+	},
+	{
+		"lfst": "finasteride+brca-"
+	},
+	{
+		"lfst": "alcohol+brca-"
+	},
+	{
+		"lfst": "smokehistory+brca-"
+	},
+	{
+		"lfst": "vasectomy history+brca-"
+	},
+	{
+		"lfst": "no2"
+	},
+	{
+		"lfst": "sun exposure"
+	},
+	{
+		"lfst": "low sun exposure"
+	},
+	{
+		"lfst": "medium sun exposure"
+	},
+	{
+		"lfst": "high sun exposure"
+	},
+	{
+		"lfst": "body weight"
+	},
+	{
+		"lfst": "weight gain in adult"
+	},
+	{
+		"lfst": "any cancer in fathers"
+	},
+	{
+		"lfst": "any cancer in mothers"
+	},
+	{
+		"lfst": "prostate cancer in fathers or brothers"
+	},
+	{
+		"lfst": "breast cancer in mothers or sisters"
+	},
+	{
+		"lfst": "uterine cancer in mothers or sisters"
+	},
+	{
+		"lfst": "colorectal cancer in parents or siblings"
+	},
+	{
+		"lfst": "pancreatic cancer in parents or siblings"
+	},
+	{
+		"lfst": "bile duct cancer in parents or siblings"
+	},
+	{
+		"lfst": "chronotype"
+	},
+	{
+		"lfst": "shift work"
+	},
+	{
+		"lfst": "sleep duration"
+	},
+	{
+		"lfst": "sleep quality"
+	},
+	{
+		"lfst": "all milk"
+	},
+	{
+		"lfst": "low-fat milk"
+	},
+	{
+		"lfst": "high-fat milk"
+	},
+	{
+		"lfst": "products high in lactose>3g/100 g"
+	},
+	{
+		"lfst": "products low in lactose<3g/100 g"
+	},
+	{
+		"lfst": "total fat"
+	},
+	{
+		"lfst": "total fat+family history"
+	},
+	{
+		"lfst": "total fat+no family history"
+	},
+	{
+		"lfst": "fat+family history"
+	},
+	{
+		"lfst": "fat+no family history"
+	},
+	{
+		"lfst": "pufa"
+	},
+	{
+		"lfst": "pufa+family history"
+	},
+	{
+		"lfst": "pufa+no family history"
+	},
+	{
+		"lfst": "n-6 pufa"
+	},
+	{
+		"lfst": "n-6 pufa+family history"
+	},
+	{
+		"lfst": "n-6 pufa+no family history"
+	},
+	{
+		"lfst": "monounsaturated fat"
+	},
+	{
+		"lfst": "monounsaturated fat+family history"
+	},
+	{
+		"lfst": "monounsaturated fat+no family history"
+	},
+	{
+		"lfst": "saturated fat"
+	},
+	{
+		"lfst": "saturated fat+family history"
+	},
+	{
+		"lfst": "saturated fat+no family history"
+	},
+	{
+		"lfst": "trans fat"
+	},
+	{
+		"lfst": "trans fat+family history"
+	},
+	{
+		"lfst": "trans fat+no family history"
+	},
+	{
+		"lfst": "total dairy products"
+	},
+	{
+		"lfst": "total dairy products+family history"
+	},
+	{
+		"lfst": "total dairy products+no family history"
+	},
+	{
+		"lfst": "total meat"
+	},
+	{
+		"lfst": "total meat+family history"
+	},
+	{
+		"lfst": "total meat+no family history"
+	},
+	{
+		"lfst": "dairy+current smokers"
+	},
+	{
+		"lfst": "dairy+former smoke"
+	},
+	{
+		"lfst": "current smokers"
+	},
+	{
+		"lfst": "fruits and vegetable servings"
+	},
+	{
+		"lfst": "heavy alcohol"
+	},
+	{
+		"lfst": "sedentary behavior"
+	},
+	{
+		"lfst": "perceived health"
+	},
+	{
+		"lfst": "fruits/vegetable servings+age<= 65"
+	},
+	{
+		"lfst": "fruits/vegetable servings+age>65"
+	},
+	{
+		"lfst": "fruits/vegetable servings+race:black"
+	},
+	{
+		"lfst": "fruits/vegetable servings+race:nonblack"
+	},
+	{
+		"lfst": "fruits/vegetable servings+education<=12yr"
+	},
+	{
+		"lfst": "fruits/vegetable servings+education>12yr"
+	},
+	{
+		"lfst": "fruits/vegetable servings+urbanicity:urban"
+	},
+	{
+		"lfst": "fruits/vegetable servings+urbanicity:rural"
+	},
+	{
+		"lfst": "smoke+age<= 65"
+	},
+	{
+		"lfst": "smoke+age>65"
+	},
+	{
+		"lfst": "smoke+race:black"
+	},
+	{
+		"lfst": "smoke+race:nonblack"
+	},
+	{
+		"lfst": "smoke+education<=12yr"
+	},
+	{
+		"lfst": "smoke+education>12yr"
+	},
+	{
+		"lfst": "smoke+urbanicity:urban"
+	},
+	{
+		"lfst": "smoke+urbanicity:rural"
+	},
+	{
+		"lfst": "heavy alcohol+age<= 65"
+	},
+	{
+		"lfst": "heavy alcohol+age>65"
+	},
+	{
+		"lfst": "heavy alcohol+race:black"
+	},
+	{
+		"lfst": "heavy alcohol+race:nonblack"
+	},
+	{
+		"lfst": "heavy alcohol+education<=12yr"
+	},
+	{
+		"lfst": "heavy alcohol+education<= 13yr"
+	},
+	{
+		"lfst": "heavy alcohol+education>12yr"
+	},
+	{
+		"lfst": "heavy alcohol+education>13yr"
+	},
+	{
+		"lfst": "heavy alcohol+urbanicity:urban"
+	},
+	{
+		"lfst": "heavy alcohol+urbanicity:rural"
+	},
+	{
+		"lfst": "sedentary behavior+age<= 65"
+	},
+	{
+		"lfst": "sedentary behavior+age>65"
+	},
+	{
+		"lfst": "sedentary behavior+race:black"
+	},
+	{
+		"lfst": "sedentary behavior+race:nonblack"
+	},
+	{
+		"lfst": "sedentary behavior+education<=12yr"
+	},
+	{
+		"lfst": "sedentary behavior+education>12yr"
+	},
+	{
+		"lfst": "sedentary behavior+urbanicity:urban"
+	},
+	{
+		"lfst": "sedentary behavior+urbanicity:rural"
+	},
+	{
+		"lfst": "body mass index+age<= 65"
+	},
+	{
+		"lfst": "body mass index+age>65"
+	},
+	{
+		"lfst": "body mass index+race:black"
+	},
+	{
+		"lfst": "body mass index+race:nonblack"
+	},
+	{
+		"lfst": "body mass index+education<=12yr"
+	},
+	{
+		"lfst": "body mass index+education>12yr"
+	},
+	{
+		"lfst": "body mass index+urbanicity:urban"
+	},
+	{
+		"lfst": "body mass index+urbanicity:rural"
+	},
+	{
+		"lfst": "perceived health+age<= 65"
+	},
+	{
+		"lfst": "perceived health+age>65"
+	},
+	{
+		"lfst": "perceived health+race:black"
+	},
+	{
+		"lfst": "perceived health+race:nonblack"
+	},
+	{
+		"lfst": "perceived health+education<=12yr"
+	},
+	{
+		"lfst": "perceived health+education>12yr"
+	},
+	{
+		"lfst": "perceived health+urbanicity:urban"
+	},
+	{
+		"lfst": "perceived health+urbanicity:rural"
+	},
+	{
+		"lfst": "body mass index+underweight"
+	},
+	{
+		"lfst": "body mass index+normal"
+	},
+	{
+		"lfst": "body mass index+overweight"
+	},
+	{
+		"lfst": "body mass index+obese"
+	},
+	{
+		"lfst": "body fat"
+	},
+	{
+		"lfst": "waist:hip ratio"
+	},
+	{
+		"lfst": "diabetes"
+	},
+	{
+		"lfst": "c-peptide distribution"
+	},
+	{
+		"lfst": "c-peptide+age<=71"
+	},
+	{
+		"lfst": "c-peptide+age>71"
+	},
+	{
+		"lfst": "c-peptide+body mass index<26.5"
+	},
+	{
+		"lfst": "c-peptide+body mass index>26.5"
+	},
+	{
+		"lfst": "1-stearoylglycerol"
+	},
+	{
+		"lfst": "glycerol"
+	},
+	{
+		"lfst": "alpha-ketoglutarate"
+	},
+	{
+		"lfst": "myristoleate"
+	},
+	{
+		"lfst": "10-heptadecenoate"
+	},
+	{
+		"lfst": "palmitoleate"
+	},
+	{
+		"lfst": "5-methylthioadenosine"
+	},
+	{
+		"lfst": "phenylalanylleucine"
+	},
+	{
+		"lfst": "myristate"
+	},
+	{
+		"lfst": "21-hydroxypregnenolone disulfate"
+	},
+	{
+		"lfst": "linolenate [alpha or gamma"
+	},
+	{
+		"lfst": "phenylalanine"
+	},
+	{
+		"lfst": "valerate"
+	},
+	{
+		"lfst": "oleate"
+	},
+	{
+		"lfst": "xanthine"
+	},
+	{
+		"lfst": "sphinganine"
+	},
+	{
+		"lfst": "3-methyl-2-oxobutyrate"
+	},
+	{
+		"lfst": "glycerate"
+	},
+	{
+		"lfst": "propionylcarnitine"
+	},
+	{
+		"lfst": "margarate"
+	},
+	{
+		"lfst": "10-nonadecenoate"
+	},
+	{
+		"lfst": "palmitate"
+	},
+	{
+		"lfst": "pentadecanoate"
+	},
+	{
+		"lfst": "lysine"
+	},
+	{
+		"lfst": "1-stearoylglycerol,1-monostearin"
+	},
+	{
+		"lfst": "2arachidonoylglycerophosphoethanolamine"
+	},
+	{
+		"lfst": "5-dodecenoate"
+	},
+	{
+		"lfst": "azelate"
+	},
+	{
+		"lfst": "linoleate"
+	},
+	{
+		"lfst": "stearate"
+	},
+	{
+		"lfst": "eicosenoate"
+	},
+	{
+		"lfst": "phenol sulfate"
+	},
+	{
+		"lfst": "heme"
+	},
+	{
+		"lfst": "isovalerate"
+	},
+	{
+		"lfst": "alanine"
+	},
+	{
+		"lfst": "ribose"
+	},
+	{
+		"lfst": "glycocholate"
+	},
+	{
+		"lfst": "3-hydroxyisobutyrate"
+	},
+	{
+		"lfst": "pregnen-diol disulfate"
+	},
+	{
+		"lfst": "phenylalanyltryptophan"
+	},
+	{
+		"lfst": "lipids:3-hydroxylaurate"
+	},
+	{
+		"lfst": "lipids:oleoyl-linoleoyl-glycerophosphoinositol"
+	},
+	{
+		"lfst": "lipids:erucoyl-sphingomyelin"
+	},
+	{
+		"lfst": "lipids:stearoyl-arachidonoylglycerophosphoethanolamine"
+	},
+	{
+		"lfst": "lipids:palmitoyl-linoleoyl-glycerophosphocholine"
+	},
+	{
+		"lfst": "lipids:glycolithocholate sulfate"
+	},
+	{
+		"lfst": "lipids:docosadienoate"
+	},
+	{
+		"lfst": "lipids:inositol-1-phosphate"
+	},
+	{
+		"lfst": "lipids:stearoyl-linoleoylglycerophosphoethanolamine"
+	},
+	{
+		"lfst": "lipids:3-hydroxydecanoate"
+	},
+	{
+		"lfst": "lipids:stearoyl-linoleoyl-glycerophosphocholine"
+	},
+	{
+		"lfst": "lipids:16a-hydroxy-dhea 3-sulfate"
+	},
+	{
+		"lfst": "lipids:tauro-beta-muricholate"
+	},
+	{
+		"lfst": "amino acids:4-imidazoleacetate"
+	},
+	{
+		"lfst": "amino acids:phenylpyruvate"
+	},
+	{
+		"lfst": "amino acids:beta-hydroxyisovalerate"
+	},
+	{
+		"lfst": "amino acids:2-hydroxybutyrate,ahb"
+	},
+	{
+		"lfst": "amino acids:indolebutyrate"
+	},
+	{
+		"lfst": "xenobiotics:homostachydrine"
+	},
+	{
+		"lfst": "xenobiotics:propyl-4-hydroxybenzoate sulfate"
+	},
+	{
+		"lfst": "xenobiotics:s-,3-hydroxypropyl mercapturic acid,hpma"
+	},
+	{
+		"lfst": "nucleotides:2'-deoxyuridine"
+	},
+	{
+		"lfst": "lipids"
+	},
+	{
+		"lfst": "lipids:21-hydroxypregnenolone monosulfate"
+	},
+	{
+		"lfst": "lipids:glycerol 3-phosphate,g3p"
+	},
+	{
+		"lfst": "amino acids:-acetyl-3-methylhistidine"
+	},
+	{
+		"lfst": "amino acids:n-acetylleucine"
+	},
+	{
+		"lfst": "amino acids:indolepropionate"
+	},
+	{
+		"lfst": "xenobiotics:cotinine"
+	},
+	{
+		"lfst": "xenobiotics:hydroxycotinine"
+	},
+	{
+		"lfst": "xenobiotics:saccharin"
+	},
+	{
+		"lfst": "nucleotides:adenosine 5'-monophosphate,amp"
+	},
+	{
+		"lfst": "nucleotides:dihydroorotate"
+	},
+	{
+		"lfst": "cofactors and vitamins:l-urobilin"
+	},
+	{
+		"lfst": "dietary inflammatory index"
+	},
+	{
+		"lfst": "methyl bromide"
+	},
+	{
+		"lfst": "organochlorines"
+	},
+	{
+		"lfst": "captan"
+	},
+	{
+		"lfst": "simazine"
+	},
+	{
+		"lfst": "maneb"
+	},
+	{
+		"lfst": "paraquat dichloride"
+	},
+	{
+		"lfst": "eye color"
+	},
+	{
+		"lfst": "sunburn frequency"
+	},
+	{
+		"lfst": "sun exposure in adulthood"
+	},
+	{
+		"lfst": "fruits5-a-day method"
+	},
+	{
+		"lfst": "fruitsimple summation"
+	},
+	{
+		"lfst": "citrus fruits"
+	},
+	{
+		"lfst": "citrus juice"
+	},
+	{
+		"lfst": "other fruits"
+	},
+	{
+		"lfst": "vegetable5-a-day method"
+	},
+	{
+		"lfst": "vegetable simple summation"
+	},
+	{
+		"lfst": "cruciferous vegetable"
+	},
+	{
+		"lfst": "green leafy vegetable"
+	},
+	{
+		"lfst": "carrots"
+	},
+	{
+		"lfst": "beans"
+	},
+	{
+		"lfst": "cooked tomatoes"
+	},
+	{
+		"lfst": "raw tomatoes"
+	},
+	{
+		"lfst": "other vegetable"
+	},
+	{
+		"lfst": "calcium rotenoids"
+	},
+	{
+		"lfst": "calcium rotenoids except lycopene"
+	},
+	{
+		"lfst": "a-carotene"
+	},
+	{
+		"lfst": "beta-cryptoxanthin"
+	},
+	{
+		"lfst": "lutein+zeaxanthin"
+	},
+	{
+		"lfst": "cimetidine"
+	},
+	{
+		"lfst": "yr of cimetidine"
+	},
+	{
+		"lfst": "cumulative use of cimetidine"
+	},
+	{
+		"lfst": "other h2 blockers"
+	},
+	{
+		"lfst": "yr of h2 blockers"
+	},
+	{
+		"lfst": "cumulative use of other h2 blockers"
+	},
+	{
+		"lfst": "total energy intake"
+	},
+	{
+		"lfst": "tomato or vegetable juices"
+	},
+	{
+		"lfst": "tomatoes"
+	},
+	{
+		"lfst": "ketchup"
+	},
+	{
+		"lfst": "all tomato-based foods"
+	},
+	{
+		"lfst": "yellow vegetable"
+	},
+	{
+		"lfst": "fruits and/or fruits juice"
+	},
+	{
+		"lfst": "rice andnoodles"
+	},
+	{
+		"lfst": "grain and cereals"
+	},
+	{
+		"lfst": "tofu"
+	},
+	{
+		"lfst": "baked beans and lentils"
+	},
+	{
+		"lfst": "meat"
+	},
+	{
+		"lfst": "processed meat"
+	},
+	{
+		"lfst": "tea"
+	},
+	{
+		"lfst": "coffee"
+	},
+	{
+		"lfst": "alcohol(beer wine liquor)"
+	},
+	{
+		"lfst": "strenuous activity in mid-teens"
+	},
+	{
+		"lfst": "strenuous activity in early 30s"
+	},
+	{
+		"lfst": "strenuous activity in early 50s"
+	},
+	{
+		"lfst": "cigarettes"
+	},
+	{
+		"lfst": "pack-yr for cigarettes"
+	},
+	{
+		"lfst": "education"
+	},
+	{
+		"lfst": "type of occupation"
+	},
+	{
+		"lfst": "serum creatinine"
+	},
+	{
+		"lfst": "serum creatinine+age<61"
+	},
+	{
+		"lfst": "serum creatinine+age>=61"
+	},
+	{
+		"lfst": "serum creatinine+cigarettes< 20"
+	},
+	{
+		"lfst": "serum creatinine+cigarettes>= 20"
+	},
+	{
+		"lfst": "serum creatinine+height<174"
+	},
+	{
+		"lfst": "serum creatinine+height>=174"
+	},
+	{
+		"lfst": "serum creatinine+body mass index< 26"
+	},
+	{
+		"lfst": "serum creatinine+body mass index>= 26"
+	},
+	{
+		"lfst": "serum creatinine+diastolic blood pressure<90"
+	},
+	{
+		"lfst": "serum creatinine+diastolic blood pressure >=90"
+	},
+	{
+		"lfst": "serum creatinine+systolic blood pressure<140"
+	},
+	{
+		"lfst": "serum creatinine+systolic blood pressure>=140"
+	},
+	{
+		"lfst": "serum creatinine+hypertension:no"
+	},
+	{
+		"lfst": "serum creatinine+hypertension:yes"
+	},
+	{
+		"lfst": "serum creatinine+alpha-tocopherol supplementation:no"
+	},
+	{
+		"lfst": "serum creatinine+alpha-tocopherol supplementation:yes"
+	},
+	{
+		"lfst": "serum creatinine+beta-carotene supplementation:no"
+	},
+	{
+		"lfst": "serum creatinine+beta-carotene supplementation:yes"
+	},
+	{
+		"lfst": "serum creatinine+serum alpha-tocopherol< 11.75"
+	},
+	{
+		"lfst": "serum creatinine+serum alpha-tocopherol >=11.75"
+	},
+	{
+		"lfst": "serum creatinine+serum alpha-tocopherol >=11.78"
+	},
+	{
+		"lfst": "serum creatinine+serum homocysteine< 11.8"
+	},
+	{
+		"lfst": "serum creatinine+serum homocysteine >=11.8"
+	},
+	{
+		"lfst": "serum creatinine+proteine intake< 91"
+	},
+	{
+		"lfst": "serum creatinine+proteine intake>=91"
+	},
+	{
+		"lfst": "serum creatinine+alcohol intake<9.3"
+	},
+	{
+		"lfst": "serum creatinine+alcohol intake>=9.3"
+	},
+	{
+		"lfst": "baked products"
+	},
+	{
+		"lfst": "breakfast cereals"
+	},
+	{
+		"lfst": "cereals grain and pasta"
+	},
+	{
+		"lfst": "soups sauces and gravies"
+	},
+	{
+		"lfst": "vegetable and vegetable products"
+	},
+	{
+		"lfst": "legumes"
+	},
+	{
+		"lfst": "nuts"
+	},
+	{
+		"lfst": "eggs products"
+	},
+	{
+		"lfst": "finfishand shellfish"
+	},
+	{
+		"lfst": "poultry products"
+	},
+	{
+		"lfst": "sausages"
+	},
+	{
+		"lfst": "pork products"
+	},
+	{
+		"lfst": "beef lamb and veal products"
+	},
+	{
+		"lfst": "fast food"
+	},
+	{
+		"lfst": "snacks and sweets"
+	},
+	{
+		"lfst": "spices and herbs"
+	},
+	{
+		"lfst": "fats and oils"
+	},
+	{
+		"lfst": "beverage"
+	},
+	{
+		"lfst": "carbohydrates"
+	},
+	{
+		"lfst": "sodium"
+	},
+	{
+		"lfst": "potassium"
+	},
+	{
+		"lfst": "thiamin"
+	},
+	{
+		"lfst": "riboflavin"
+	},
+	{
+		"lfst": "niacin"
+	},
+	{
+		"lfst": "saturated fats"
+	},
+	{
+		"lfst": "oleic acid"
+	},
+	{
+		"lfst": "linoleic acid"
+	},
+	{
+		"lfst": "cholesterol"
+	},
+	{
+		"lfst": "animal protein"
+	},
+	{
+		"lfst": "vegetable protein"
+	},
+	{
+		"lfst": "vegetable fat"
+	},
+	{
+		"lfst": "a-tocopherol"
+	},
+	{
+		"lfst": "fungicide:benomyl"
+	},
+	{
+		"lfst": "fungicide:captan"
+	},
+	{
+		"lfst": "fungicide:captanþlindane"
+	},
+	{
+		"lfst": "fungicide:carbathiinþthiram"
+	},
+	{
+		"lfst": "fungicide:carbathiinþthiramþlindane"
+	},
+	{
+		"lfst": "fungicide:chloranil"
+	},
+	{
+		"lfst": "fungicide:chlorothalonil"
+	},
+	{
+		"lfst": "fungicide:copper oxychloride"
+	},
+	{
+		"lfst": "fungicide:copper sulfate"
+	},
+	{
+		"lfst": "fungicide:dichlone"
+	},
+	{
+		"lfst": "fungicide:dinocap"
+	},
+	{
+		"lfst": "fungicide:dodine"
+	},
+	{
+		"lfst": "fungicide:ferbam"
+	},
+	{
+		"lfst": "formaldehyde"
+	},
+	{
+		"lfst": "fungicide:iprodione"
+	},
+	{
+		"lfst": "fungicide:mancozeb"
+	},
+	{
+		"lfst": "fungicide:maneb"
+	},
+	{
+		"lfst": "fungicide:metam sodium"
+	},
+	{
+		"lfst": "fungicide:metiram"
+	},
+	{
+		"lfst": "fungicide:sulfur"
+	},
+	{
+		"lfst": "fungicide:thiophanate-methyl"
+	},
+	{
+		"lfst": "fungicide:thiram"
+	},
+	{
+		"lfst": "fungicide:zineb"
+	},
+	{
+		"lfst": "fungicide:ziram"
+	},
+	{
+		"lfst": "herbicide:24-d"
+	},
+	{
+		"lfst": "herbicide:2,4-db"
+	},
+	{
+		"lfst": "herbicide:alachlor"
+	},
+	{
+		"lfst": "herbicide:atrazine"
+	},
+	{
+		"lfst": "herbicide:bentazonþatrazine"
+	},
+	{
+		"lfst": "herbicide:bromoxynilþmcpa"
+	},
+	{
+		"lfst": "herbicide:butylateþcrop protectant"
+	},
+	{
+		"lfst": "herbicide:chloroxuron"
+	},
+	{
+		"lfst": "herbicide:chlorpropham"
+	},
+	{
+		"lfst": "herbicide:cyanazine"
+	},
+	{
+		"lfst": "herbicide:dicamba"
+	},
+	{
+		"lfst": "herbicide:dichlobenil"
+	},
+	{
+		"lfst": "herbicide:diclofop-methyl"
+	},
+	{
+		"lfst": "herbicide:difenzoquat"
+	},
+	{
+		"lfst": "herbicide:dinoseb amine"
+	},
+	{
+		"lfst": "herbicide:diquat"
+	},
+	{
+		"lfst": "herbicide:eptc"
+	},
+	{
+		"lfst": "herbicide:eptcþcrop protectant"
+	},
+	{
+		"lfst": "herbicide:glyphosate"
+	},
+	{
+		"lfst": "herbicide:linuron"
+	},
+	{
+		"lfst": "herbicide:maleic hydrazide"
+	},
+	{
+		"lfst": "herbicide:mcpa"
+	},
+	{
+		"lfst": "herbicide:metolachlor"
+	},
+	{
+		"lfst": "herbicide:paraquat"
+	},
+	{
+		"lfst": "herbicide:simazine"
+	},
+	{
+		"lfst": "herbicide:trifluralin"
+	},
+	{
+		"lfst": "insecticide:35-dinitro-o-cresol"
+	},
+	{
+		"lfst": "insecticide:aldrin"
+	},
+	{
+		"lfst": "insecticide:azinphos-methyl"
+	},
+	{
+		"lfst": "insecticide:bacillus thuringiensis"
+	},
+	{
+		"lfst": "insecticide:carbaryl"
+	},
+	{
+		"lfst": "insecticide:carbarylþnaa"
+	},
+	{
+		"lfst": "insecticide:carbofuran"
+	},
+	{
+		"lfst": "insecticide:chlordane"
+	},
+	{
+		"lfst": "insecticide:chlorpyrifos"
+	},
+	{
+		"lfst": "insecticide:cyhexatin"
+	},
+	{
+		"lfst": "insecticide:ddt"
+	},
+	{
+		"lfst": "insecticide:deltamethrin"
+	},
+	{
+		"lfst": "insecticide:diazinon"
+	},
+	{
+		"lfst": "insecticide:dichlorvos"
+	},
+	{
+		"lfst": "insecticide:dieldrin"
+	},
+	{
+		"lfst": "insecticide:dimethoate"
+	},
+	{
+		"lfst": "insecticide:disulfoton"
+	},
+	{
+		"lfst": "insecticide:endosulfan"
+	},
+	{
+		"lfst": "insecticide:ethion"
+	},
+	{
+		"lfst": "insecticide:fenthion"
+	},
+	{
+		"lfst": "insecticide:fonophos"
+	},
+	{
+		"lfst": "insecticide:heptachlor"
+	},
+	{
+		"lfst": "insecticide:lindane"
+	},
+	{
+		"lfst": "insecticide:malathion"
+	},
+	{
+		"lfst": "insecticide:methamidophos"
+	},
+	{
+		"lfst": "insecticide:mevinphos"
+	},
+	{
+		"lfst": "insecticide:naled"
+	},
+	{
+		"lfst": "insecticide:parathion"
+	},
+	{
+		"lfst": "insecticide:permethrin"
+	},
+	{
+		"lfst": "insecticide:phosalone"
+	},
+	{
+		"lfst": "insecticide:pirimicarb"
+	},
+	{
+		"lfst": "insecticide:propargite"
+	},
+	{
+		"lfst": "insecticide:rotenoneþsulfur"
+	},
+	{
+		"lfst": "insecticide:sodium fluosilicate"
+	},
+	{
+		"lfst": "insecticide:tetradifon"
+	},
+	{
+		"lfst": "fertilizer:ammonia"
+	},
+	{
+		"lfst": "fertilizer:hydrogen sulfide"
+	},
+	{
+		"lfst": "fertilizer:methane"
+	},
+	{
+		"lfst": "fumigant:1,3-dichloropropene"
+	},
+	{
+		"lfst": "fumigant:1,2-dichloropropaneþ1,3-ichloropropene"
+	},
+	{
+		"lfst": "fumigant:dbcp"
+	},
+	{
+		"lfst": "fumigant:methyl isothiocyanate"
+	},
+	{
+		"lfst": "fumigant:plant growth regulator"
+	},
+	{
+		"lfst": "fumigant:daminozide"
+	},
+	{
+		"lfst": "fumigant:ethephon"
+	},
+	{
+		"lfst": "fumigant:gibberellic acid"
+	},
+	{
+		"lfst": "fumigant:naa"
+	},
+	{
+		"lfst": "dicofol"
+	},
+	{
+		"lfst": "mercury"
+	},
+	{
+		"lfst": "metaldehyde"
+	},
+	{
+		"lfst": "fungicide:formaldehyde"
+	},
+	{
+		"lfst": "fungicide:thiopanate-methyl"
+	},
+	{
+		"lfst": "herbicide:24-db"
+	},
+	{
+		"lfst": "herbicide:trifuralin"
+	},
+	{
+		"lfst": "insecticide:35-dinitro-cresol"
+	},
+	{
+		"lfst": "insecticide:bacillus thurigensis"
+	},
+	{
+		"lfst": "insecticide:rotenone-sulfur"
+	},
+	{
+		"lfst": "plant growth regulator:naa"
+	},
+	{
+		"lfst": "antihypertensive"
+	},
+	{
+		"lfst": "comorbidities"
+	},
+	{
+		"lfst": "farming"
+	},
+	{
+		"lfst": "personal history of smoke"
+	},
+	{
+		"lfst": "marital status"
+	},
+	{
+		"lfst": "residence"
+	},
+	{
+		"lfst": "quadrant"
+	},
+	{
+		"lfst": "house hold income adequacy"
+	},
+	{
+		"lfst": "history of cardiovascular disease"
+	},
+	{
+		"lfst": "radiation"
+	},
+	{
+		"lfst": "water source"
+	},
+	{
+		"lfst": "met-h/wk in 1992"
+	},
+	{
+		"lfst": "met-h/wk at age40"
+	},
+	{
+		"lfst": "exercise in 1982"
+	},
+	{
+		"lfst": "exercise at baseline"
+	},
+	{
+		"lfst": "activity during adolescence"
+	},
+	{
+		"lfst": "age at diagnosis <65+exercise at baseline"
+	},
+	{
+		"lfst": "age at diagnosis <65+activity during adolescence"
+	},
+	{
+		"lfst": "age at diagnosis >=65+exercise at baseline"
+	},
+	{
+		"lfst": "age at diagnosis >=65+activity during adolescence"
+	},
+	{
+		"lfst": "psa test in the past 3 y+exercise at baseline"
+	},
+	{
+		"lfst": "psa test in the past 3 y+activity during adolescence"
+	},
+	{
+		"lfst": "no psa test in the past 3 y+exercise at baseline"
+	},
+	{
+		"lfst": "no psa test in the past 3 y+activity during adolescence"
+	},
+	{
+		"lfst": "total glucosinolate intake"
+	},
+	{
+		"lfst": "aliphatic glucosinolate intake"
+	},
+	{
+		"lfst": "indole glucosinolate intake"
+	},
+	{
+		"lfst": "anticoagulants"
+	},
+	{
+		"lfst": "duration of us of anticoagulants"
+	},
+	{
+		"lfst": "time since first of anticoagulants"
+	},
+	{
+		"lfst": "current of anticoagulants"
+	},
+	{
+		"lfst": "age at first of anticoagulants"
+	},
+	{
+		"lfst": "indication of anticoagulants"
+	},
+	{
+		"lfst": "frequency of vigorous exercise"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+age<70"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+age>=70"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+body mass index<25"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+body mass index>=25"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+ever smoke"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+never smoke"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+regular alcohol"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+rarely alcohol"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+ever of multivitamins"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+never of multivitamins"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+diabetes"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+no diabetes"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+hypertension"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+no hypertension"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+history of high cholesterol"
+	},
+	{
+		"lfst": "frequency of vigorous exercise+no history of high cholesterol"
+	},
+	{
+		"lfst": "total preserved food"
+	},
+	{
+		"lfst": "pickled vegetable"
+	},
+	{
+		"lfst": "fermented soy products"
+	},
+	{
+		"lfst": "salted fish"
+	},
+	{
+		"lfst": "preserved meat"
+	},
+	{
+		"lfst": "frequency of physical activity+age"
+	},
+	{
+		"lfst": "frequency of physical activity+lifetime activity"
+	},
+	{
+		"lfst": "met-h of physical activity/week+age19-30 yr"
+	},
+	{
+		"lfst": "frequency of vigorous physical activityat ages 19-29+age,yr at baseline < 65"
+	},
+	{
+		"lfst": "frequency of vigorous physical activityat ages 19-29+body mass indexat baseline < 25"
+	},
+	{
+		"lfst": "frequency of physical activity+age+body mass index"
+	},
+	{
+		"lfst": "frequency of vigorous physical activityat ages 19-29+body mass indexat baseline >= 25"
+	},
+	{
+		"lfst": "frequency of physical activity+race:white"
+	},
+	{
+		"lfst": "frequency of physical activity+race:black"
+	},
+	{
+		"lfst": "ever had a job with sedentary or light work"
+	},
+	{
+		"lfst": "nunmber of yr in job with sedentary or light work"
+	},
+	{
+		"lfst": "proportion of job with sedentary/ light work"
+	},
+	{
+		"lfst": "proportion of job with moderate/heavy/very heavy work"
+	},
+	{
+		"lfst": "level of physical activity+job"
+	},
+	{
+		"lfst": "lean fishintake"
+	},
+	{
+		"lfst": "fatty fishintake"
+	},
+	{
+		"lfst": "omega-6 pufas:linoleic acid,la"
+	},
+	{
+		"lfst": "omega-6 pufas:linoleic acid,la+smoke"
+	},
+	{
+		"lfst": "omega-6 ufas:arachidonic acid,aa+age"
+	},
+	{
+		"lfst": "omega-6ufas:arachidonic acid,aa+age"
+	},
+	{
+		"lfst": "omega-6 ufas:arachidonic acid,aa"
+	},
+	{
+		"lfst": "omega-6 ufas:arachidonic acid,aa+smoke"
+	},
+	{
+		"lfst": "omega-6ufas:arachidonic acid,aa+smoke"
+	},
+	{
+		"lfst": "omega-3 pufas:a-linolenic acid,ala"
+	},
+	{
+		"lfst": "omega-3 pufas:a-linolenic acid,ala+smoke"
+	},
+	{
+		"lfst": "omega-3 pufas:a-linolenic acid,ala+age"
+	},
+	{
+		"lfst": "omega-3 pufas: eicosapentaenoic acid,epa"
+	},
+	{
+		"lfst": "omega-3 pufas: eicosapentaenoic acid,epa+smoke"
+	},
+	{
+		"lfst": "omega-3 pufas: eicosapentaenoic acid,epa+age"
+	},
+	{
+		"lfst": "omega-3 pufas: docosapentaenoic acid ,dpa"
+	},
+	{
+		"lfst": "omega-3 pufas: docosahexaenoic acid ,dha+smoke"
+	},
+	{
+		"lfst": "red meat"
+	},
+	{
+		"lfst": "white meat"
+	},
+	{
+		"lfst": "poultry"
+	},
+	{
+		"lfst": "liver"
+	},
+	{
+		"lfst": "low body mass index+total meat"
+	},
+	{
+		"lfst": "low body mass index+red meat"
+	},
+	{
+		"lfst": "low body mass index+processed meat"
+	},
+	{
+		"lfst": "low body mass index+total white meat"
+	},
+	{
+		"lfst": "low body mass index+poultry"
+	},
+	{
+		"lfst": "low body mass index+fish"
+	},
+	{
+		"lfst": "low body mass index+liver"
+	},
+	{
+		"lfst": "high body mass index+total meat"
+	},
+	{
+		"lfst": "high body mass index+red meat"
+	},
+	{
+		"lfst": "high body mass index+processed meat"
+	},
+	{
+		"lfst": "high body mass index+total white meat"
+	},
+	{
+		"lfst": "high body mass index+poultry"
+	},
+	{
+		"lfst": "high body mass index+fish"
+	},
+	{
+		"lfst": "high body mass index+liver"
+	},
+	{
+		"lfst": "polyunsaturated fat"
+	},
+	{
+		"lfst": "a-linolenic acid"
+	},
+	{
+		"lfst": "iron"
+	},
+	{
+		"lfst": "ndma"
+	},
+	{
+		"lfst": "low body mass index+animal protein"
+	},
+	{
+		"lfst": "low body mass index+saturated fat"
+	},
+	{
+		"lfst": "low body mass index+monounsaturated fat"
+	},
+	{
+		"lfst": "low body mass index+polyunsaturated fat"
+	},
+	{
+		"lfst": "low body mass index+linoleic acid"
+	},
+	{
+		"lfst": "low body mass index+a-linolenic acid"
+	},
+	{
+		"lfst": "low body mass index+cholesterol"
+	},
+	{
+		"lfst": "low body mass index+iron"
+	},
+	{
+		"lfst": "low body mass index+phosphorus"
+	},
+	{
+		"lfst": "lowbody mass index+vitamin b12"
+	},
+	{
+		"lfst": "lowbody mass index+ndma"
+	},
+	{
+		"lfst": "high body mass index+animal protein"
+	},
+	{
+		"lfst": "high body mass index+saturated fat"
+	},
+	{
+		"lfst": "high body mass index+monounsaturated fat"
+	},
+	{
+		"lfst": "high body mass index+polyunsaturated fat"
+	},
+	{
+		"lfst": "high body mass index+linoleic acid"
+	},
+	{
+		"lfst": "high body mass index+a-linolenic acid"
+	},
+	{
+		"lfst": "high body mass index+cholesterol"
+	},
+	{
+		"lfst": "high body mass index+iron"
+	},
+	{
+		"lfst": "high body mass index+phosphorus"
+	},
+	{
+		"lfst": "highbody mass index+vitamin b12"
+	},
+	{
+		"lfst": "highbody mass index+ndma"
+	},
+	{
+		"lfst": "total genistein"
+	},
+	{
+		"lfst": "total fiber"
+	},
+	{
+		"lfst": "birth weight"
+	},
+	{
+		"lfst": "birth length"
+	},
+	{
+		"lfst": "head circumference"
+	},
+	{
+		"lfst": "ponderal index"
+	},
+	{
+		"lfst": "placental weight"
+	},
+	{
+		"lfst": "fish consumption+age"
+	},
+	{
+		"lfst": "hamburger"
+	},
+	{
+		"lfst": "steak"
+	},
+	{
+		"lfst": "bacon"
+	},
+	{
+		"lfst": "sausage"
+	},
+	{
+		"lfst": "home made gravy"
+	},
+	{
+		"lfst": "grilled red meat"
+	},
+	{
+		"lfst": "oven broiled red meat"
+	},
+	{
+		"lfst": "pan-fried red meat"
+	},
+	{
+		"lfst": "baked red meat"
+	},
+	{
+		"lfst": "high temperature-cookedc red meat"
+	},
+	{
+		"lfst": "well-done red meat"
+	},
+	{
+		"lfst": "high temperature-cookedc hamburger"
+	},
+	{
+		"lfst": "well-done hamburger"
+	},
+	{
+		"lfst": "high temperature-cookedc steak"
+	},
+	{
+		"lfst": "well-done steak"
+	},
+	{
+		"lfst": "grilled poultry"
+	},
+	{
+		"lfst": "oven broiled poultr"
+	},
+	{
+		"lfst": "pan-fried poultry"
+	},
+	{
+		"lfst": "baked poultry"
+	},
+	{
+		"lfst": "high temperature-cookedc poultry"
+	},
+	{
+		"lfst": "well-done poultry"
+	},
+	{
+		"lfst": "phip"
+	},
+	{
+		"lfst": "melqx"
+	},
+	{
+		"lfst": "dimelqx"
+	},
+	{
+		"lfst": "bap"
+	},
+	{
+		"lfst": "mutagenic activity,number of revertant colonies"
+	},
+	{
+		"lfst": "mutagenic activity,number of predicted revertant colonies"
+	},
+	{
+		"lfst": "marginal effect of rs20417+g/g genotype"
+	},
+	{
+		"lfst": "mutagenic activity,number of revertant colonies+g/g genotype"
+	},
+	{
+		"lfst": "mutagenic activity,number of predicted revertant colonies+g/g genotype"
+	},
+	{
+		"lfst": "meiqx+g/g genotype"
+	},
+	{
+		"lfst": "marginal effect of rs20417+g/c genotype"
+	},
+	{
+		"lfst": "mutagenic activity,number of revertant colonies+g/c genotype"
+	},
+	{
+		"lfst": "mutagenic activity,number of predicted revertant colonies+g/c genotype"
+	},
+	{
+		"lfst": "meiqx+g/c genotype"
+	},
+	{
+		"lfst": "marginal effect of rs20417+c/c genotype"
+	},
+	{
+		"lfst": "mutagenic activity,number of revertant colonies+c/c genotype"
+	},
+	{
+		"lfst": "mutagenic activity,number of predicted revertant colonies+c/c genotype"
+	},
+	{
+		"lfst": "meiqx+c/c genotype"
+	},
+	{
+		"lfst": "tuna"
+	},
+	{
+		"lfst": "deep-fried fish"
+	},
+	{
+		"lfst": "dark fish"
+	},
+	{
+		"lfst": "white fish"
+	},
+	{
+		"lfst": "dark fishintake other methods+co/ca"
+	},
+	{
+		"lfst": "dark fishintake baked+co/ca"
+	},
+	{
+		"lfst": "dark fishintake oven-broiled+co/ca"
+	},
+	{
+		"lfst": "dark fishintake grilled+co/ca"
+	},
+	{
+		"lfst": "dark fishintake pan-fried+co/ca"
+	},
+	{
+		"lfst": "white fishintake other methods+co/ca"
+	},
+	{
+		"lfst": "white fishintake baked+co/ca"
+	},
+	{
+		"lfst": "white fishintake oven-broiled+co/ca"
+	},
+	{
+		"lfst": "white fishintake grilled+co/ca"
+	},
+	{
+		"lfst": "white fishintake pan-fried+co/ca"
+	},
+	{
+		"lfst": "dark fishintake just until done"
+	},
+	{
+		"lfst": "dark fishintake well done/very well done"
+	},
+	{
+		"lfst": "white fishintake just until done"
+	},
+	{
+		"lfst": "well done/very well done"
+	},
+	{
+		"lfst": "dark fishintake just until done and low temperature"
+	},
+	{
+		"lfst": "dark fishintake well done and low temperature"
+	},
+	{
+		"lfst": "dark fishintake just until done and high temperature"
+	},
+	{
+		"lfst": "dark fishintake well done and high temperature"
+	},
+	{
+		"lfst": "white fishintake just until done and low temperature"
+	},
+	{
+		"lfst": "white fishintake well done and low temperature"
+	},
+	{
+		"lfst": "white fishintake just until done and high temperature"
+	},
+	{
+		"lfst": "white fishintake well done and high temperature"
+	},
+	{
+		"lfst": "miso soup"
+	},
+	{
+		"lfst": "soy food"
+	},
+	{
+		"lfst": "genistein+>60 y"
+	},
+	{
+		"lfst": "daidzein+>60 y"
+	},
+	{
+		"lfst": "miso soup+>60 y"
+	},
+	{
+		"lfst": "soy food+>60 y"
+	},
+	{
+		"lfst": "genistein+<=60 y"
+	},
+	{
+		"lfst": "daidzein+<=60 y"
+	},
+	{
+		"lfst": "miso soup+<=60 y"
+	},
+	{
+		"lfst": "soy food+<=60 y"
+	},
+	{
+		"lfst": "soy food+<=61 y"
+	},
+	{
+		"lfst": "pork"
+	},
+	{
+		"lfst": "ham/lunch meat"
+	},
+	{
+		"lfst": "hot dogs"
+	},
+	{
+		"lfst": "total processed+unprocessed red meat+blacks"
+	},
+	{
+		"lfst": "unprocessed red meat+blacks"
+	},
+	{
+		"lfst": "processed meat+blacks"
+	},
+	{
+		"lfst": "cooked processed meat+blacks"
+	},
+	{
+		"lfst": "lunchmeat+blacks"
+	},
+	{
+		"lfst": "poultry+blacks"
+	},
+	{
+		"lfst": "total processed+unprocessed red meat+whites"
+	},
+	{
+		"lfst": "unprocessed red meat+whites"
+	},
+	{
+		"lfst": "processed meat+whites"
+	},
+	{
+		"lfst": "cooked processed meat+whites"
+	},
+	{
+		"lfst": "lunchmeat+whites"
+	},
+	{
+		"lfst": "poultry+whites"
+	},
+	{
+		"lfst": "pizza"
+	},
+	{
+		"lfst": "barbecued meat"
+	},
+	{
+		"lfst": "pan-fried meat"
+	},
+	{
+		"lfst": "very well done meat"
+	},
+	{
+		"lfst": "dimeiqx"
+	},
+	{
+		"lfst": "meiqx"
+	},
+	{
+		"lfst": "mutagenic activity"
+	},
+	{
+		"lfst": "total englyst fiber"
+	},
+	{
+		"lfst": "soluble ncp"
+	},
+	{
+		"lfst": "total insoluble fiber"
+	},
+	{
+		"lfst": "cellulose"
+	},
+	{
+		"lfst": "insoluble ncp"
+	},
+	{
+		"lfst": "lignin"
+	},
+	{
+		"lfst": "vegetable fiber"
+	},
+	{
+		"lfst": "fruits fiber"
+	},
+	{
+		"lfst": "grain fiber"
+	},
+	{
+		"lfst": "combined soy foods"
+	},
+	{
+		"lfst": "socioeconomic status"
+	},
+	{
+		"lfst": "parity"
+	},
+	{
+		"lfst": "pre-eclampsia or eclampsia"
+	},
+	{
+		"lfst": "gestational age"
+	},
+	{
+		"lfst": "smokehistory"
+	},
+	{
+		"lfst": "cereal fiber"
+	},
+	{
+		"lfst": "legume fiber"
+	},
+	{
+		"lfst": "leisure physical activity"
+	},
+	{
+		"lfst": "physical activity"
+	},
+	{
+		"lfst": "wine"
+	},
+	{
+		"lfst": "liquor"
+	},
+	{
+		"lfst": "beer"
+	},
+	{
+		"lfst": "pack-yr of smoke"
+	},
+	{
+		"lfst": "pipe/cigar"
+	},
+	{
+		"lfst": "age at first intercourse"
+	},
+	{
+		"lfst": "no. of children"
+	},
+	{
+		"lfst": "total protein"
+	},
+	{
+		"lfst": "carotenes"
+	},
+	{
+		"lfst": "monosaturated fat"
+	},
+	{
+		"lfst": "total omega-6 fat"
+	},
+	{
+		"lfst": "father's side of family"
+	},
+	{
+		"lfst": "mother's side of family"
+	},
+	{
+		"lfst": "tomato sauce"
+	},
+	{
+		"lfst": "southern european ancestry+tomato sauce intake"
+	},
+	{
+		"lfst": "other caucasian ancestry+tomato sauce intake"
+	},
+	{
+		"lfst": "tea consumotion"
+	},
+	{
+		"lfst": "carbonated beverages"
+	},
+	{
+		"lfst": "allium food group"
+	},
+	{
+		"lfst": "garlic"
+	},
+	{
+		"lfst": "scallions"
+	},
+	{
+		"lfst": "chinese chives"
+	},
+	{
+		"lfst": "leeks"
+	},
+	{
+		"lfst": "onion"
+	},
+	{
+		"lfst": "zeaxanthin"
+	},
+	{
+		"lfst": "alpha-tocopherol"
+	},
+	{
+		"lfst": "gamma-tocopherol"
+	},
+	{
+		"lfst": "retinyl palmitate"
+	},
+	{
+		"lfst": "smoke duration"
+	},
+	{
+		"lfst": "cigarettes/day"
+	},
+	{
+		"lfst": "smoking cessation duration"
+	},
+	{
+		"lfst": "vitamin e in 1992"
+	},
+	{
+		"lfst": "long-term vitamin e"
+	},
+	{
+		"lfst": "vitamin e+never smokers"
+	},
+	{
+		"lfst": "long-term vitamin e+never smokers"
+	},
+	{
+		"lfst": "vitamin e+never smokers+current smokers"
+	},
+	{
+		"lfst": "long-term vitamin e+current smokers"
+	},
+	{
+		"lfst": "vitamin e+current smokers"
+	},
+	{
+		"lfst": "vitamin e+former smoke"
+	},
+	{
+		"lfst": "long-term vitamin e+former smoke"
+	},
+	{
+		"lfst": "watermelon"
+	},
+	{
+		"lfst": "pumpkin"
+	},
+	{
+		"lfst": "citrus"
+	},
+	{
+		"lfst": "spinach"
+	},
+	{
+		"lfst": "no. sexual partners"
+	},
+	{
+		"lfst": "frequency of sexual intercourse"
+	},
+	{
+		"lfst": "gonorrhea"
+	},
+	{
+		"lfst": "no. gonorrhea episodes"
+	},
+	{
+		"lfst": "syphilis"
+	},
+	{
+		"lfst": "herpes"
+	},
+	{
+		"lfst": "other std"
+	},
+	{
+		"lfst": "partner history of cervical cancer"
+	},
+	{
+		"lfst": "prostatitis"
+	},
+	{
+		"lfst": "lifetime no. stds"
+	},
+	{
+		"lfst": "vegetable w/o legumes"
+	},
+	{
+		"lfst": "cauliflower"
+	},
+	{
+		"lfst": "cabbage"
+	},
+	{
+		"lfst": "dark green vegetable"
+	},
+	{
+		"lfst": "broccoli"
+	},
+	{
+		"lfst": "dark leafy greens"
+	},
+	{
+		"lfst": "dark green lettuce"
+	},
+	{
+		"lfst": "light green vegetable"
+	},
+	{
+		"lfst": "light green lettuce"
+	},
+	{
+		"lfst": "all fruits and juices"
+	},
+	{
+		"lfst": "fruits juice alone"
+	},
+	{
+		"lfst": "yellow or orange fruits"
+	},
+	{
+		"lfst": "oranges"
+	},
+	{
+		"lfst": "orange/grape fruits juice"
+	},
+	{
+		"lfst": "papaya"
+	},
+	{
+		"lfst": "lycopene-containing foods/all"
+	},
+	{
+		"lfst": "lycopene-containing foods/raw"
+	},
+	{
+		"lfst": "tomatoes/cooked"
+	},
+	{
+		"lfst": "tomatoes/raw"
+	},
+	{
+		"lfst": "tomato/v-8 juice"
+	},
+	{
+		"lfst": "tomato or vegetable soup"
+	},
+	{
+		"lfst": "spaghetti, ravioli and lasagna"
+	},
+	{
+		"lfst": "mexican/spanish rice"
+	},
+	{
+		"lfst": "luteind"
+	},
+	{
+		"lfst": "111: officials and administrators unique to government"
+	},
+	{
+		"lfst": "1116: inspectors and regulatory officers, government"
+	},
+	{
+		"lfst": "1130126: general manager, finance,bank.+finance"
+	},
+	{
+		"lfst": "1143: production management occupations"
+	},
+	{
+		"lfst": "1171162: auditor,prof.+tech., n.e.c."
+	},
+	{
+		"lfst": "1179299: other occupations related to management and administration"
+	},
+	{
+		"lfst": "21: occupations in natural sciences, engineering and mathematics"
+	},
+	{
+		"lfst": "2144: electrical engineers"
+	},
+	{
+		"lfst": "2144110: design and development engineer, electrical and electronic,prof.+tech., n.e.c."
+	},
+	{
+		"lfst": "23: occupations in social sciences and related fields"
+	},
+	{
+		"lfst": "2391118: counsellor, educational,educ."
+	},
+	{
+		"lfst": "271: university teaching and related occupations"
+	},
+	{
+		"lfst": "315: other occupations in medicine and health"
+	},
+	{
+		"lfst": "335: occupations in writing"
+	},
+	{
+		"lfst": "4171: receptionists and information clerks"
+	},
+	{
+		"lfst": "4197: general office clerks"
+	},
+	{
+		"lfst": "513/514: sales occupations, commodities"
+	},
+	{
+		"lfst": "5135182: salesperson, footwear,ret. trade"
+	},
+	{
+		"lfst": "5137: sales clerks, commodities"
+	},
+	{
+		"lfst": "5137111: supermarket clerk,ret. trade"
+	},
+	{
+		"lfst": "5145: service station attendants"
+	},
+	{
+		"lfst": "5199158: telephone solicitor,any ind."
+	},
+	{
+		"lfst": "6112: police officers and detectives, government"
+	},
+	{
+		"lfst": "6112146: detective,gov. serv."
+	},
+	{
+		"lfst": "6112158: police officer,gov. serv."
+	},
+	{
+		"lfst": "6117190: infantry soldier,military"
+	},
+	{
+		"lfst": "612: food and beveragepreparation and related service occupations"
+	},
+	{
+		"lfst": "6121130: short-order cook,cater.+lodg."
+	},
+	{
+		"lfst": "613: occupations in lodging and other accommodation"
+	},
+	{
+		"lfst": "6145: travel and related attendants, except food and beverage"
+	},
+	{
+		"lfst": "619: other service occupations"
+	},
+	{
+		"lfst": "6191126: hospital cleaner,misc. serv."
+	},
+	{
+		"lfst": "6198: occupations in labouring and other elemental work, services"
+	},
+	{
+		"lfst": "71: farming. horticultural and animal-husbandry occupations"
+	},
+	{
+		"lfst": "711: farmers"
+	},
+	{
+		"lfst": "7111: general farmers"
+	},
+	{
+		"lfst": "7111110: farmer, general,agric."
+	},
+	{
+		"lfst": "7183: field crop and vegetable-growing workers"
+	},
+	{
+		"lfst": "7183122: farm worker, vegetable,agric."
+	},
+	{
+		"lfst": "75: forestry and logging occupations"
+	},
+	{
+		"lfst": "751: forestry and logging occupations"
+	},
+	{
+		"lfst": "7513: timber cutting and related occupations"
+	},
+	{
+		"lfst": "7513122: logger, all-round,forest.+log."
+	},
+	{
+		"lfst": "8161: mixing and blending occupations, chemicals and related materials"
+	},
+	{
+		"lfst": "8161218: mixer,chem., n.e.c. paint+varn."
+	},
+	{
+		"lfst": "8529: other fabricating and assembling occupations, metal products, n.e.c."
+	},
+	{
+		"lfst": "858: mechanics and repairmen, n.e.c."
+	},
+	{
+		"lfst": "8581118: industrial-truck mechanic,mech. equip., n.e.c."
+	},
+	{
+		"lfst": "8582: aircraft mechanics and repairmen"
+	},
+	{
+		"lfst": "8595: painting and decorating occupations, except construction"
+	},
+	{
+		"lfst": "873: electrical power, lighting and wire communications equipment erecting, installing and repairing occupations"
+	},
+	{
+		"lfst": "8739: electrical power, lighting and wire communications equipment erecting, installing and repairing occupations, n.e.c."
+	},
+	{
+		"lfst": "8784: plasterers and related occupations"
+	},
+	{
+		"lfst": "8791: pipefitting, plumbing and related occupations, n.e.c."
+	},
+	{
+		"lfst": "8799: other construction trades occupations, n.e.c."
+	},
+	{
+		"lfst": "911: air transport operating operations"
+	},
+	{
+		"lfst": "915: water transport operating occupations"
+	},
+	{
+		"lfst": "9173: taxi drivers and chauffeurs"
+	},
+	{
+		"lfst": "9175129: solid waste collection truck driver,motor trans."
+	},
+	{
+		"lfst": "9179118: dispatcher, motor vehicles,motor trans."
+	},
+	{
+		"lfst": "9918: occupations in labouring and other elemental work, n.e.c."
+	},
+	{
+		"lfst": "9918110: labourer, municipal,gov. serv."
+	},
+	{
+		"lfst": "1135122: credit manager,prof.+tech., n.e.c."
+	},
+	{
+		"lfst": "1137: sales and advertising management occupations"
+	},
+	{
+		"lfst": "1137118: manager, sales,prof.+tech., n.e.c."
+	},
+	{
+		"lfst": "2163: draughtsmen"
+	},
+	{
+		"lfst": "2349: occupations in law and jurisprudence, n.e.c."
+	},
+	{
+		"lfst": "2711199: other university teachers"
+	},
+	{
+		"lfst": "279: other teaching and related occupations"
+	},
+	{
+		"lfst": "4131134: accounting clerk,clerical"
+	},
+	{
+		"lfst": "4131142: bookkeeping clerk,clerical"
+	},
+	{
+		"lfst": "4133110: teller,bank.+finance"
+	},
+	{
+		"lfst": "5133114: pharmaceutical representative,whole. trade"
+	},
+	{
+		"lfst": "5135178: salesperson, wearing apparel,ret. trade whole. trade"
+	},
+	{
+		"lfst": "5145110: service-station attendant,motor vehicle ret. trade"
+	},
+	{
+		"lfst": "5172: real estate salesmen"
+	},
+	{
+		"lfst": "5172118: salesperson, real estate,insur.+real estate"
+	},
+	{
+		"lfst": "8131: metal smelting, converting and refining furnacemen"
+	},
+	{
+		"lfst": "821/822: food, beverageand related processing occupations"
+	},
+	{
+		"lfst": "825: pulp and papermaking and related occupations"
+	},
+	{
+		"lfst": "826/827: textile processing occupations"
+	},
+	{
+		"lfst": "8278: occupations in labouring and other elemental work, textile processing"
+	},
+	{
+		"lfst": "8551: patternmaking, marking and cutting occupations"
+	},
+	{
+		"lfst": "9171: bus drivers"
+	},
+	{
+		"lfst": "9171110: bus driver,motor trans."
+	},
+	{
+		"lfst": "9310: foremen/women, material handling and related occupations, n.e.c."
+	},
+	{
+		"lfst": "955: electronic and related communications equipment operating occupations, n.e.c."
+	},
+	{
+		"lfst": "01: agricultural industries"
+	},
+	{
+		"lfst": "0119: livestock combination farms"
+	},
+	{
+		"lfst": "04: logging industry"
+	},
+	{
+		"lfst": "041: logging industry"
+	},
+	{
+		"lfst": "103: fruits and vegetable industries"
+	},
+	{
+		"lfst": "1031: canned and preserved fruits and vegetable industry"
+	},
+	{
+		"lfst": "2619: other ho hold furniture industries"
+	},
+	{
+		"lfst": "27: paper and allied products industries"
+	},
+	{
+		"lfst": "2711: pulp industry"
+	},
+	{
+		"lfst": "3039: other ornamental and architectural metal products industries"
+	},
+	{
+		"lfst": "3199: other machinery and equipment industries n.e.c."
+	},
+	{
+		"lfst": "32: transportation equipment industries"
+	},
+	{
+		"lfst": "321: aircraft and aircraft parts industry"
+	},
+	{
+		"lfst": "3211: aircraft and aircraft parts industry"
+	},
+	{
+		"lfst": "354: concrete products industries"
+	},
+	{
+		"lfst": "356: glass and glass products industries"
+	},
+	{
+		"lfst": "3561: primary glass and glass containers industry"
+	},
+	{
+		"lfst": "424: plumbing, heating and air conditioning, mechanical work"
+	},
+	{
+		"lfst": "427: interior and finishing work"
+	},
+	{
+		"lfst": "451: air transport industries"
+	},
+	{
+		"lfst": "4511: scheduled air transport industry"
+	},
+	{
+		"lfst": "454: water transport industries"
+	},
+	{
+		"lfst": "4541: freight and passenger water transport industry"
+	},
+	{
+		"lfst": "4571: urban transit systems industry"
+	},
+	{
+		"lfst": "5512: trucks and b s, wholesale"
+	},
+	{
+		"lfst": "561: metal and metal products, wholesale"
+	},
+	{
+		"lfst": "599: other products n.e.c., wholesale"
+	},
+	{
+		"lfst": "5999: other products n.e.c., wholesale"
+	},
+	{
+		"lfst": "611: shoe stores"
+	},
+	{
+		"lfst": "6111: shoe stores"
+	},
+	{
+		"lfst": "70: deposit accepting intermediary industries"
+	},
+	{
+		"lfst": "702: chartered banks and other banking-type intermediaries"
+	},
+	{
+		"lfst": "7021: chartered banks"
+	},
+	{
+		"lfst": "72: investment intermediary industries"
+	},
+	{
+		"lfst": "8153: taxation administration, federal"
+	},
+	{
+		"lfst": "82: provincial and territorial government service industries"
+	},
+	{
+		"lfst": "822: protective services,provincial"
+	},
+	{
+		"lfst": "8225: regulatory services, provincial"
+	},
+	{
+		"lfst": "825: general administrative services,provincial"
+	},
+	{
+		"lfst": "92: food and beverageservice industries"
+	},
+	{
+		"lfst": "921: food services"
+	},
+	{
+		"lfst": "9212: restaurants, unlicensed,including drive-ins"
+	},
+	{
+		"lfst": "984: labour organizations"
+	},
+	{
+		"lfst": "9841: labour organizations"
+	},
+	{
+		"lfst": "986: civic and fraternal organizations"
+	},
+	{
+		"lfst": "9861: civic and fraternal organizations"
+	},
+	{
+		"lfst": "0111: dairy farms"
+	},
+	{
+		"lfst": "016: horticultural specialties"
+	},
+	{
+		"lfst": "0412: contract logging industry"
+	},
+	{
+		"lfst": "104: dairy products industries"
+	},
+	{
+		"lfst": "25: wood industries"
+	},
+	{
+		"lfst": "291: primary steel industries"
+	},
+	{
+		"lfst": "2919: other primary steel industries"
+	},
+	{
+		"lfst": "3331: lighting fixture industry"
+	},
+	{
+		"lfst": "4123: hydroelectric power plants and related structures,except transmission lines"
+	},
+	{
+		"lfst": "4214: excavating and grading"
+	},
+	{
+		"lfst": "4241: plumbing"
+	},
+	{
+		"lfst": "456: truck transport industries"
+	},
+	{
+		"lfst": "492: gas distribution systems industry"
+	},
+	{
+		"lfst": "4921: gas distribution systems industry"
+	},
+	{
+		"lfst": "6212: ho hold furniture stores,without appliances and furnishings"
+	},
+	{
+		"lfst": "633: gasoline service stations"
+	},
+	{
+		"lfst": "6331: gasoline service stations"
+	},
+	{
+		"lfst": "729: other investment intermediaries"
+	},
+	{
+		"lfst": "7299: other investment intermediaries n.e.c."
+	},
+	{
+		"lfst": "81: federal government service industries"
+	},
+	{
+		"lfst": "8152: finance and economic administration, federal"
+	},
+	{
+		"lfst": "8164: recreation and culture administration, federal"
+	},
+	{
+		"lfst": "82: provincial and territorial government service industri"
+	},
+	{
+		"lfst": "8259: other general administrative services, provincial"
+	},
+	{
+		"lfst": "83: local government service industries"
+	},
+	{
+		"lfst": "8362: social service administration, municipal"
+	},
+	{
+		"lfst": "855: m ums and archives"
+	},
+	{
+		"lfst": "8551: m ums and archives"
+	},
+	{
+		"lfst": "864:non-institutional social services"
+	},
+	{
+		"lfst": "8642: child welfare services"
+	},
+	{
+		"lfst": "961: motion picture, audio and video production and distribution"
+	},
+	{
+		"lfst": "sprits"
+	},
+	{
+		"lfst": "alcohol intake"
+	},
+	{
+		"lfst": "pack"
+	},
+	{
+		"lfst": "teetotaller"
+	},
+	{
+		"lfst": "frequency of physical activity"
+	},
+	{
+		"lfst": "pulse"
+	},
+	{
+		"lfst": "systolic blood pressure"
+	},
+	{
+		"lfst": "blood glucose levels amongnon,diabetics"
+	},
+	{
+		"lfst": "educational attainment"
+	},
+	{
+		"lfst": "occupation"
+	},
+	{
+		"lfst": "total lifetime ethanol"
+	},
+	{
+		"lfst": "total lifetime ethanol,"
+	},
+	{
+		"lfst": "total lifetime ethanol from liquor"
+	},
+	{
+		"lfst": "total lifetime ethanol from wine and wine cooler"
+	},
+	{
+		"lfst": "ever abstained from drinking"
+	},
+	{
+		"lfst": "alcohol consumption"
+	},
+	{
+		"lfst": "drinks per drinking day"
+	},
+	{
+		"lfst": "animal linolenic acid"
+	},
+	{
+		"lfst": "vegetable linolenic acid"
+	},
+	{
+		"lfst": "vitamin d"
+	},
+	{
+		"lfst": "military service"
+	},
+	{
+		"lfst": "mufa-rich vegetable oil consumption"
+	},
+	{
+		"lfst": "high socioeconomic status+mufa-rich vegetable oil consumption"
+	},
+	{
+		"lfst": "middle socioeconomic status+mufa-rich vegetable oil consumption"
+	},
+	{
+		"lfst": "low socioeconomic status+mufa-rich vegetable oil consumption"
+	},
+	{
+		"lfst": "phytanic acid"
+	},
+	{
+		"lfst": "pristanic/phytanic acid ratio"
+	},
+	{
+		"lfst": "average lifetime alcohol"
+	},
+	{
+		"lfst": "barium meal"
+	},
+	{
+		"lfst": "barium enema"
+	},
+	{
+		"lfst": "ivp"
+	},
+	{
+		"lfst": "hip/pelvic x-ray"
+	},
+	{
+		"lfst": "upper leg x-ray"
+	},
+	{
+		"lfst": "sleep"
+	},
+	{
+		"lfst": "height+no family history"
+	},
+	{
+		"lfst": "body mass index+no family history"
+	},
+	{
+		"lfst": "physical activity+no family history"
+	},
+	{
+		"lfst": "alcohol+no family history"
+	},
+	{
+		"lfst": "serum a-tocopherol+no family history"
+	},
+	{
+		"lfst": "serum beta-carotene+no family history"
+	},
+	{
+		"lfst": "serum retinol+no family history"
+	},
+	{
+		"lfst": "a-tocopherol+no family history"
+	},
+	{
+		"lfst": "beta-carotene+no family history"
+	},
+	{
+		"lfst": "height+family history"
+	},
+	{
+		"lfst": "body mass index+family history"
+	},
+	{
+		"lfst": "physical activity+family history"
+	},
+	{
+		"lfst": "alcohol+family history"
+	},
+	{
+		"lfst": "serum a-tocopherol+family history"
+	},
+	{
+		"lfst": "serum beta-carotene+family history"
+	},
+	{
+		"lfst": "serum retinol+family history"
+	},
+	{
+		"lfst": "a-tocopherol+family history"
+	},
+	{
+		"lfst": "beta-carotene+family history"
+	},
+	{
+		"lfst": "total cholesterol"
+	},
+	{
+		"lfst": "high-density lipoproteins"
+	},
+	{
+		"lfst": "low-density lipoprotein"
+	},
+	{
+		"lfst": "triglycerides"
+	},
+	{
+		"lfst": "statin"
+	},
+	{
+		"lfst": "obese"
+	},
+	{
+		"lfst": "no. of agriculture areas"
+	},
+	{
+		"lfst": "no. of hazardous waste sites"
+	},
+	{
+		"lfst": "groundwater"
+	},
+	{
+		"lfst": "zinc"
+	},
+	{
+		"lfst": "25-hydroxyvitamin d3"
+	},
+	{
+		"lfst": "1α,252d3"
+	},
+	{
+		"lfst": "venereal disease"
+	},
+	{
+		"lfst": "sex with prostitutes"
+	},
+	{
+		"lfst": "no.of female sexual partners"
+	},
+	{
+		"lfst": "no. of marriages"
+	},
+	{
+		"lfst": "age at first marriage"
+	},
+	{
+		"lfst": "age at first birth"
+	},
+	{
+		"lfst": "five yr ago, usual experience of spontaneous erection"
+	},
+	{
+		"lfst": "age first shaved"
+	},
+	{
+		"lfst": "beard growth"
+	},
+	{
+		"lfst": "acne"
+	},
+	{
+		"lfst": "ever drank alcohol"
+	},
+	{
+		"lfst": "age at first alcohol"
+	},
+	{
+		"lfst": "lifetime duration of alcohol"
+	},
+	{
+		"lfst": "lifetime intake of alcohol"
+	},
+	{
+		"lfst": "ever had a period of heavy drinking"
+	},
+	{
+		"lfst": "non-drinker"
+	},
+	{
+		"lfst": "lifetime wine"
+	},
+	{
+		"lfst": "lifetime beer"
+	},
+	{
+		"lfst": "red wine"
+	},
+	{
+		"lfst": "white wine"
+	},
+	{
+		"lfst": "abstainers"
+	},
+	{
+		"lfst": "ex-drinkers"
+	},
+	{
+		"lfst": "current drinkers"
+	},
+	{
+		"lfst": "drinkers"
+	},
+	{
+		"lfst": "duration of drinking"
+	},
+	{
+		"lfst": "age at starting"
+	},
+	{
+		"lfst": "spirits"
+	},
+	{
+		"lfst": "chicken"
+	},
+	{
+		"lfst": "butter/cheese"
+	},
+	{
+		"lfst": "eggs"
+	},
+	{
+		"lfst": "total dairy products and eggs"
+	},
+	{
+		"lfst": "broiled fish"
+	},
+	{
+		"lfst": "fishd"
+	},
+	{
+		"lfst": "yellow/green vegetable"
+	},
+	{
+		"lfst": "pickled/salted vegetable"
+	},
+	{
+		"lfst": "seaweed"
+	},
+	{
+		"lfst": "total soya intake"
+	},
+	{
+		"lfst": "bread"
+	},
+	{
+		"lfst": "rice"
+	},
+	{
+		"lfst": "cake"
+	},
+	{
+		"lfst": "black tea"
+	},
+	{
+		"lfst": "plasma growth hormone"
+	},
+	{
+		"lfst": "height+age<57"
+	},
+	{
+		"lfst": "height+age>=57"
+	},
+	{
+		"lfst": "height+body mass index<25"
+	},
+	{
+		"lfst": "height+body mass index>=25"
+	},
+	{
+		"lfst": "height+cigarettes/d<20"
+	},
+	{
+		"lfst": "height+cigarettes/d>=20"
+	},
+	{
+		"lfst": "height+smoke duration <36"
+	},
+	{
+		"lfst": "height+smoke duration>=36"
+	},
+	{
+		"lfst": "height+no history of prostatomegaly"
+	},
+	{
+		"lfst": "height+history of prostatomegaly"
+	},
+	{
+		"lfst": "height+no diabetes"
+	},
+	{
+		"lfst": "height+diabetes"
+	},
+	{
+		"lfst": "height+inactive physical activity"
+	},
+	{
+		"lfst": "height+moderately active physical activity"
+	},
+	{
+		"lfst": "height+very active physical activity"
+	},
+	{
+		"lfst": "1 total offspring"
+	},
+	{
+		"lfst": "2 total offspring"
+	},
+	{
+		"lfst": ">= 3 total offspring"
+	},
+	{
+		"lfst": "total offspring"
+	},
+	{
+		"lfst": "male offspring"
+	},
+	{
+		"lfst": "female offspring"
+	},
+	{
+		"lfst": "frequency of drinks"
+	},
+	{
+		"lfst": "frequency of white wine drinks"
+	},
+	{
+		"lfst": "frequency of red wine"
+	},
+	{
+		"lfst": "frequency of liquor"
+	},
+	{
+		"lfst": "red beer"
+	},
+	{
+		"lfst": "frequency of red beer"
+	},
+	{
+		"lfst": "low vitamin c+serum selenium"
+	},
+	{
+		"lfst": "high vitamin c+serum selenium"
+	},
+	{
+		"lfst": "low vitamin e+serum selenium"
+	},
+	{
+		"lfst": "high vitamin e+serum selenium"
+	},
+	{
+		"lfst": "low beta-carotene+serum selenium"
+	},
+	{
+		"lfst": "high beta-carotene+serum selenium"
+	},
+	{
+		"lfst": "low lycopene+serum selenium"
+	},
+	{
+		"lfst": "high lycopene+serum selenium"
+	},
+	{
+		"lfst": "no multivitamin+serum selenium"
+	},
+	{
+		"lfst": "multivitamin+serum selenium"
+	},
+	{
+		"lfst": "none smoke+serum selenium"
+	},
+	{
+		"lfst": "smokers+serum selenium"
+	},
+	{
+		"lfst": "folic acid supplementation"
+	},
+	{
+		"lfst": "dietary folate"
+	},
+	{
+		"lfst": "plasma folate"
+	},
+	{
+		"lfst": "red blood cell folate"
+	},
+	{
+		"lfst": "frequency of multivitamins"
+	},
+	{
+		"lfst": "selenium+multivitamins"
+	},
+	{
+		"lfst": "noselenium+frequency of multivitamin"
+	},
+	{
+		"lfst": "vitamin e+frequency of multivitamins"
+	},
+	{
+		"lfst": "no vitamin e+frequency of multivitamin"
+	},
+	{
+		"lfst": "folate+frequency of multivitamin"
+	},
+	{
+		"lfst": "no folate+frequency of multivitamin"
+	},
+	{
+		"lfst": "vitamin e>= 800iu/day+frequency of multivitamin"
+	},
+	{
+		"lfst": "vitamin e400-799iu/day+frequency of multivitamin"
+	},
+	{
+		"lfst": "vitamin e400-799iu/day+frequency of multivitamins"
+	},
+	{
+		"lfst": "vitamin e200-399iu/day+frequency of multivitamins"
+	},
+	{
+		"lfst": "vitamin e100-199iu/day+frequency of multivitamins"
+	},
+	{
+		"lfst": "vitamin e<= 99iu/day+frequency of multivitamin"
+	},
+	{
+		"lfst": "multivitamins+positive family history"
+	},
+	{
+		"lfst": "multivitamins+no family history"
+	},
+	{
+		"lfst": "25-hydroxyvitamin d"
+	},
+	{
+		"lfst": "parathyroid hormone"
+	},
+	{
+		"lfst": "albumin-calcium"
+	},
+	{
+		"lfst": "dairy cadmium"
+	},
+	{
+		"lfst": "dairy cadmium+waist circumference<94 cm"
+	},
+	{
+		"lfst": "dairy cadmium+waist circumference>=94 cm"
+	},
+	{
+		"lfst": "dairy cadmium+never smoke"
+	},
+	{
+		"lfst": "dairy cadmium+ever smoke"
+	},
+	{
+		"lfst": "dairy calcium+waist circumference>=94 cm"
+	},
+	{
+		"lfst": "black tea <8 yr of follow-up"
+	},
+	{
+		"lfst": "black tea >=8 yr of follow-up"
+	},
+	{
+		"lfst": "current vs.non- of statin"
+	},
+	{
+		"lfst": "any method of contraception"
+	},
+	{
+		"lfst": "condoms"
+	},
+	{
+		"lfst": "bidi smoke"
+	},
+	{
+		"lfst": "cigaretteswith filter"
+	},
+	{
+		"lfst": "cigaretteswithout filter"
+	},
+	{
+		"lfst": "drinking habit"
+	},
+	{
+		"lfst": "mutton"
+	},
+	{
+		"lfst": "pulses"
+	},
+	{
+		"lfst": "orange"
+	},
+	{
+		"lfst": "melon"
+	},
+	{
+		"lfst": "sunflower oil"
+	},
+	{
+		"lfst": "other oil"
+	},
+	{
+		"lfst": "vitamins"
+	},
+	{
+		"lfst": "tomato"
+	},
+	{
+		"lfst": "total pufa"
+	},
+	{
+		"lfst": "total n-3 pufa"
+	},
+	{
+		"lfst": "ala"
+	},
+	{
+		"lfst": "epa"
+	},
+	{
+		"lfst": "dha"
+	},
+	{
+		"lfst": "total n-6 pufa"
+	},
+	{
+		"lfst": "aa"
+	},
+	{
+		"lfst": "la"
+	},
+	{
+		"lfst": "n-6/n-3 ratio"
+	},
+	{
+		"lfst": "total pufa in black"
+	},
+	{
+		"lfst": "total n-3 pufa in black"
+	},
+	{
+		"lfst": "ala in black"
+	},
+	{
+		"lfst": "epa in black"
+	},
+	{
+		"lfst": "dha in black"
+	},
+	{
+		"lfst": "total n-6 pufa in black"
+	},
+	{
+		"lfst": "aa in black"
+	},
+	{
+		"lfst": "la in black"
+	},
+	{
+		"lfst": "n-6/n-3 ratio in black"
+	},
+	{
+		"lfst": "total pufa in white"
+	},
+	{
+		"lfst": "total n-3 pufa in white"
+	},
+	{
+		"lfst": "ala in white"
+	},
+	{
+		"lfst": "epa in white"
+	},
+	{
+		"lfst": "dha in white"
+	},
+	{
+		"lfst": "total n-6 pufa in white"
+	},
+	{
+		"lfst": "aa in white"
+	},
+	{
+		"lfst": "la in white"
+	},
+	{
+		"lfst": "n-6/n-3 ratio in white"
+	},
+	{
+		"lfst": "work schedule"
+	},
+	{
+		"lfst": "serum retinol at baseline"
+	},
+	{
+		"lfst": "serum retinol in follow-up"
+	},
+	{
+		"lfst": "no regular,some decaf"
+	},
+	{
+		"lfst": "no decaf, some regular"
+	},
+	{
+		"lfst": "coenzyme q10"
+	},
+	{
+		"lfst": "fishoil"
+	},
+	{
+		"lfst": "garlic pills"
+	},
+	{
+		"lfst": "10-year average of garlic pills"
+	},
+	{
+		"lfst": "ginkgo biloba"
+	},
+	{
+		"lfst": "ginseng"
+	},
+	{
+		"lfst": "grapeseed"
+	},
+	{
+		"lfst": "glucosamine"
+	},
+	{
+		"lfst": "chondroitin"
+	},
+	{
+		"lfst": "saw palmetto"
+	},
+	{
+		"lfst": "dietary zinc"
+	},
+	{
+		"lfst": "diastolic blood pressure"
+	},
+	{
+		"lfst": "mean arterial pressure"
+	},
+	{
+		"lfst": "hdl cholesterol"
+	},
+	{
+		"lfst": "random blood glucose"
+	},
+	{
+		"lfst": "number of metabolic factors present"
+	},
+	{
+		"lfst": "blood pressure medication"
+	},
+	{
+		"lfst": "cardiovascular disease"
+	},
+	{
+		"lfst": "previous cardiovascular disease"
+	},
+	{
+		"lfst": "metabolic syndromeb"
+	},
+	{
+		"lfst": "birth region/country:foreign-born men"
+	},
+	{
+		"lfst": "birth region/country:africa"
+	},
+	{
+		"lfst": "birth region/country:asia"
+	},
+	{
+		"lfst": "birth region/country:europe"
+	},
+	{
+		"lfst": "birth region/country:eastern europe"
+	},
+	{
+		"lfst": "birth region/country:northern europe"
+	},
+	{
+		"lfst": "birth region/country:southern europe"
+	},
+	{
+		"lfst": "birth region/country:western europe"
+	},
+	{
+		"lfst": "birth region/country:latin america"
+	},
+	{
+		"lfst": "birth region/country:northern america"
+	},
+	{
+		"lfst": "birth region/country:oceania"
+	},
+	{
+		"lfst": "25-hydroxyvitamin d+calcium<1200mg/day"
+	},
+	{
+		"lfst": "frequency of red wine consumption+race:white"
+	},
+	{
+		"lfst": "frequency of red wine consumption+race:african american"
+	},
+	{
+		"lfst": "frequency of red wine consumption+positive family history"
+	},
+	{
+		"lfst": "combined intake from beer, white wine and liquor"
+	},
+	{
+		"lfst": "combined intake from red wine, beer, white wine and liquor"
+	},
+	{
+		"lfst": "smoke status"
+	},
+	{
+		"lfst": "age at starting to smoke"
+	},
+	{
+		"lfst": "no. of cigarettes smoked"
+	},
+	{
+		"lfst": "yr since quit smoke"
+	},
+	{
+		"lfst": "smoke status of long-term former smoke"
+	},
+	{
+		"lfst": "age at starting to smoke of long-term former smoke"
+	},
+	{
+		"lfst": "smoke duration of long-term former smoke"
+	},
+	{
+		"lfst": "recent former+current smokers"
+	},
+	{
+		"lfst": "age at starting to smoke of recent former+current smokers"
+	},
+	{
+		"lfst": "smoke duration of recent former+current smokers"
+	},
+	{
+		"lfst": "nonsmoker"
+	},
+	{
+		"lfst": "long-term former smoke"
+	},
+	{
+		"lfst": "alcohol+finasteride treat"
+	},
+	{
+		"lfst": "beer+finasteride treat"
+	},
+	{
+		"lfst": "wine+finasteride treat"
+	},
+	{
+		"lfst": "liquor+finasteride treat"
+	},
+	{
+		"lfst": "smoke+positive family history"
+	},
+	{
+		"lfst": "smoke+no family history"
+	},
+	{
+		"lfst": "smoke+body mass index18.5-24.9"
+	},
+	{
+		"lfst": "smoke+body mass index25-29.9"
+	},
+	{
+		"lfst": "smoke+body mass index>30"
+	},
+	{
+		"lfst": "smoke+alcohol"
+	},
+	{
+		"lfst": "smoke-quit-dose"
+	},
+	{
+		"lfst": "history of diagnosed bph"
+	},
+	{
+		"lfst": "history of transurethral prostatectomy"
+	},
+	{
+		"lfst": "bph not treated with turp"
+	},
+	{
+		"lfst": "history of any cancer"
+	},
+	{
+		"lfst": "diabetes treated with medication"
+	},
+	{
+		"lfst": "hypertension"
+	},
+	{
+		"lfst": "hypertension treated with medication"
+	},
+	{
+		"lfst": "history of cigarettes"
+	},
+	{
+		"lfst": "history of cigarettes, pipe, cigar, or smokeless tobacco"
+	},
+	{
+		"lfst": "total phytoestrogens"
+	},
+	{
+		"lfst": "total isoflavones"
+	},
+	{
+		"lfst": "formononetin"
+	},
+	{
+		"lfst": "total lignans"
+	},
+	{
+		"lfst": "total enterolignans"
+	},
+	{
+		"lfst": "enterolactone"
+	},
+	{
+		"lfst": "equol"
+	},
+	{
+		"lfst": "coumestrol"
+	},
+	{
+		"lfst": "hip circumference"
+	},
+	{
+		"lfst": "infertility"
+	},
+	{
+		"lfst": "energy intake"
+	},
+	{
+		"lfst": "cruciferous vegetable+age<65"
+	},
+	{
+		"lfst": "cruciferous vegetable age>=65"
+	},
+	{
+		"lfst": "igf-i"
+	},
+	{
+		"lfst": "igfbp-3"
+	},
+	{
+		"lfst": "igf-i/igfbp-3"
+	},
+	{
+		"lfst": "igf-ii"
+	},
+	{
+		"lfst": "igfbp-2"
+	},
+	{
+		"lfst": "milk+age<65"
+	},
+	{
+		"lfst": "bread+age<65"
+	},
+	{
+		"lfst": "pasta and rice+age<65"
+	},
+	{
+		"lfst": "soups+age<65"
+	},
+	{
+		"lfst": "poultry+age<65"
+	},
+	{
+		"lfst": "fish+age<65"
+	},
+	{
+		"lfst": "pulses+age<65"
+	},
+	{
+		"lfst": "cooked vegetable+age<65"
+	},
+	{
+		"lfst": "citrus fruits+age<65"
+	},
+	{
+		"lfst": "other fruits+age<65"
+	},
+	{
+		"lfst": "milk+age>=65"
+	},
+	{
+		"lfst": "bread+age>=65"
+	},
+	{
+		"lfst": "pasta and rice+age>=65"
+	},
+	{
+		"lfst": "soups+age>=65"
+	},
+	{
+		"lfst": "poultry+age>=65"
+	},
+	{
+		"lfst": "fish+age>=65"
+	},
+	{
+		"lfst": "pulses+age>=65"
+	},
+	{
+		"lfst": "cooked vegetable+age>=65"
+	},
+	{
+		"lfst": "citrus fruits+age>=65"
+	},
+	{
+		"lfst": "other fruits+age>=65"
+	},
+	{
+		"lfst": "milk+body mass index<26"
+	},
+	{
+		"lfst": "bread+body mass index<26"
+	},
+	{
+		"lfst": "pasta and rice+body mass index<26"
+	},
+	{
+		"lfst": "soups+body mass index<26"
+	},
+	{
+		"lfst": "poultry+body mass index<26"
+	},
+	{
+		"lfst": "fish+body mass index<26"
+	},
+	{
+		"lfst": "pulses+body mass index<26"
+	},
+	{
+		"lfst": "cooked vegetable+body mass index<26"
+	},
+	{
+		"lfst": "citrus fruits+body mass index<26"
+	},
+	{
+		"lfst": "other fruits+body mass index<26"
+	},
+	{
+		"lfst": "milk+body mass index>=26"
+	},
+	{
+		"lfst": "bread+body mass index>=26"
+	},
+	{
+		"lfst": "pasta and rice+body mass index>=26"
+	},
+	{
+		"lfst": "soups+body mass index>=26"
+	},
+	{
+		"lfst": "poultry+body mass index>=26"
+	},
+	{
+		"lfst": "fish+body mass index>=26"
+	},
+	{
+		"lfst": "pulses+body mass index>=26"
+	},
+	{
+		"lfst": "cooked vegetable+body mass index>=26"
+	},
+	{
+		"lfst": "citrus fruits+body mass index>=26"
+	},
+	{
+		"lfst": "other fruits+body mass index>=26"
+	},
+	{
+		"lfst": "green-yellow vegetable"
+	},
+	{
+		"lfst": "all soy products"
+	},
+	{
+		"lfst": "natto"
+	},
+	{
+		"lfst": "no diabetes"
+	},
+	{
+		"lfst": "total ala"
+	},
+	{
+		"lfst": "ala from meat and dairy sources"
+	},
+	{
+		"lfst": "ala fromnonanimal sources"
+	},
+	{
+		"lfst": "la:ala"
+	},
+	{
+		"lfst": "epa+dha"
+	},
+	{
+		"lfst": "la:epa+dha [cis-18:2n-6:]"
+	},
+	{
+		"lfst": "beef, pork, or lamb as a main dish"
+	},
+	{
+		"lfst": "skim milk"
+	},
+	{
+		"lfst": "mayonnaise or other creamy salad"
+	},
+	{
+		"lfst": "oil and vinegar dressing"
+	},
+	{
+		"lfst": "margarine"
+	},
+	{
+		"lfst": "number of prostate specific antigen tests in past 5 yr"
+	},
+	{
+		"lfst": "number of digital rectal exams in past 5 yr"
+	},
+	{
+		"lfst": "strenuous physical activity"
+	},
+	{
+		"lfst": "moderate physical activity"
+	},
+	{
+		"lfst": "alcohol status"
+	},
+	{
+		"lfst": "drinking duration"
+	},
+	{
+		"lfst": "length of right upper arm"
+	},
+	{
+		"lfst": "body mass index<20.5+waist:hip ratio<0.87"
+	},
+	{
+		"lfst": "body mass index<20.5+waist:hip ratio:0.87-0.90"
+	},
+	{
+		"lfst": "body mass index<20.5+waist:hip ratio>0.90"
+	},
+	{
+		"lfst": "body mass index<21+waist:hip ratio<0.87"
+	},
+	{
+		"lfst": "body mass index<21+waist:hip ratio:0.87-0.90"
+	},
+	{
+		"lfst": "body mass index<21+waist:hip ratio>0.90"
+	},
+	{
+		"lfst": "body mass index:20.5-22.8+waist:hip ratio<0.87"
+	},
+	{
+		"lfst": "body mass index:20.5-22.8+waist:hip ratio0.87-0.90"
+	},
+	{
+		"lfst": "body mass index:20.5-22.8+waist:hip ratio>0.90"
+	},
+	{
+		"lfst": "body mass index:21.0-25.0+waist:hip ratio<0.87"
+	},
+	{
+		"lfst": "body mass index:21.0-25.0+waist:hip ratio0.87-0.90"
+	},
+	{
+		"lfst": "body mass index:21.0-25.0+waist:hip ratio>0.90"
+	},
+	{
+		"lfst": "body mass index>22.8+waist:hip ratio<0.87"
+	},
+	{
+		"lfst": "body mass index>22.8+waist:hip ratio:0.87-0.90"
+	},
+	{
+		"lfst": "body mass index>22.8+waist:hip ratio>0.90"
+	},
+	{
+		"lfst": "body mass index>25+waist:hip ratio<0.87"
+	},
+	{
+		"lfst": "body mass index>25+waist:hip ratio:0.87-0.90"
+	},
+	{
+		"lfst": "body mass index>25+waist:hip ratio>0.90"
+	},
+	{
+		"lfst": "cigars"
+	},
+	{
+		"lfst": "pipe"
+	},
+	{
+		"lfst": "cigarettes and cigars"
+	},
+	{
+		"lfst": "cigarettes and pipe"
+	},
+	{
+		"lfst": "cigars and pipe"
+	},
+	{
+		"lfst": "cigarettes, cigars, and pipe"
+	},
+	{
+		"lfst": "cigar"
+	},
+	{
+		"lfst": "body mass index<26.660+never smoke"
+	},
+	{
+		"lfst": "body mass index<26.660+ever smoke"
+	},
+	{
+		"lfst": "pack-yr+body mass index<26.660"
+	},
+	{
+		"lfst": "body mass index>26.660+never smoke"
+	},
+	{
+		"lfst": "body mass index>26.660+ever smoke"
+	},
+	{
+		"lfst": "pack-yr+body mass index> 26.660"
+	},
+	{
+		"lfst": "never smoke+body mass index>26.660"
+	},
+	{
+		"lfst": "ever smoke+body mass index>26.660"
+	},
+	{
+		"lfst": "age at starting+body mass index>26.660"
+	},
+	{
+		"lfst": "duration+body mass index>26.660"
+	},
+	{
+		"lfst": "amount+body mass index>26.660"
+	},
+	{
+		"lfst": "quitting+body mass index>26.660"
+	},
+	{
+		"lfst": "nonaspirin nsaid"
+	},
+	{
+		"lfst": "finasteride"
+	},
+	{
+		"lfst": "red meatat least 5 * wk"
+	},
+	{
+		"lfst": "red wine at least 3 * wk"
+	},
+	{
+		"lfst": "non-hispanic white+family history"
+	},
+	{
+		"lfst": "non-hispanic white+relationship"
+	},
+	{
+		"lfst": "non-hispanic white+number of relatives"
+	},
+	{
+		"lfst": "hispanic+family history"
+	},
+	{
+		"lfst": "hispanic+relationship"
+	},
+	{
+		"lfst": "hispanic+number of relatives"
+	},
+	{
+		"lfst": "dairy intake"
+	},
+	{
+		"lfst": "hpv 16"
+	},
+	{
+		"lfst": "duration of tea dringking"
+	},
+	{
+		"lfst": "tea consumed"
+	},
+	{
+		"lfst": "tea leaves consumed"
+	},
+	{
+		"lfst": "no. of tea drinks"
+	},
+	{
+		"lfst": "no. of new batches"
+	},
+	{
+		"lfst": "quantity of green tealeaves"
+	},
+	{
+		"lfst": "yr of farming"
+	},
+	{
+		"lfst": "recency of last farming"
+	},
+	{
+		"lfst": "mixed/applied pesticides"
+	},
+	{
+		"lfst": "handle hay, grain, silage"
+	},
+	{
+		"lfst": "harvest tobacco"
+	},
+	{
+		"lfst": "plant/pick crops"
+	},
+	{
+		"lfst": "pick cotton"
+	},
+	{
+		"lfst": "repair pesticide equipment"
+	},
+	{
+		"lfst": "feed animals"
+	},
+	{
+		"lfst": "farming+caucausians"
+	},
+	{
+		"lfst": "yr of farming+caucausians"
+	},
+	{
+		"lfst": "recency of last farming+caucausians"
+	},
+	{
+		"lfst": "mixed/applied pesticides+caucausians"
+	},
+	{
+		"lfst": "handle hay, grain, silage+caucausians"
+	},
+	{
+		"lfst": "harvest tobacco+caucausians"
+	},
+	{
+		"lfst": "plant/pick crops+caucausians"
+	},
+	{
+		"lfst": "pick cotton+caucausians"
+	},
+	{
+		"lfst": "repair pesticide equipment+caucausians"
+	},
+	{
+		"lfst": "feed animals, work with poultry/swine+caucausians"
+	},
+	{
+		"lfst": "farming+african-americans"
+	},
+	{
+		"lfst": "yr of farming+african-americans"
+	},
+	{
+		"lfst": "recency of last farming+african-americans"
+	},
+	{
+		"lfst": "mixed/applied pesticides+african-americans"
+	},
+	{
+		"lfst": "handle hay, grain, silage+african-americans"
+	},
+	{
+		"lfst": "harvest tobacco+african-americans"
+	},
+	{
+		"lfst": "plant/pick crops, till soil+african-americans"
+	},
+	{
+		"lfst": "pick cotton+african-americans"
+	},
+	{
+		"lfst": "repair pesticide equipment+african-americans"
+	},
+	{
+		"lfst": "feed animals, work with poultry/swine+african-americans"
+	},
+	{
+		"lfst": "lycopene+all genotypes"
+	},
+	{
+		"lfst": "beta-carotene+all genotypes"
+	},
+	{
+		"lfst": "alpha-tocopherol+all genotypes"
+	},
+	{
+		"lfst": "beta-caroten+all genotypes"
+	},
+	{
+		"lfst": "alpha-tocophero+all genotypes"
+	},
+	{
+		"lfst": "lycopene+arg/arg genotype"
+	},
+	{
+		"lfst": "beta-carotene+arg/arg genotype"
+	},
+	{
+		"lfst": "alpha-tocopherol+arg/arg genotype"
+	},
+	{
+		"lfst": "beta-caroten+arg/arg genotype"
+	},
+	{
+		"lfst": "alpha-tocophero+arg/arg genotype"
+	},
+	{
+		"lfst": "lycopene+gln/gln or arg/gln genotype"
+	},
+	{
+		"lfst": "beta-carotene+gln/gln or arg/gln genotype"
+	},
+	{
+		"lfst": "alpha-tocopherol+gln/gln or arg/gln genotype"
+	},
+	{
+		"lfst": "beta-caroten+gln/gln or arg/gln genotype"
+	},
+	{
+		"lfst": "alpha-tocophero+gln/gln or arg/gln genotype"
+	},
+	{
+		"lfst": "lycopeneand beta-carotene+all genotypes"
+	},
+	{
+		"lfst": "lycopeneand alpha-tocopherol+all genotypes"
+	},
+	{
+		"lfst": "beta-carotene and alpha-tocopherol+all genotypes"
+	},
+	{
+		"lfst": "lycopene, alpha-tocopherol, and beta-carotene+all genotypes"
+	},
+	{
+		"lfst": "lycopeneand beta-carotene+arg/arg genotype"
+	},
+	{
+		"lfst": "lycopeneand alpha-tocopherol+arg/arg genotype"
+	},
+	{
+		"lfst": "beta-carotene and alpha-tocopherol+arg/arg genotype"
+	},
+	{
+		"lfst": "lycopene, alpha-tocopherol, and beta-carotene+arg/arg genotype"
+	},
+	{
+		"lfst": "full global perceived stress scale of african american men"
+	},
+	{
+		"lfst": "perceived stress subscale of african american men"
+	},
+	{
+		"lfst": "ability to control stress subscale of african american men"
+	},
+	{
+		"lfst": "active coping of african american men"
+	},
+	{
+		"lfst": "social support of african american men"
+	},
+	{
+		"lfst": "full global perceived stress scale of caucasian men"
+	},
+	{
+		"lfst": "perceived stress subscale of caucasian men"
+	},
+	{
+		"lfst": "ability to control stress subscale of caucasian men"
+	},
+	{
+		"lfst": "active coping of caucasian men"
+	},
+	{
+		"lfst": "social support of caucasian men"
+	},
+	{
+		"lfst": "duration of clinical prostatitis"
+	},
+	{
+		"lfst": "treatment for clinical prostatitis"
+	},
+	{
+		"lfst": "first degree relatives"
+	},
+	{
+		"lfst": "binge drinking"
+	},
+	{
+		"lfst": "drinking most days"
+	},
+	{
+		"lfst": "total folate"
+	},
+	{
+		"lfst": "monoglutamates"
+	},
+	{
+		"lfst": "polyglutamates"
+	},
+	{
+		"lfst": "tetrahydrofolate"
+	},
+	{
+		"lfst": "5-methyl-tetrahydrofolate"
+	},
+	{
+		"lfst": "5-formyl-tetrahydrofolate"
+	},
+	{
+		"lfst": "folic acid"
+	},
+	{
+		"lfst": "10-formyl-dihydrofolate"
+	},
+	{
+		"lfst": "10-formyl-folate"
+	},
+	{
+		"lfst": "thyroxine"
+	},
+	{
+		"lfst": "free thyroxine"
+	},
+	{
+		"lfst": "thyroid-binding globulin"
+	},
+	{
+		"lfst": "thyroid stimulating hormone"
+	},
+	{
+		"lfst": "clinical thyroid status"
+	},
+	{
+		"lfst": "calcium+african americans"
+	},
+	{
+		"lfst": "calcium+whites"
+	},
+	{
+		"lfst": "cdx-2+african americans"
+	},
+	{
+		"lfst": "cdx-2+white american"
+	},
+	{
+		"lfst": "fok1+african american"
+	},
+	{
+		"lfst": "fok1+white american"
+	},
+	{
+		"lfst": "taq1+african american"
+	},
+	{
+		"lfst": "taq1+white american"
+	},
+	{
+		"lfst": "cdx-2+low calcium+african americans"
+	},
+	{
+		"lfst": "cdx-2+low calcium+white american"
+	},
+	{
+		"lfst": "cdx-2+high calcium+african americans"
+	},
+	{
+		"lfst": "cdx-2+high calcium+white american"
+	},
+	{
+		"lfst": "vdr cdx2 aa genotype"
+	},
+	{
+		"lfst": "vdr cdx2 ag genotype"
+	},
+	{
+		"lfst": "vdr cdx2 gg genotype"
+	},
+	{
+		"lfst": "never night work"
+	},
+	{
+		"lfst": "ever night work"
+	},
+	{
+		"lfst": "types of night work"
+	},
+	{
+		"lfst": "permanent night work"
+	},
+	{
+		"lfst": "rotating night work"
+	},
+	{
+		"lfst": "benign prostatic hypertrophy"
+	},
+	{
+		"lfst": "non bph-history"
+	},
+	{
+		"lfst": "benign prostatic hypertrophy medication"
+	},
+	{
+		"lfst": "serum calcium"
+	},
+	{
+		"lfst": "25 vitamin d"
+	},
+	{
+		"lfst": "legume"
+	},
+	{
+		"lfst": "body mass index+white"
+	},
+	{
+		"lfst": "height+white"
+	},
+	{
+		"lfst": "smoke+white"
+	},
+	{
+		"lfst": "education+white"
+	},
+	{
+		"lfst": "diabetes+white"
+	},
+	{
+		"lfst": "physical activity+white"
+	},
+	{
+		"lfst": "alcohol+white"
+	},
+	{
+		"lfst": "calcium+white"
+	},
+	{
+		"lfst": "legume+white"
+	},
+	{
+		"lfst": "lycopene+white"
+	},
+	{
+		"lfst": "selenium+white"
+	},
+	{
+		"lfst": "body mass index+african american"
+	},
+	{
+		"lfst": "height+african american"
+	},
+	{
+		"lfst": "smoke+african american"
+	},
+	{
+		"lfst": "education+african american"
+	},
+	{
+		"lfst": "diabetes+african american"
+	},
+	{
+		"lfst": "physical activity+african american"
+	},
+	{
+		"lfst": "alcohol+african american"
+	},
+	{
+		"lfst": "calcium+african american"
+	},
+	{
+		"lfst": "legume+african american"
+	},
+	{
+		"lfst": "lycopene+african american"
+	},
+	{
+		"lfst": "lycopene+african american,mu_g/1000 kcal/day"
+	},
+	{
+		"lfst": "selenium+african american"
+	},
+	{
+		"lfst": "body mass index+native hawaiian"
+	},
+	{
+		"lfst": "height+native hawaiian"
+	},
+	{
+		"lfst": "smoke+native hawaiian"
+	},
+	{
+		"lfst": "education+native hawaiian"
+	},
+	{
+		"lfst": "diabetes+native hawaiian"
+	},
+	{
+		"lfst": "physical activity+native hawaiian"
+	},
+	{
+		"lfst": "alcohol+native hawaiian"
+	},
+	{
+		"lfst": "calcium+native hawaiian"
+	},
+	{
+		"lfst": "legume+native hawaiian"
+	},
+	{
+		"lfst": "lycopene+native hawaiian"
+	},
+	{
+		"lfst": "selenium+native hawaiian"
+	},
+	{
+		"lfst": "body mass index+japanese american"
+	},
+	{
+		"lfst": "height+japanese american"
+	},
+	{
+		"lfst": "smoke+japanese american"
+	},
+	{
+		"lfst": "education+japanese american"
+	},
+	{
+		"lfst": "diabetes+japanese american"
+	},
+	{
+		"lfst": "physical activity+japanese american"
+	},
+	{
+		"lfst": "alcohol+japanese american"
+	},
+	{
+		"lfst": "calcium+japanese american"
+	},
+	{
+		"lfst": "legume+japanese american"
+	},
+	{
+		"lfst": "lycopene+japanese american"
+	},
+	{
+		"lfst": "selenium+japanese american"
+	},
+	{
+		"lfst": "body mass index+latino"
+	},
+	{
+		"lfst": "height+latino"
+	},
+	{
+		"lfst": "smoke+latino"
+	},
+	{
+		"lfst": "education+latino"
+	},
+	{
+		"lfst": "diabetes+latino"
+	},
+	{
+		"lfst": "physical activity+latino"
+	},
+	{
+		"lfst": "alcohol+latino"
+	},
+	{
+		"lfst": "calciumin latino"
+	},
+	{
+		"lfst": "legume+latino"
+	},
+	{
+		"lfst": "lycopene+latino"
+	},
+	{
+		"lfst": "selenium+latino"
+	},
+	{
+		"lfst": "ejaculation frequency+age20-29"
+	},
+	{
+		"lfst": "ejaculation frequency+age20-29 yr"
+	},
+	{
+		"lfst": "ejaculation frequency+age40-49 yr"
+	},
+	{
+		"lfst": "paternal history of prostate cancer"
+	},
+	{
+		"lfst": "benign prostatic hyperplasia"
+	},
+	{
+		"lfst": "timing of commencing shaving regularly"
+	},
+	{
+		"lfst": "timing of voice break"
+	},
+	{
+		"lfst": "timing of reaching puberty group"
+	},
+	{
+		"lfst": "body mass indexat diagnosis"
+	},
+	{
+		"lfst": "balding pattern"
+	},
+	{
+		"lfst": "no. of sexual partners"
+	},
+	{
+		"lfst": "no.of orgasms"
+	},
+	{
+		"lfst": "ability to maintain erection"
+	},
+	{
+		"lfst": "agriculture worker, stock farmer"
+	},
+	{
+		"lfst": "horticulture, forest worker"
+	},
+	{
+		"lfst": "miner"
+	},
+	{
+		"lfst": "chemical worker"
+	},
+	{
+		"lfst": "iron and steel industry worker"
+	},
+	{
+		"lfst": "metal shaper"
+	},
+	{
+		"lfst": "metal construction worker"
+	},
+	{
+		"lfst": "mechanical engineer, maintenance worker"
+	},
+	{
+		"lfst": "vehicle construction and maintenance worker"
+	},
+	{
+		"lfst": "electrician"
+	},
+	{
+		"lfst": "textile workers"
+	},
+	{
+		"lfst": "nutrition professional"
+	},
+	{
+		"lfst": "structural engineering worker"
+	},
+	{
+		"lfst": "civil engineering"
+	},
+	{
+		"lfst": "unskilled construction worker"
+	},
+	{
+		"lfst": "interior worker"
+	},
+	{
+		"lfst": "wood/plastic processers"
+	},
+	{
+		"lfst": "painter/varnisher"
+	},
+	{
+		"lfst": "machinery operator"
+	},
+	{
+		"lfst": "engineer, architect, chemist"
+	},
+	{
+		"lfst": "technician"
+	},
+	{
+		"lfst": "businessman"
+	},
+	{
+		"lfst": "road and rail traffic worker"
+	},
+	{
+		"lfst": "stock and transport worker"
+	},
+	{
+		"lfst": "adminstrative professional, office occupation"
+	},
+	{
+		"lfst": "guard and serviceman"
+	},
+	{
+		"lfst": "soldier"
+	},
+	{
+		"lfst": "health professional"
+	},
+	{
+		"lfst": "dietary vitamin d"
+	},
+	{
+		"lfst": "calcium+european americans"
+	},
+	{
+		"lfst": "total vitamin d+african americans"
+	},
+	{
+		"lfst": "total vitamin d+european americans"
+	},
+	{
+		"lfst": "total vitamin d+african americans,"
+	},
+	{
+		"lfst": "total vitamin d+european americans,iu/day"
+	},
+	{
+		"lfst": "ige"
+	},
+	{
+		"lfst": "allergen-specific ige"
+	},
+	{
+		"lfst": "balding at age20 vs.not"
+	},
+	{
+		"lfst": "balding at age40 vs. never bald or balding after age40"
+	},
+	{
+		"lfst": "balding at age 20 vs.not"
+	},
+	{
+		"lfst": "0-<1 year of shift work"
+	},
+	{
+		"lfst": "ever >=1 yr of shift work"
+	},
+	{
+		"lfst": "1-<10 yr of shift work"
+	},
+	{
+		"lfst": "10-<20 yr of shift work"
+	},
+	{
+		"lfst": ">=20 yr of shift work"
+	},
+	{
+		"lfst": "ever >=1 year of shift work without night work during work life"
+	},
+	{
+		"lfst": "0-<1 year of night work"
+	},
+	{
+		"lfst": "ever >=1 year of night work"
+	},
+	{
+		"lfst": "1-<10 yr of night work"
+	},
+	{
+		"lfst": "10-<20 yr of night work"
+	},
+	{
+		"lfst": ">=20 yr of night work"
+	},
+	{
+		"lfst": "preferred midpoint of sleep"
+	},
+	{
+		"lfst": "preferred midpoint of sleep:early"
+	},
+	{
+		"lfst": "preferred midpoint of sleep:intermediate"
+	},
+	{
+		"lfst": "preferred midpoint of sleep:late"
+	},
+	{
+		"lfst": "low vitamin dof shift worker"
+	},
+	{
+		"lfst": "high vitamin dof shift worker"
+	},
+	{
+		"lfst": "none baldness"
+	},
+	{
+		"lfst": "any baldness"
+	},
+	{
+		"lfst": "yellow-orange vegetable"
+	},
+	{
+		"lfst": "corn"
+	},
+	{
+		"lfst": "all vegetable"
+	},
+	{
+		"lfst": "all fruits"
+	},
+	{
+		"lfst": "soyfoods"
+	},
+	{
+		"lfst": "all legumes"
+	},
+	{
+		"lfst": "yellow-orange vegetable+african-americans"
+	},
+	{
+		"lfst": "cruciferous vegetable+african-americans"
+	},
+	{
+		"lfst": "corn+african-americans"
+	},
+	{
+		"lfst": "carrots+african-americans"
+	},
+	{
+		"lfst": "tomatoes+african-americans"
+	},
+	{
+		"lfst": "soyfoods+african-americans"
+	},
+	{
+		"lfst": "legumes+african-americans"
+	},
+	{
+		"lfst": "all legumes+african-americans"
+	},
+	{
+		"lfst": "yellow-orange vegetable+whites"
+	},
+	{
+		"lfst": "cruciferous vegetable+whites"
+	},
+	{
+		"lfst": "corn+whites"
+	},
+	{
+		"lfst": "carrots+whites"
+	},
+	{
+		"lfst": "tomatoes+whites"
+	},
+	{
+		"lfst": "soyfoods+whites"
+	},
+	{
+		"lfst": "legumes+whites"
+	},
+	{
+		"lfst": "all legumes+whites"
+	},
+	{
+		"lfst": "yellow-orange vegetable+japanese"
+	},
+	{
+		"lfst": "cruciferous vegetable+japanese"
+	},
+	{
+		"lfst": "corn+japanese"
+	},
+	{
+		"lfst": "carrots+japanese"
+	},
+	{
+		"lfst": "tomatoes+japanese"
+	},
+	{
+		"lfst": "soyfoods+japanese"
+	},
+	{
+		"lfst": "legumes+japanese"
+	},
+	{
+		"lfst": "all legumes+japanese"
+	},
+	{
+		"lfst": "yellow-orange vegetable+chinese"
+	},
+	{
+		"lfst": "cruciferous vegetable+chinese"
+	},
+	{
+		"lfst": "corn+chinese"
+	},
+	{
+		"lfst": "carrots+chinese"
+	},
+	{
+		"lfst": "tomatoes+chinese"
+	},
+	{
+		"lfst": "legumes+chinese"
+	},
+	{
+		"lfst": "all legumes+chinese"
+	},
+	{
+		"lfst": "home or furniture maintenance"
+	},
+	{
+		"lfst": "painting, stripping, or varnishing furniture"
+	},
+	{
+		"lfst": "carpentry"
+	},
+	{
+		"lfst": "gardening"
+	},
+	{
+		"lfst": "car or motorcycle maintenance"
+	},
+	{
+		"lfst": "sports or other outdoor activities"
+	},
+	{
+		"lfst": "paints, lacquers, or stains"
+	},
+	{
+		"lfst": "aerosols or spray paints"
+	},
+	{
+		"lfst": "chemical solvents"
+	},
+	{
+		"lfst": "dyes"
+	},
+	{
+		"lfst": "wood dust"
+	},
+	{
+		"lfst": "plastic cement"
+	},
+	{
+		"lfst": "plastic resins"
+	},
+	{
+		"lfst": "epoxy resins"
+	},
+	{
+		"lfst": "film-developing fluids"
+	},
+	{
+		"lfst": "metal dust"
+	},
+	{
+		"lfst": "lubricating oils or grease"
+	},
+	{
+		"lfst": "pesticides or garden sprays"
+	},
+	{
+		"lfst": "leptin"
+	},
+	{
+		"lfst": "igf-i:igfbp-3 ratio"
+	},
+	{
+		"lfst": "age<60+nucleotide excision repair"
+	},
+	{
+		"lfst": "age>=60+nucleotide excision repair"
+	},
+	{
+		"lfst": "no family history+nucleotide excision repair"
+	},
+	{
+		"lfst": "family history+nucleotide excision repair"
+	},
+	{
+		"lfst": "nucleotide excision repair median cut-off"
+	},
+	{
+		"lfst": "nucleotide excision repair"
+	},
+	{
+		"lfst": "duration of tea"
+	},
+	{
+		"lfst": "cumulative tea"
+	},
+	{
+		"lfst": "ferric reducing antioxidant potential  food only"
+	},
+	{
+		"lfst": "ferric reducing antioxidant potential  fruits+vegetable"
+	},
+	{
+		"lfst": "berries"
+	},
+	{
+		"lfst": "chocolate"
+	},
+	{
+		"lfst": "boiled potatoes"
+	},
+	{
+		"lfst": "statin dose"
+	},
+	{
+		"lfst": "statin type"
+	},
+	{
+		"lfst": "statin+caucasians"
+	},
+	{
+		"lfst": "statin dose+caucasians"
+	},
+	{
+		"lfst": "statin type+caucasians"
+	},
+	{
+		"lfst": "statin+african americans"
+	},
+	{
+		"lfst": "statin dose+african americans"
+	},
+	{
+		"lfst": "statin type+african americans"
+	},
+	{
+		"lfst": "hdl-c <=1.05"
+	},
+	{
+		"lfst": "no. factors high body mass index+high systolic blood pressure present"
+	},
+	{
+		"lfst": "no. factors high body mass index+high systolic blood pressure, and low hdl-c present"
+	},
+	{
+		"lfst": "isoflavone"
+	},
+	{
+		"lfst": "soy"
+	},
+	{
+		"lfst": "serum equol"
+	},
+	{
+		"lfst": "serum daidzein"
+	},
+	{
+		"lfst": "serum daidzein+equol combined"
+	},
+	{
+		"lfst": "serum genistein"
+	},
+	{
+		"lfst": "serum enterolactone"
+	},
+	{
+		"lfst": "serum isoflavones"
+	},
+	{
+		"lfst": "history of stillbirths"
+	},
+	{
+		"lfst": "data from both sub-cohorts combined history of stillbirths"
+	},
+	{
+		"lfst": "data from both sub-cohorts combined number of stillbirths"
+	},
+	{
+		"lfst": "solar radiation in state of birth"
+	},
+	{
+		"lfst": "solar radiation in state of longest residence"
+	},
+	{
+		"lfst": "solar radiation in state of birth vs solar radiation in state of longest residence"
+	},
+	{
+		"lfst": "physician-assessed sun exposure"
+	},
+	{
+		"lfst": "physician-assessed skin damageinduced by sun exposure"
+	},
+	{
+		"lfst": "self-reported recreational sun exposure"
+	},
+	{
+		"lfst": "self-reported occupational sun exposure"
+	},
+	{
+		"lfst": "self-reported occupational or recreational sun exposure"
+	},
+	{
+		"lfst": "iodine/creatinine"
+	},
+	{
+		"lfst": "frequency of salt shaker"
+	},
+	{
+		"lfst": "thyroid disease"
+	},
+	{
+		"lfst": "thyroid medication"
+	},
+	{
+		"lfst": "canthaxanthin"
+	},
+	{
+		"lfst": "sum of carotenoids"
+	},
+	{
+		"lfst": "marital status:not married"
+	},
+	{
+		"lfst": "dietary boron"
+	},
+	{
+		"lfst": "peanut butter+nuts"
+	},
+	{
+		"lfst": "avocado"
+	},
+	{
+		"lfst": "apples"
+	},
+	{
+		"lfst": "total boron"
+	},
+	{
+		"lfst": "visceral fat area"
+	},
+	{
+		"lfst": "subcutaneous fat area"
+	},
+	{
+		"lfst": "total fat area"
+	},
+	{
+		"lfst": "hsv-2"
+	},
+	{
+		"lfst": "hhv-8"
+	},
+	{
+		"lfst": "no. of hsv-2/hhv-8 seropositive responses"
+	},
+	{
+		"lfst": "no. of seropositive responses"
+	},
+	{
+		"lfst": "dietary fiber"
+	},
+	{
+		"lfst": "beta-sitosterol"
+	},
+	{
+		"lfst": "campesterol"
+	},
+	{
+		"lfst": "stigmasterol"
+	},
+	{
+		"lfst": "phytosterols"
+	},
+	{
+		"lfst": "quercetin"
+	},
+	{
+		"lfst": "kaempfero"
+	},
+	{
+		"lfst": "breads and cereals"
+	},
+	{
+		"lfst": "fruits+vegetable"
+	},
+	{
+		"lfst": "oil/fat"
+	},
+	{
+		"lfst": "vdr-cdx2"
+	},
+	{
+		"lfst": "low calcium<=680+vdr-cdx2"
+	},
+	{
+		"lfst": "high calcium>680+vdr-cdx2"
+	},
+	{
+		"lfst": "low calcium< = 680mg/day+aa"
+	},
+	{
+		"lfst": "low calcium< = 680mg/day+ag /gg"
+	},
+	{
+		"lfst": "high calcium> 680mg/day+aa"
+	},
+	{
+		"lfst": "high calcium> 680mg/day+ag /gg"
+	},
+	{
+		"lfst": "coronary artery disease"
+	},
+	{
+		"lfst": "selenium+vitamin e"
+	},
+	{
+		"lfst": "whole-body vibration intensity"
+	},
+	{
+		"lfst": "occupation known for whole-body vibration intensity"
+	},
+	{
+		"lfst": "standard occupational code"
+	},
+	{
+		"lfst": "omega-3 fatty acids:alpha-linolenic acid"
+	},
+	{
+		"lfst": "omega-3 fatty acids:total long-chain omega-3 pufa"
+	},
+	{
+		"lfst": "omega-3 fatty acids:epa"
+	},
+	{
+		"lfst": "omega-3 fatty acids:dpa"
+	},
+	{
+		"lfst": "omega-3 fatty acids:dha"
+	},
+	{
+		"lfst": "omega-6 fatty acids:linoleic acid"
+	},
+	{
+		"lfst": "omega-6 fatty acids:arachidonic acid"
+	},
+	{
+		"lfst": "omega-6 fatty acids:trans-fatty acids tfa 18:1"
+	},
+	{
+		"lfst": "omega-6 fatty acids:tfa 18:2"
+	},
+	{
+		"lfst": "omega-6 fatty acids:tfa 16:1"
+	},
+	{
+		"lfst": "hair colour"
+	},
+	{
+		"lfst": "skin phototype"
+	},
+	{
+		"lfst": "traditional mediterranean diet score"
+	},
+	{
+		"lfst": "digital rectal exams"
+	},
+	{
+		"lfst": "frequency of insomnia"
+	},
+	{
+		"lfst": "25-hydroxyvitamin din winter and spring"
+	},
+	{
+		"lfst": "25-hydroxyvitamin din summer and autumn"
+	},
+	{
+		"lfst": "25-hydroxyvitamin dper 30-nmol/l increase"
+	},
+	{
+		"lfst": "25-hydroxyvitamin dper 30-nmol/l increase in winter and spring"
+	},
+	{
+		"lfst": "25-hydroxyvitamin dper 30-nmol/l increase in summer and autumn"
+	},
+	{
+		"lfst": "educational"
+	},
+	{
+		"lfst": "serum retinol"
+	},
+	{
+		"lfst": "lifetime alcohol intake"
+	},
+	{
+		"lfst": "lifetime dose of alcohol intake"
+	},
+	{
+		"lfst": "french fries"
+	},
+	{
+		"lfst": "fried chicken"
+	},
+	{
+		"lfst": "fried fish"
+	},
+	{
+		"lfst": "doughnuts"
+	},
+	{
+		"lfst": "snack chips"
+	},
+	{
+		"lfst": "coffee+body mass index< 25"
+	},
+	{
+		"lfst": "coffee+body mass index>= 25"
+	},
+	{
+		"lfst": "balding type"
+	},
+	{
+		"lfst": "no balding type at age30 of all ages"
+	},
+	{
+		"lfst": "no balding type at age30 of age<60"
+	},
+	{
+		"lfst": "any balding at age30 of all ages"
+	},
+	{
+		"lfst": "any balding at age30 of all age<60"
+	},
+	{
+		"lfst": "any balding at age30 of age60+"
+	},
+	{
+		"lfst": "excessive drinking during some period of life"
+	},
+	{
+		"lfst": "leisure-time physical activity"
+	},
+	{
+		"lfst": "frequency-intensity-duration-index of leisure-time physical activity"
+	},
+	{
+		"lfst": "blood glucose"
+	},
+	{
+		"lfst": "daily sitting"
+	},
+	{
+		"lfst": "daily sitting+body mass index"
+	},
+	{
+		"lfst": "television or video viewing"
+	},
+	{
+		"lfst": "television or video viewing+body mass index"
+	},
+	{
+		"lfst": "circumcision status"
+	},
+	{
+		"lfst": "age at circumcision"
+	},
+	{
+		"lfst": "yr since diabetes"
+	},
+	{
+		"lfst": "insulin treatment"
+	},
+	{
+		"lfst": "self-reportedacne"
+	},
+	{
+		"lfst": "smoke+body mass index<25.0"
+	},
+	{
+		"lfst": "smoke+body mass index<25.1"
+	},
+	{
+		"lfst": "smoke+body mass index<25.2"
+	},
+	{
+		"lfst": "smoke+body mass index>=25.0"
+	},
+	{
+		"lfst": "smoke+body mass index>=25.1"
+	},
+	{
+		"lfst": "smoke+body mass index>=25.2"
+	},
+	{
+		"lfst": "ever had sexual intercourse"
+	},
+	{
+		"lfst": "no. of female sexual partners"
+	},
+	{
+		"lfst": "no. of sexual partners over lifetime"
+	},
+	{
+		"lfst": "no. of female sexual partners over lifetime(includes subjects who also had male partners"
+	},
+	{
+		"lfst": "no. of female sexual partners over lifetime"
+	},
+	{
+		"lfst": "ever had male sexual partner"
+	},
+	{
+		"lfst": "no. of male sexual partners over lifetime"
+	},
+	{
+		"lfst": "no. of male sexual partners over lifetime(includes subjects who also had female partners"
+	},
+	{
+		"lfst": "self-identified sexual orientation"
+	},
+	{
+		"lfst": "genital herpes"
+	},
+	{
+		"lfst": "chlamydia"
+	},
+	{
+		"lfst": "hiv or aids"
+	},
+	{
+		"lfst": "trichomonas"
+	},
+	{
+		"lfst": "genital warts/condylomas"
+	},
+	{
+		"lfst": "ever infected with any stis"
+	},
+	{
+		"lfst": "no. of different types of stis"
+	},
+	{
+		"lfst": "ever had trichomonas"
+	},
+	{
+		"lfst": "ever had genital warts/condylomas"
+	},
+	{
+		"lfst": "# of different types of stis"
+	},
+	{
+		"lfst": "type of coffee"
+	},
+	{
+		"lfst": "all types of coffee"
+	},
+	{
+		"lfst": "not boiled coffee"
+	},
+	{
+		"lfst": "boiled andnot boiled"
+	},
+	{
+		"lfst": "boiled coffee only"
+	},
+	{
+		"lfst": "history of any genitourinary infection"
+	},
+	{
+		"lfst": "history of urethritis"
+	},
+	{
+		"lfst": "history of orchitis"
+	},
+	{
+		"lfst": "history of epididymitis"
+	},
+	{
+		"lfst": "urethritis"
+	},
+	{
+		"lfst": "railwaynoise exposure"
+	},
+	{
+		"lfst": "screened"
+	},
+	{
+		"lfst": "age at diagnosis"
+	},
+	{
+		"lfst": "ancestry"
+	},
+	{
+		"lfst": "vegan"
+	},
+	{
+		"lfst": "lacto-vegetarian"
+	},
+	{
+		"lfst": "pesco-vegetarian"
+	},
+	{
+		"lfst": "semi-vegetarian"
+	},
+	{
+		"lfst": "nonvegetarian"
+	},
+	{
+		"lfst": "vegan+black"
+	},
+	{
+		"lfst": "lacto-vegetarian+black"
+	},
+	{
+		"lfst": "pesco-vegetarian+black"
+	},
+	{
+		"lfst": "semi-vegetarian+black"
+	},
+	{
+		"lfst": "nonvegetarian+white"
+	},
+	{
+		"lfst": "vegan+white"
+	},
+	{
+		"lfst": "lacto-vegetarian+white"
+	},
+	{
+		"lfst": "pesco-vegetarian+white"
+	},
+	{
+		"lfst": "semi-vegetarian+white"
+	},
+	{
+		"lfst": "change in sleep duration"
+	},
+	{
+		"lfst": "waking up during the night"
+	},
+	{
+		"lfst": "difficulty falling asleep"
+	},
+	{
+		"lfst": "waking up too early"
+	},
+	{
+		"lfst": "feeling rested when wake up"
+	},
+	{
+		"lfst": "age at shaving initiation"
+	},
+	{
+		"lfst": "age of growth spurt"
+	},
+	{
+		"lfst": "puberty onset"
+	},
+	{
+		"lfst": "age of balding onset"
+	},
+	{
+		"lfst": "vitamin b"
+	},
+	{
+		"lfst": "multivitamin/mineral"
+	},
+	{
+		"lfst": "no. of vitamin supplements"
+	},
+	{
+		"lfst": "ibuprofen"
+	},
+	{
+		"lfst": "ketoprofen"
+	},
+	{
+		"lfst": "aspirin"
+	},
+	{
+		"lfst": "acetaminophen"
+	},
+	{
+		"lfst": "physical fitness"
+	},
+	{
+		"lfst": "mesa residency"
+	},
+	{
+		"lfst": "insurance"
+	},
+	{
+		"lfst": "comorbidity"
+	},
+	{
+		"lfst": "diabetes status"
+	},
+	{
+		"lfst": "coffee consumption"
+	},
+	{
+		"lfst": "coffee consumption+age<60"
+	},
+	{
+		"lfst": "coffee consumption+age>=60"
+	},
+	{
+		"lfst": "coffee consumption+body mass index"
+	},
+	{
+		"lfst": "coffee consumption+non-smoker or past smoker"
+	},
+	{
+		"lfst": "coffee consumption+current smoker"
+	},
+	{
+		"lfst": "coffee consumption+non-alocohol drinker"
+	},
+	{
+		"lfst": "coffee consumption+alocohol drinker"
+	},
+	{
+		"lfst": "coffee+non-smokers"
+	},
+	{
+		"lfst": "dyslipidemia"
+	},
+	{
+		"lfst": "region"
+	},
+	{
+		"lfst": "ethnicity"
+	},
+	{
+		"lfst": "unemployment"
+	},
+	{
+		"lfst": "lives with a wife or partner"
+	},
+	{
+		"lfst": "tea drinking"
+	},
+	{
+		"lfst": "green tea concentration"
+	},
+	{
+		"lfst": "oolong tea concentration"
+	},
+	{
+		"lfst": "pu’er tea concentration"
+	},
+	{
+		"lfst": "habitual egcg consumption"
+	},
+	{
+		"lfst": "cumulative consumption of egcg from tea"
+	},
+	{
+		"lfst": "lutein and zeaxanthin"
+	},
+	{
+		"lfst": "tomatog/day"
+	},
+	{
+		"lfst": "carrot g/day"
+	},
+	{
+		"lfst": "pumpkin g/day"
+	},
+	{
+		"lfst": "sweet potato g/day"
+	},
+	{
+		"lfst": "watermelong/day"
+	},
+	{
+		"lfst": "wine intake"
+	},
+	{
+		"lfst": "spirits intake"
+	},
+	{
+		"lfst": "no night work versus ever night work"
+	},
+	{
+		"lfst": "no night work versus yr of shift work"
+	},
+	{
+		"lfst": "shift work exposure"
+	},
+	{
+		"lfst": "dii quartiles"
+	},
+	{
+		"lfst": "available carbohydrate g/day"
+	},
+	{
+		"lfst": "glycemic index"
+	},
+	{
+		"lfst": "glycemic load g/day"
+	},
+	{
+		"lfst": "degree of browning strong/extreme"
+	},
+	{
+		"lfst": "degree of browning light/moderate"
+	},
+	{
+		"lfst": "zygosity"
+	},
+	{
+		"lfst": "birth year"
+	},
+	{
+		"lfst": "mother's age"
+	},
+	{
+		"lfst": "maternal parity"
+	},
+	{
+		"lfst": "parental socioeconomic status at birth:blue-collar worker"
+	},
+	{
+		"lfst": "white-collar worker"
+	},
+	{
+		"lfst": "self-employed"
+	},
+	{
+		"lfst": "effect of 500 g increase in birth weight"
+	},
+	{
+		"lfst": "brugada-like ecg"
+	},
+	{
+		"lfst": "radiation dose"
+	},
+	{
+		"lfst": "green vegetable"
+	},
+	{
+		"lfst": "soybean food"
+	},
+	{
+		"lfst": "frequency of soybean"
+	},
+	{
+		"lfst": "bacon and sausage"
+	},
+	{
+		"lfst": "beef steak"
+	},
+	{
+		"lfst": "pork chops/ham steak"
+	},
+	{
+		"lfst": "grilled meat"
+	},
+	{
+		"lfst": "broiled meat"
+	},
+	{
+		"lfst": "rare or medium total meat"
+	},
+	{
+		"lfst": "well and very well done total meat"
+	},
+	{
+		"lfst": "total fatty acids"
+	},
+	{
+		"lfst": "sfa"
+	},
+	{
+		"lfst": "mufa"
+	},
+	{
+		"lfst": "fatty acids"
+	},
+	{
+		"lfst": ": ratio"
+	},
+	{
+		"lfst": "magnesium"
+	},
+	{
+		"lfst": "ratio of polyunsaturated to saturated fat"
+	},
+	{
+		"lfst": "n-3 fatty acids g/1000 kcal"
+	},
+	{
+		"lfst": "a-linolenic acidg/1000 kcal"
+	},
+	{
+		"lfst": "eicosapentaenoic acid g/1000 kcal"
+	},
+	{
+		"lfst": "docosahexaenoic acid g/1000 kcal"
+	},
+	{
+		"lfst": "n-6 fatty acids g/1000 kcal"
+	},
+	{
+		"lfst": "ratio of n-6 to n-3 fatty acids"
+	},
+	{
+		"lfst": "cholesterol mg/1000 kcal"
+	},
+	{
+		"lfst": "shellfish"
+	},
+	{
+		"lfst": "african americans+total fat"
+	},
+	{
+		"lfst": "african americans+saturated fat"
+	},
+	{
+		"lfst": "african americans+monounsaturated fat"
+	},
+	{
+		"lfst": "african americans+polyunsaturated fat"
+	},
+	{
+		"lfst": "african americans+n-3 fatty acids"
+	},
+	{
+		"lfst": "african americans+a-linolenic acid"
+	},
+	{
+		"lfst": "african americans+eicosapentaenoic acid"
+	},
+	{
+		"lfst": "african americans+docohahexaenoic acid"
+	},
+	{
+		"lfst": "african americans+n-6 fatty acids"
+	},
+	{
+		"lfst": "african americans+n-6fatty acids"
+	},
+	{
+		"lfst": "african americans+ratio of n-6 to n-3 fatty acids"
+	},
+	{
+		"lfst": "japanese americans+total fat"
+	},
+	{
+		"lfst": "japanese americans+saturated fat"
+	},
+	{
+		"lfst": "japanese americans+monounsaturated fat"
+	},
+	{
+		"lfst": "japanese americans+polyunsaturated fat"
+	},
+	{
+		"lfst": "japanese americans+n-3 fatty acids"
+	},
+	{
+		"lfst": "japanese americans+a-linolenic acid"
+	},
+	{
+		"lfst": "japanese americans+eicosapentaenoic acid"
+	},
+	{
+		"lfst": "japanese americans+docohahexaenoic acid"
+	},
+	{
+		"lfst": "japanese americans+n-6 fatty acids"
+	},
+	{
+		"lfst": "japanese americans+n-6fatty acids"
+	},
+	{
+		"lfst": "japanese americans+ratio of n-6 to n-3 fatty acids"
+	},
+	{
+		"lfst": "latinos+total fat"
+	},
+	{
+		"lfst": "latinos+saturated fat"
+	},
+	{
+		"lfst": "latinos+monounsaturated fat"
+	},
+	{
+		"lfst": "latinos+polyunsaturated fat"
+	},
+	{
+		"lfst": "latinos+n-3 fatty acids"
+	},
+	{
+		"lfst": "latinos+a-linolenic acid"
+	},
+	{
+		"lfst": "latinos+eicosapentaenoic acid"
+	},
+	{
+		"lfst": "latinos+docohahexaenoic acid"
+	},
+	{
+		"lfst": "latinos+n-6 fatty acids"
+	},
+	{
+		"lfst": "latinos+ratio of n-6 to n-3 fatty acids"
+	},
+	{
+		"lfst": "whites+total fat"
+	},
+	{
+		"lfst": "whites+saturated fat"
+	},
+	{
+		"lfst": "whites+monounsaturated fat"
+	},
+	{
+		"lfst": "whites+polyunsaturated fat"
+	},
+	{
+		"lfst": "whites+n-3 fatty acids"
+	},
+	{
+		"lfst": "whites+a-linolenic acid"
+	},
+	{
+		"lfst": "whites+eicosapentaenoic acid"
+	},
+	{
+		"lfst": "whites+docohahexaenoic acid"
+	},
+	{
+		"lfst": "whites+n-6 fatty acids"
+	},
+	{
+		"lfst": "whites+ratio of n-6 to n-3 fatty acids"
+	},
+	{
+		"lfst": "african americans+total meat"
+	},
+	{
+		"lfst": "african americans+red meat"
+	},
+	{
+		"lfst": "african americans+processed meat"
+	},
+	{
+		"lfst": "african americans+fish"
+	},
+	{
+		"lfst": "japanese americans+total meat"
+	},
+	{
+		"lfst": "japanese americans+red meat"
+	},
+	{
+		"lfst": "japanese americans+processed meat"
+	},
+	{
+		"lfst": "japanese americans+fish"
+	},
+	{
+		"lfst": "latinos+total meat"
+	},
+	{
+		"lfst": "latinos+red meat"
+	},
+	{
+		"lfst": "latinos+processed meat"
+	},
+	{
+		"lfst": "latinos+fish"
+	},
+	{
+		"lfst": "whites+total meat"
+	},
+	{
+		"lfst": "whites+red meat"
+	},
+	{
+		"lfst": "whites+processed meat"
+	},
+	{
+		"lfst": "whites+fish"
+	},
+	{
+		"lfst": "total fruits and vegetable"
+	},
+	{
+		"lfst": "cereals"
+	},
+	{
+		"lfst": "workplace stress"
+	},
+	{
+		"lfst": "workplace stress(cumulative duration of exposure to workplace stress and aged 65 or more)"
+	},
+	{
+		"lfst": "workplace stress(exposure to workplace stress and younger than age65)"
+	},
+	{
+		"lfst": "workplace stress(cumulative duration of exposure to workplace stress and younger than age65)"
+	},
+	{
+		"lfst": "duration of alcohol consumption"
+	},
+	{
+		"lfst": "prostate diseases"
+	},
+	{
+		"lfst": "urinary system diseases"
+	},
+	{
+		"lfst": "prostate cancer"
+	},
+	{
+		"lfst": "animal"
+	},
+	{
+		"lfst": "soy products"
+	},
+	{
+		"lfst": "cooking methods:steam/stew"
+	},
+	{
+		"lfst": "boil"
+	},
+	{
+		"lfst": "barbecue"
+	},
+	{
+		"lfst": "fry"
+	},
+	{
+		"lfst": "introverted personality"
+	},
+	{
+		"lfst": "self-endure suffering"
+	},
+	{
+		"lfst": "high sensitivity to the personal comments form other people"
+	},
+	{
+		"lfst": "negative event frequency"
+	},
+	{
+		"lfst": "death of spouse"
+	},
+	{
+		"lfst": "occupayional setbacks"
+	},
+	{
+		"lfst": "serious disease"
+	},
+	{
+		"lfst": "life difficulty"
+	},
+	{
+		"lfst": "marital separation"
+	},
+	{
+		"lfst": "disharmonious relationship with spouse"
+	},
+	{
+		"lfst": "death of parent"
+	},
+	{
+		"lfst": "unfortunate of relatives"
+	},
+	{
+		"lfst": "supplement vitamin d"
+	},
+	{
+		"lfst": "total vitamin d"
+	},
+	{
+		"lfst": "total milk"
+	},
+	{
+		"lfst": "low-/nonfat milk"
+	},
+	{
+		"lfst": "whole milk"
+	},
+	{
+		"lfst": "yogurt"
+	},
+	{
+		"lfst": "dairy products+african americans"
+	},
+	{
+		"lfst": "total milk+african americans"
+	},
+	{
+		"lfst": "low-/nonfat milk+african americans"
+	},
+	{
+		"lfst": "whole milk+african americans"
+	},
+	{
+		"lfst": "yogurt+african americans"
+	},
+	{
+		"lfst": "cheese+african americans"
+	},
+	{
+		"lfst": "calcium+japanese americans"
+	},
+	{
+		"lfst": "total vitamin d+japanese americans"
+	},
+	{
+		"lfst": "dairy products+japanese americans"
+	},
+	{
+		"lfst": "total milk+japanese americans"
+	},
+	{
+		"lfst": "low-/nonfat milk+japanese americans"
+	},
+	{
+		"lfst": "whole milk+japanese americans"
+	},
+	{
+		"lfst": "yogurt+japanese americans"
+	},
+	{
+		"lfst": "cheese+japanese americans"
+	},
+	{
+		"lfst": "calcium+latinos"
+	},
+	{
+		"lfst": "total vitamin d+latinos"
+	},
+	{
+		"lfst": "dairy products+latinos"
+	},
+	{
+		"lfst": "total milk+latinos"
+	},
+	{
+		"lfst": "low-/nonfat milk+latinos"
+	},
+	{
+		"lfst": "whole milk+latinos"
+	},
+	{
+		"lfst": "yogurt+latinos"
+	},
+	{
+		"lfst": "cheese+latinos"
+	},
+	{
+		"lfst": "total vitamin d+whites"
+	},
+	{
+		"lfst": "dairy products+whites"
+	},
+	{
+		"lfst": "total milk+whites"
+	},
+	{
+		"lfst": "low-/nonfat milk+whites"
+	},
+	{
+		"lfst": "whole milk+whites"
+	},
+	{
+		"lfst": "yogurt+whites"
+	},
+	{
+		"lfst": "cheese+whites"
+	},
+	{
+		"lfst": "supplement vitamin e"
+	},
+	{
+		"lfst": "vitamin e supplement duration"
+	},
+	{
+		"lfst": "alpha-tocopherol from food"
+	},
+	{
+		"lfst": "beta-tocopherol from food"
+	},
+	{
+		"lfst": "gamma-tocopherol from food"
+	},
+	{
+		"lfst": "delta-tocopherol from food"
+	},
+	{
+		"lfst": "dairy vitamin e"
+	},
+	{
+		"lfst": "single selenium supplements"
+	},
+	{
+		"lfst": "selenium+age"
+	},
+	{
+		"lfst": "cholesterol-lowering drugs"
+	},
+	{
+		"lfst": "fibrates"
+	},
+	{
+		"lfst": "other cholesterol-lowering drugs"
+	},
+	{
+		"lfst": "sexual activity"
+	},
+	{
+		"lfst": "lipid"
+	},
+	{
+		"lfst": "serum estradiol level"
+	},
+	{
+		"lfst": "serum testosterone level"
+	},
+	{
+		"lfst": "first-degree family history of pca"
+	},
+	{
+		"lfst": "agrichemical exposure"
+	},
+	{
+		"lfst": "birth place"
+	},
+	{
+		"lfst": "stature"
+	},
+	{
+		"lfst": "phylloquinone"
+	},
+	{
+		"lfst": "menaquinones"
+	},
+	{
+		"lfst": "duration of diabetes exposure"
+	},
+	{
+		"lfst": "age at diabetes diagnosis"
+	},
+	{
+		"lfst": "diabetes treatment"
+	}
+]

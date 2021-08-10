@@ -1,0 +1,143 @@
+doctype html
+html
+	head
+		meta(charset='UTF-8')
+		meta(http-equiv='X-UA-Compatible' content='IE=edge')
+		meta(name='viewport' content='width=device-width, initial-scale=1')
+		title Pca_KG
+		meta(name='description' content='')
+		meta(name='keywords' content='')
+		meta(name='author' content='')
+		link(rel='shortcut icon' href='')
+		script(src='https://cdn.bootcss.com/jquery/2.1.4/jquery.min.js')
+		link(href='https://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css' rel='stylesheet' crossorigin='anonymous')
+		script(src='https://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js')
+		link(rel='stylesheet' type='text/css' href='/stylesheets/graph.css')
+		script(src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js")
+		script(src="/javascripts/d3.v4.min.js")
+		script(src="/javascripts/saveSvgAsPng.js")
+		script(src="https://v2.bootcss.com/assets/js/bootstrap-typeahead.js")
+		script.
+			var data = "";
+			var sourceArr = new Array();
+			//URL查询参数的特殊字符处理
+			function URLencode(sStr)   
+			{  
+				return escape(sStr).replace(/\+/g, '%2B').replace(/\"/g,'%22').replace(/\'/g, '%27').replace(/\//g,'%2F').replace('α', '%CE%B1');  
+			} 
+			//搜索框下拉列表加载lifestyles
+			$(document).ready(function() {
+				// Workaround for bug in mouse item selection
+				$.getJSON("/shuju/lifestyles.json", function(result){
+					for(var i=0;i<result.length;i++)
+						sourceArr.push(result[i].lfst);
+				});
+				$.fn.typeahead.Constructor.prototype.blur = function() {
+					var that = this;
+					setTimeout(function () { that.hide() }, 250);
+				};
+				$('#searchbox').typeahead({
+					source: function(query, process) {
+						return sourceArr;
+					}
+				});
+			})
+			
+			search_kg = function () {
+				var search_box = document.getElementById("searchbox");
+				var query = search_box.value;
+				$.ajax({url: 'http://localhost:3000/neo4j?query='+URLencode(query), timeout: 30000, dataType: 'json', success: function(res){
+					//处理数据
+					var shuzu = new Array();
+					var text = "";
+					//得到json数组
+					for(var i=0;i<res['data'].length;i++){
+						var std_data = JSON.parse('{' + '"p":' + JSON.stringify(res['data'][i]['_fields'][0])+','+'"q":' + JSON.stringify(res['data'][i]['_fields'][1])+'}');
+						shuzu.push(std_data);
+					}
+					for(var j=0;j<shuzu.length;j++){
+						text = text + JSON.stringify(shuzu[j]) + ',';
+					}
+					text = '[' + text.slice(0,-1) + ']';
+					if(text=='[]'){
+						$("#json_dis").html('No returned JSON!');
+						$("#btn_json").click(function(){
+							$("#json_dis").toggle();
+						});
+					}
+					else{
+						$("#json_dis").html(text);
+					
+						$("#btn_json").click(function(){
+							$("#json_dis").toggle();
+						});
+						//引入外部js文件
+						data = shuzu;
+						$.getScript("/javascripts/aj_outer.js");
+						
+						//数据保存到本地功能
+						$("#btn_down").attr("disabled",false);
+						document.querySelector('#btn_down').addEventListener('click', saveFile);
+						
+						function fakeClick(obj) { 
+							var ev = document.createEvent("MouseEvents");
+							ev.initMouseEvent("click", true, false, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+							obj.dispatchEvent(ev);
+						}
+						function exportRaw(name, data) {
+							var urlObject = window.URL || window.webkitURL || window;
+							var export_blob = new Blob([data]);
+							var save_link = document.createElementNS("http://www.w3.org/1999/xhtml", "a")
+							save_link.href = urlObject.createObjectURL(export_blob);
+							save_link.download = name;
+							fakeClick(save_link);
+						}
+						function saveFile(){
+							var inValue  = text;
+							exportRaw('test.txt', inValue);
+						}
+					}
+				}
+				});
+			};
+
+	body
+		h3(style='color:#fff') Search lifestyle from Pcadblist!
+		div(align='center' style='margin-bottom:15px')
+			.input-group.col-md-4(style='margin-top:0px'  positon:relative)
+				input#searchbox.form-control(type='text' data-provide='typeahead' placeholder='Search a lifestyle...')
+				span.input-group-btn
+					button.btn.btn-info.btn-search(onclick='search_kg();') submit
+					button#btn_json.btn.btn-info.btn-search(style='margin-left:5px') Hide/Show
+					button#btn_down.btn.btn-info.btn-search(style='margin-left:15px' disabled='disabled') Download
+		
+		.panel.panel-primary
+			.panel-heading
+				h3.panel-title The panel displays the json from neo4j
+			#json_dis.panel-body
+		
+		h4#lfst(style='color:#fff;font-size:20px;margin-bottom:5px;text-align:center;margin-left:15px;')
+		p(style='color:#fff')
+			| entities 
+			span.badge(id='ents_len')
+			| links 
+			span.badge(id='links_len')
+		
+		div(style='text-align:center;position:relative;')
+			#svgouter(style='width:800px;height:550px;margin-bottom:10px;display:flex;justify-content:center;align-items:center;left:180px;position:relative;border: 2px solid lightgrey;')
+				svg#svg1(width='700' height='500')
+			#indicator
+			button#btn_svgtopng.btn.btn-info.btn-search(onclick='svgToCanvas();') svg->png
+			#search
+				input.form-control(type='text')
+			#info
+				h4
+			
+		.panel.panel-primary
+			.panel-heading
+				p 
+					| Contact: 1300478940@qq.com
+				p
+					| Institutes for Systems Genetics, West China Hospital, Chengdu
+		
+		

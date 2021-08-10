@@ -1,0 +1,2290 @@
+age
+body mass index
+smoke
+serum selenium
+rice consumption
+race
+black
+whites
+selenium
+age<70+selenium
+age≥70+selenium
+atlanta+selenium
+detroit+selenium
+new jersey+selenium
+never smoke+selenium
+former smoke+selenium
+current smoke+selenium
+plasmaselenium
+selenoprotein p
+calcium
+dairy calcium
+non-dairy calcium
+phosphorus
+ca:p ratio
+ca+low p<1291
+ca+high p≥1291
+dairy products
+milk
+cheese
+fresh cheese
+yoghurt
+lignans
+isoflavones
+lariciresinol
+matairesinol
+pinoresinol
+secoisolariciresinol
+daidzein
+genistein
+glycitein
+biochanin a
+toenail selenium+low vitamin c
+toenail selenium+high vitamin c
+toenail selenium+low vitamin e
+toenail selenium+high vitamin e
+toenail selenium+low acarotene
+toenail selenium+high acarotene
+toenail selenium+low bcarotene
+toenail selenium+high bcarotene
+toenail selenium+low bcryptoxanthin
+toenail selenium+high bcryptoxanthin
+toenail selenium+low lycopene
+toenail selenium+high lycopene
+toenail selenium+low lutein/zeaxanthin
+toenail selenium+high lutein/zeaxanthin
+never smoke
+former smoke
+current smoke
+folate
+vitamin b6
+vitamin b12
+homocysteine
+total testosterone
+testosterone/shbg
+estradiol
+age+calcium
+body mass index+calcium
+total testosterone+calcium
+testosterone/shbg+calcium
+estradiol+calcium
+sexual function
+number of meals
+fish
+lamb
+beef
+animal fat
+fruits
+vegetable
+green tea
+family history
+alcohol
+tobacco
+plasma enterolactone
+weight
+height
+psa
+testosterone
+waist circumference
+logpase score
+glucose
+triglyceride
+high-density lipoprotein
+blood pressure
+metabolic syndrome
+greenness
+pcb153 exposure
+lycopene
+tea+lycopene
+plasma concentration
+chlordecone plasma+without family history
+chlordecone plasma+family history
+chlordecone plasma++without past residence
+chlordecone plasma+past residence
+warfarin
+binge drinking status
+vasectomy
+year since vasectomy
+total dairy products products
+low-fat dairy
+high-fat dairy
+dietary calcium
+supplement calcium
+antidiabetic drug
+metformin
+sulphonylurea
+thiazolidinedione
+insulin
+folate+vitamin b12
+folate+non-swedish
+folate+swedish
+duration of multivitamins
+duration of vitamin e
+duration of beta-carotene
+duration of folate
+duration of zinc
+duration of selenium
+zinc+selenium
+multivitamins
+calories+african americans
+protein+african americans
+carbohydrate+african americans
+fat+african americans
+fiber+african americans
+vitamin c+african americans
+vitamin e+african americans
+vitamin a+african americans
+total glutathione+african americans
+retinol+african americans
+pro-vitamin a carotenoids+african americans
+α-carotene+african americans
+β-carotene+african americans
+cryptoxanthin+african americans
+folate+african americans
+lutein+african americans
+lycopene+african americans
+genistein+african americans
+daidzein+african americans
+grains+african americans
+vegetable+african americans
+fruits and/or fruits juices+african americans
+calories+caucasians
+protein+caucasians
+carbohydrate+caucasians
+fat+caucasians
+fiber+caucasians
+vitamin c+caucasians
+vitamin e+caucasians
+vitamin a+caucasians
+total glutathione+caucasians
+retinol+caucasians
+pro-vitamin a carotenoids+caucasians
+α-carotene+caucasians
+β-carotene+caucasians
+cryptoxanthin+caucasians
+folate+caucasians
+lutein+caucasians
+lycopene+caucasians
+genistein+caucasians
+daidzein+caucasians
+grains+caucasians
+vegetable+caucasians
+fruits and/or fruits juices+caucasians
+calories
+protein
+carbohydrate
+fat
+fiber
+vitamin c
+vitamin e
+vitamin a
+total glutathione
+retinol
+pro-vitamin a carotenoids
+α-carotene
+β-carotene
+cryptoxanthin
+lutein
+grains
+fruits and/or fruits juices
+sun exposure in warmer months of the yr when aged 30 and 50
+sun exposure on weekdays in warmer months of the yr when aged 30 and 50
+sun exposure on weekends in warmer months of the yr when aged 30 and 50
+skin color
+ability to tan
+sun sensitivity
+hat
+african americans+refined grain intake
+african americans+whole grain intake
+african americans+fiber
+african americans+insoluble fiber
+african americans+soluble fiber
+european americans+refined grain intake
+european americans+whole grain intake
+european americans+fiber
+european americans+insoluble fiber
+european americans+soluble fiber
+refined grain intake
+whole grain intake
+insoluble fiber
+soluble fiber
+methionine
+mthfr polymorphism c677t
+mthfr polymorphism a1298c
+methionine > 2.6g/day+ mthfr polymorphism c677t carriers
+methionine > 2.6g/day+ mthfr polymorphism a1298c carriers
+regular coffee+brca+
+regular vigorous exercise+brca+
+daily aspirin+brca+
+statin+brca+
+finasteride+brca+
+alcohol+brca+
+smokehistory+brca+
+vasectomy history+brca+
+regular coffee+brca-
+regular vigorous exercise+brca-
+daily aspirin+brca-
+statin+brca-
+finasteride+brca-
+alcohol+brca-
+smokehistory+brca-
+vasectomy history+brca-
+no2
+sun exposure
+low sun exposure
+medium sun exposure
+high sun exposure
+body weight
+weight gain in adult
+any cancer in fathers
+any cancer in mothers
+prostate cancer in fathers or brothers
+breast cancer in mothers or sisters
+uterine cancer in mothers or sisters
+colorectal cancer in parents or siblings
+pancreatic cancer in parents or siblings
+bile duct cancer in parents or siblings
+chronotype
+shift work
+sleep duration
+sleep quality
+all milk
+low-fat milk
+high-fat milk
+products high in lactose>3g/100 g
+products low in lactose<3g/100 g
+total fat
+total fat+family history
+total fat+no family history
+fat+family history
+fat+no family history
+pufa
+pufa+family history
+pufa+no family history
+n-6 pufa
+n-6 pufa+family history
+n-6 pufa+no family history
+monounsaturated fat
+monounsaturated fat+family history
+monounsaturated fat+no family history
+saturated fat
+saturated fat+family history
+saturated fat+no family history
+trans fat
+trans fat+family history
+trans fat+no family history
+total dairy products
+total dairy products+family history
+total dairy products+no family history
+total meat
+total meat+family history
+total meat+no family history
+dairy+current smokers
+dairy+former smoke
+current smokers
+fruits and vegetable servings
+heavy alcohol
+sedentary behavior
+perceived health
+fruits/vegetable servings+age≤ 65
+fruits/vegetable servings+age>65
+fruits/vegetable servings+race:black
+fruits/vegetable servings+race:nonblack
+fruits/vegetable servings+education≤12yr
+fruits/vegetable servings+education>12yr
+fruits/vegetable servings+urbanicity:urban
+fruits/vegetable servings+urbanicity:rural
+smoke+age≤ 65
+smoke+age>65
+smoke+race:black
+smoke+race:nonblack
+smoke+education≤12yr
+smoke+education>12yr
+smoke+urbanicity:urban
+smoke+urbanicity:rural
+heavy alcohol+age≤ 65
+heavy alcohol+age>65
+heavy alcohol+race:black
+heavy alcohol+race:nonblack
+heavy alcohol+education≤12yr
+heavy alcohol+education≤ 13yr
+heavy alcohol+education>12yr
+heavy alcohol+education>13yr
+heavy alcohol+urbanicity:urban
+heavy alcohol+urbanicity:rural
+sedentary behavior+age≤ 65
+sedentary behavior+age>65
+sedentary behavior+race:black
+sedentary behavior+race:nonblack
+sedentary behavior+education≤12yr
+sedentary behavior+education>12yr
+sedentary behavior+urbanicity:urban
+sedentary behavior+urbanicity:rural
+body mass index+age≤ 65
+body mass index+age>65
+body mass index+race:black
+body mass index+race:nonblack
+body mass index+education≤12yr
+body mass index+education>12yr
+body mass index+urbanicity:urban
+body mass index+urbanicity:rural
+perceived health+age≤ 65
+perceived health+age>65
+perceived health+race:black
+perceived health+race:nonblack
+perceived health+education≤12yr
+perceived health+education>12yr
+perceived health+urbanicity:urban
+perceived health+urbanicity:rural
+body mass index+underweight
+body mass index+normal
+body mass index+overweight
+body mass index+obese
+body fat
+waist:hip ratio
+diabetes
+c-peptide distribution
+c-peptide+age≤71
+c-peptide+age>71
+c-peptide+body mass index<26.5
+c-peptide+body mass index>26.5
+1-stearoylglycerol
+glycerol
+alpha-ketoglutarate
+myristoleate
+10-heptadecenoate
+palmitoleate
+5-methylthioadenosine
+phenylalanylleucine
+myristate
+21-hydroxypregnenolone disulfate
+linolenate [alpha or gamma
+phenylalanine
+valerate
+oleate
+xanthine
+sphinganine
+3-methyl-2-oxobutyrate
+glycerate
+propionylcarnitine
+margarate
+10-nonadecenoate
+palmitate
+pentadecanoate
+lysine
+1-stearoylglycerol,1-monostearin
+2arachidonoylglycerophosphoethanolamine
+5-dodecenoate
+azelate
+linoleate
+stearate
+eicosenoate
+phenol sulfate
+heme
+isovalerate
+alanine
+ribose
+glycocholate
+3-hydroxyisobutyrate
+pregnen-diol disulfate
+phenylalanyltryptophan
+lipids:3-hydroxylaurate
+lipids:oleoyl-linoleoyl-glycerophosphoinositol
+lipids:erucoyl-sphingomyelin
+lipids:stearoyl-arachidonoylglycerophosphoethanolamine
+lipids:palmitoyl-linoleoyl-glycerophosphocholine
+lipids:glycolithocholate sulfate
+lipids:docosadienoate
+lipids:inositol-1-phosphate
+lipids:stearoyl-linoleoylglycerophosphoethanolamine
+lipids:3-hydroxydecanoate
+lipids:stearoyl-linoleoyl-glycerophosphocholine
+lipids:16a-hydroxy-dhea 3-sulfate
+lipids:tauro-beta-muricholate
+amino acids:4-imidazoleacetate
+amino acids:phenylpyruvate
+amino acids:beta-hydroxyisovalerate
+amino acids:2-hydroxybutyrate,ahb
+amino acids:indolebutyrate
+xenobiotics:homostachydrine
+xenobiotics:propyl-4-hydroxybenzoate sulfate
+xenobiotics:s-,3-hydroxypropyl mercapturic acid,hpma
+nucleotides:2\'-deoxyuridine
+lipids
+lipids:21-hydroxypregnenolone monosulfate
+lipids:glycerol 3-phosphate,g3p
+amino acids:-acetyl-3-methylhistidine
+amino acids:n-acetylleucine
+amino acids:indolepropionate
+xenobiotics:cotinine
+xenobiotics:hydroxycotinine
+xenobiotics:saccharin
+nucleotides:adenosine 5\'-monophosphate,amp
+nucleotides:dihydroorotate
+cofactors and vitamins:l-urobilin
+dietary inflammatory index
+methyl bromide
+organochlorines
+captan
+simazine
+maneb
+paraquat dichloride
+eye color
+sunburn frequency
+sun exposure in adulthood
+fruits5-a-day method
+fruitsimple summation
+citrus fruits
+citrus juice
+other fruits
+vegetable5-a-day method
+vegetable simple summation
+cruciferous vegetable
+green leafy vegetable
+carrots
+beans
+cooked tomatoes
+raw tomatoes
+other vegetable
+calcium rotenoids
+calcium rotenoids except lycopene
+a-carotene
+β-cryptoxanthin
+lutein+zeaxanthin
+cimetidine
+yr of cimetidine
+cumulative use of cimetidine
+other h2 blockers
+yr of h2 blockers
+cumulative use of other h2 blockers
+total energy intake
+tomato or vegetable juices
+tomatoes
+ketchup
+all tomato-based foods
+yellow vegetable
+fruits and/or fruits juice
+rice andnoodles
+grain and cereals
+tofu
+baked beans and lentils
+meat
+processed meat
+tea
+coffee
+alcohol(beer wine liquor）
+strenuous activity in mid-teens
+strenuous activity in early 30s
+strenuous activity in early 50s
+cigarettes
+pack-yr for cigarettes
+education
+type of occupation
+serum creatinine
+serum creatinine+age<61
+serum creatinine+age≥61
+serum creatinine+cigarettes< 20
+serum creatinine+cigarettes≥ 20
+serum creatinine+height<174
+serum creatinine+height≥174
+serum creatinine+body mass index< 26
+serum creatinine+body mass index≥ 26
+serum creatinine+diastolic blood pressure<90
+serum creatinine+diastolic blood pressure ≥90
+serum creatinine+systolic blood pressure<140
+serum creatinine+systolic blood pressure≥140
+serum creatinine+hypertension:no
+serum creatinine+hypertension:yes
+serum creatinine+alpha-tocopherol supplementation:no
+serum creatinine+alpha-tocopherol supplementation:yes
+serum creatinine+beta-carotene supplementation:no
+serum creatinine+beta-carotene supplementation:yes
+serum creatinine+serum alpha-tocopherol< 11.75
+serum creatinine+serum alpha-tocopherol ≥11.75
+serum creatinine+serum alpha-tocopherol ≥11.78
+serum creatinine+serum homocysteine< 11.8
+serum creatinine+serum homocysteine ≥11.8
+serum creatinine+proteine intake< 91
+serum creatinine+proteine intake≥91
+serum creatinine+alcohol intake<9.3
+serum creatinine+alcohol intake≥9.3
+baked products
+breakfast cereals
+cereals grain and pasta
+soups sauces and gravies
+vegetable and vegetable products
+legumes
+nuts
+eggs products
+finfishand shellfish
+poultry products
+sausages
+pork products
+beef lamb and veal products
+fast food
+snacks and sweets
+spices and herbs
+fats and oils
+beverage
+carbohydrates
+sodium
+potassium
+thiamin
+riboflavin
+niacin
+saturated fats
+oleic acid
+linoleic acid
+cholesterol
+animal protein
+vegetable protein
+vegetable fat
+a-tocopherol
+fungicide:benomyl
+fungicide:captan
+fungicide:captanþlindane
+fungicide:carbathiinþthiram
+fungicide:carbathiinþthiramþlindane
+fungicide:chloranil
+fungicide:chlorothalonil
+fungicide:copper oxychloride
+fungicide:copper sulfate
+fungicide:dichlone
+fungicide:dinocap
+fungicide:dodine
+fungicide:ferbam
+formaldehyde
+fungicide:iprodione
+fungicide:mancozeb
+fungicide:maneb
+fungicide:metam sodium
+fungicide:metiram
+fungicide:sulfur
+fungicide:thiophanate-methyl
+fungicide:thiram
+fungicide:zineb
+fungicide:ziram
+herbicide:24-d
+herbicide:2,4-db
+herbicide:alachlor
+herbicide:atrazine
+herbicide:bentazonþatrazine
+herbicide:bromoxynilþmcpa
+herbicide:butylateþcrop protectant
+herbicide:chloroxuron
+herbicide:chlorpropham
+herbicide:cyanazine
+herbicide:dicamba
+herbicide:dichlobenil
+herbicide:diclofop-methyl
+herbicide:difenzoquat
+herbicide:dinoseb amine
+herbicide:diquat
+herbicide:eptc
+herbicide:eptcþcrop protectant
+herbicide:glyphosate
+herbicide:linuron
+herbicide:maleic hydrazide
+herbicide:mcpa
+herbicide:metolachlor
+herbicide:paraquat
+herbicide:simazine
+herbicide:trifluralin
+insecticide:35-dinitro-o-cresol
+insecticide:aldrin
+insecticide:azinphos-methyl
+insecticide:bacillus thuringiensis
+insecticide:carbaryl
+insecticide:carbarylþnaa
+insecticide:carbofuran
+insecticide:chlordane
+insecticide:chlorpyrifos
+insecticide:cyhexatin
+insecticide:ddt
+insecticide:deltamethrin
+insecticide:diazinon
+insecticide:dichlorvos
+insecticide:dieldrin
+insecticide:dimethoate
+insecticide:disulfoton
+insecticide:endosulfan
+insecticide:ethion
+insecticide:fenthion
+insecticide:fonophos
+insecticide:heptachlor
+insecticide:lindane
+insecticide:malathion
+insecticide:methamidophos
+insecticide:mevinphos
+insecticide:naled
+insecticide:parathion
+insecticide:permethrin
+insecticide:phosalone
+insecticide:pirimicarb
+insecticide:propargite
+insecticide:rotenoneþsulfur
+insecticide:sodium fluosilicate
+insecticide:tetradifon
+fertilizer:ammonia
+fertilizer:hydrogen sulfide
+fertilizer:methane
+fumigant:1,3-dichloropropene
+fumigant:1,2-dichloropropaneþ1,3-ichloropropene
+fumigant:dbcp
+fumigant:methyl isothiocyanate
+fumigant:plant growth regulator
+fumigant:daminozide
+fumigant:ethephon
+fumigant:gibberellic acid
+fumigant:naa
+dicofol
+mercury
+metaldehyde
+fungicide:formaldehyde
+fungicide:thiopanate-methyl
+herbicide:24-db
+herbicide:trifuralin
+insecticide:35-dinitro-cresol
+insecticide:bacillus thurigensis
+insecticide:rotenone-sulfur
+plant growth regulator:naa
+antihypertensive
+comorbidities
+farming
+personal history of smoke
+marital status
+residence
+quadrant
+house hold income adequacy
+history of cardiovascular disease
+radiation
+water source
+met-h/wk in 1992
+met-h/wk at age40
+exercise in 1982
+exercise at baseline
+activity during adolescence
+age at diagnosis <65+exercise at baseline
+age at diagnosis <65+activity during adolescence
+age at diagnosis ≥65+exercise at baseline
+age at diagnosis ≥65+activity during adolescence
+psa test in the past 3 y+exercise at baseline
+psa test in the past 3 y+activity during adolescence
+no psa test in the past 3 y+exercise at baseline
+no psa test in the past 3 y+activity during adolescence
+total glucosinolate intake
+aliphatic glucosinolate intake
+indole glucosinolate intake
+anticoagulants
+duration of us of anticoagulants
+time since first of anticoagulants
+current of anticoagulants
+age at first of anticoagulants
+indication of anticoagulants
+frequency of vigorous exercise
+frequency of vigorous exercise+age<70
+frequency of vigorous exercise+age≥70
+frequency of vigorous exercise+body mass index<25
+frequency of vigorous exercise+body mass index≥25
+frequency of vigorous exercise+ever smoke
+frequency of vigorous exercise+never smoke
+frequency of vigorous exercise+regular alcohol
+frequency of vigorous exercise+rarely alcohol
+frequency of vigorous exercise+ever of multivitamins
+frequency of vigorous exercise+never of multivitamins
+frequency of vigorous exercise+diabetes
+frequency of vigorous exercise+no diabetes
+frequency of vigorous exercise+hypertension
+frequency of vigorous exercise+no hypertension
+frequency of vigorous exercise+history of high cholesterol
+frequency of vigorous exercise+no history of high cholesterol
+total preserved food
+pickled vegetable
+fermented soy products
+salted fish
+preserved meat
+frequency of physical activity+age
+frequency of physical activity+lifetime activity
+met-h of physical activity/week+age19-30 yr
+frequency of vigorous physical activityat ages 19-29+age,yr at baseline < 65
+frequency of vigorous physical activityat ages 19-29+body mass indexat baseline < 25
+frequency of physical activity+age+body mass index
+frequency of vigorous physical activityat ages 19-29+body mass indexat baseline ≥ 25
+frequency of physical activity+race:white
+frequency of physical activity+race:black
+ever had a job with sedentary or light work
+nunmber of yr in job with sedentary or light work
+proportion of job with sedentary/ light work
+proportion of job with moderate/heavy/very heavy work
+level of physical activity+job
+lean fishintake
+fatty fishintake
+ω-6 pufas:linoleic acid,la
+ω-6 pufas:linoleic acid,la+smoke
+ω-6 ufas:arachidonic acid,aa+age
+ω-6ufas:arachidonic acid,aa+age
+ω-6 ufas:arachidonic acid,aa
+ω-6 ufas:arachidonic acid,aa+smoke
+ω-6ufas:arachidonic acid,aa+smoke
+ω-3 pufas:a-linolenic acid,ala
+ω-3 pufas:a-linolenic acid,ala+smoke
+ω-3 pufas:a-linolenic acid,ala+age
+ω-3 pufas: eicosapentaenoic acid,epa
+ω-3 pufas: eicosapentaenoic acid,epa+smoke
+ω-3 pufas: eicosapentaenoic acid,epa+age
+ω-3 pufas: docosapentaenoic acid ,dpa
+ω-3 pufas: docosahexaenoic acid ,dha+smoke
+red meat
+white meat
+poultry
+liver
+low body mass index+total meat
+low body mass index+red meat
+low body mass index+processed meat
+low body mass index+total white meat
+low body mass index+poultry
+low body mass index+fish
+low body mass index+liver
+high body mass index+total meat
+high body mass index+red meat
+high body mass index+processed meat
+high body mass index+total white meat
+high body mass index+poultry
+high body mass index+fish
+high body mass index+liver
+polyunsaturated fat
+a-linolenic acid
+iron
+ndma
+low body mass index+animal protein
+low body mass index+saturated fat
+low body mass index+monounsaturated fat
+low body mass index+polyunsaturated fat
+low body mass index+linoleic acid
+low body mass index+a-linolenic acid
+low body mass index+cholesterol
+low body mass index+iron
+low body mass index+phosphorus
+lowbody mass index+vitamin b12
+lowbody mass index+ndma
+high body mass index+animal protein
+high body mass index+saturated fat
+high body mass index+monounsaturated fat
+high body mass index+polyunsaturated fat
+high body mass index+linoleic acid
+high body mass index+a-linolenic acid
+high body mass index+cholesterol
+high body mass index+iron
+high body mass index+phosphorus
+highbody mass index+vitamin b12
+highbody mass index+ndma
+total genistein
+total fiber
+birth weight
+birth length
+head circumference
+ponderal index
+placental weight
+fish consumption+age
+hamburger
+steak
+bacon
+sausage
+home made gravy
+grilled red meat
+oven broiled red meat
+pan-fried red meat
+baked red meat
+high temperature-cookedc red meat
+well-done red meat
+high temperature-cookedc hamburger
+well-done hamburger
+high temperature-cookedc steak
+well-done steak
+grilled poultry
+oven broiled poultr
+pan-fried poultry
+baked poultry
+high temperature-cookedc poultry
+well-done poultry
+phip
+melqx
+dimelqx
+bap
+mutagenic activity,number of revertant colonies
+mutagenic activity,number of predicted revertant colonies
+marginal effect of rs20417+g/g genotype
+mutagenic activity,number of revertant colonies+g/g genotype
+mutagenic activity,number of predicted revertant colonies+g/g genotype
+meiqx+g/g genotype
+marginal effect of rs20417+g/c genotype
+mutagenic activity,number of revertant colonies+g/c genotype
+mutagenic activity,number of predicted revertant colonies+g/c genotype
+meiqx+g/c genotype
+marginal effect of rs20417+c/c genotype
+mutagenic activity,number of revertant colonies+c/c genotype
+mutagenic activity,number of predicted revertant colonies+c/c genotype
+meiqx+c/c genotype
+tuna
+deep-fried fish
+dark fish
+white fish
+dark fishintake other methods+co/ca
+dark fishintake baked+co/ca
+dark fishintake oven-broiled+co/ca
+dark fishintake grilled+co/ca
+dark fishintake pan-fried+co/ca
+white fishintake other methods+co/ca
+white fishintake baked+co/ca
+white fishintake oven-broiled+co/ca
+white fishintake grilled+co/ca
+white fishintake pan-fried+co/ca
+dark fishintake just until done
+dark fishintake well done/very well done
+white fishintake just until done
+well done/very well done
+dark fishintake just until done and low temperature
+dark fishintake well done and low temperature
+dark fishintake just until done and high temperature
+dark fishintake well done and high temperature
+white fishintake just until done and low temperature
+white fishintake well done and low temperature
+white fishintake just until done and high temperature
+white fishintake well done and high temperature
+miso soup
+soy food
+genistein+>60 y
+daidzein+>60 y
+miso soup+>60 y
+soy food+>60 y
+genistein+≤60 y
+daidzein+≤60 y
+miso soup+≤60 y
+soy food+≤60 y
+soy food+≤61 y
+pork
+ham/lunch meat
+hot dogs
+total processed+unprocessed red meat+blacks
+unprocessed red meat+blacks
+processed meat+blacks
+cooked processed meat+blacks
+lunchmeat+blacks
+poultry+blacks
+total processed+unprocessed red meat+whites
+unprocessed red meat+whites
+processed meat+whites
+cooked processed meat+whites
+lunchmeat+whites
+poultry+whites
+pizza
+barbecued meat
+pan-fried meat
+very well done meat
+dimeiqx
+meiqx
+mutagenic activity
+total englyst fiber
+soluble ncp
+total insoluble fiber
+cellulose
+insoluble ncp
+lignin
+vegetable fiber
+fruits fiber
+grain fiber
+combined soy foods
+socioeconomic status
+parity
+pre-eclampsia or eclampsia
+gestational age
+smokehistory
+cereal fiber
+legume fiber
+leisure physical activity
+physical activity
+wine
+liquor
+beer
+pack-yr of smoke
+pipe/cigar
+age at first intercourse
+no. of children
+total protein
+carotenes
+monosaturated fat
+total omega-6 fat
+father\'s side of family
+mother\'s side of family
+tomato sauce
+southern european ancestry+tomato sauce intake
+other caucasian ancestry+tomato sauce intake
+tea consumotion
+carbonated beverages
+allium food group
+garlic
+scallions
+chinese chives
+leeks
+onion
+zeaxanthin
+alpha-tocopherol
+gamma-tocopherol
+retinyl palmitate
+smoke duration
+cigarettes/day
+smoking cessation duration
+vitamin e in 1992
+long-term vitamin e
+vitamin e+never smokers
+long-term vitamin e+never smokers
+vitamin e+never smokers+current smokers
+long-term vitamin e+current smokers
+vitamin e+current smokers
+vitamin e+former smoke
+long-term vitamin e+former smoke
+watermelon
+pumpkin
+citrus
+spinach
+no. sexual partners
+frequency of sexual intercourse
+gonorrhea
+no. gonorrhea episodes
+syphilis
+herpes
+other std
+partner history of cervical cancer
+prostatitis
+lifetime no. stds
+vegetable w/o legumes
+cauliflower
+cabbage
+dark green vegetable
+broccoli
+dark leafy greens
+dark green lettuce
+light green vegetable
+light green lettuce
+all fruits and juices
+fruits juice alone
+yellow or orange fruits
+oranges
+orange/grape fruits juice
+papaya
+lycopene-containing foods/all
+lycopene-containing foods/raw
+tomatoes/cooked
+tomatoes/raw
+tomato/v-8 juice
+tomato or vegetable soup
+spaghetti, ravioli and lasagna
+mexican/spanish rice
+luteind
+111: officials and administrators unique to government
+1116: inspectors and regulatory officers, government
+1130126: general manager, finance,bank.+finance
+1143: production management occupations
+1171162: auditor,prof.+tech., n.e.c.
+1179299: other occupations related to management and administration
+21: occupations in natural sciences, engineering and mathematics
+2144: electrical engineers
+2144110: design and development engineer, electrical and electronic,prof.+tech., n.e.c.
+23: occupations in social sciences and related fields
+2391118: counsellor, educational,educ.
+271: university teaching and related occupations
+315: other occupations in medicine and health
+335: occupations in writing
+4171: receptionists and information clerks
+4197: general office clerks
+513/514: sales occupations, commodities
+5135182: salesperson, footwear,ret. trade
+5137: sales clerks, commodities
+5137111: supermarket clerk,ret. trade
+5145: service station attendants
+5199158: telephone solicitor,any ind.
+6112: police officers and detectives, government
+6112146: detective,gov. serv.
+6112158: police officer,gov. serv.
+6117190: infantry soldier,military
+612: food and beveragepreparation and related service occupations
+6121130: short-order cook,cater.+lodg.
+613: occupations in lodging and other accommodation
+6145: travel and related attendants, except food and beverage
+619: other service occupations
+6191126: hospital cleaner,misc. serv.
+6198: occupations in labouring and other elemental work, services
+71: farming. horticultural and animal-husbandry occupations
+711: farmers
+7111: general farmers
+7111110: farmer, general,agric.
+7183: field crop and vegetable-growing workers
+7183122: farm worker, vegetable,agric.
+75: forestry and logging occupations
+751: forestry and logging occupations
+7513: timber cutting and related occupations
+7513122: logger, all-round,forest.+log.
+8161: mixing and blending occupations, chemicals and related materials
+8161218: mixer,chem., n.e.c. paint+varn.
+8529: other fabricating and assembling occupations, metal products, n.e.c.
+858: mechanics and repairmen, n.e.c.
+8581118: industrial-truck mechanic,mech. equip., n.e.c.
+8582: aircraft mechanics and repairmen
+8595: painting and decorating occupations, except construction
+873: electrical power, lighting and wire communications equipment erecting, installing and repairing occupations
+8739: electrical power, lighting and wire communications equipment erecting, installing and repairing occupations, n.e.c.
+8784: plasterers and related occupations
+8791: pipefitting, plumbing and related occupations, n.e.c.
+8799: other construction trades occupations, n.e.c.
+911: air transport operating operations
+915: water transport operating occupations
+9173: taxi drivers and chauffeurs
+9175129: solid waste collection truck driver,motor trans.
+9179118: dispatcher, motor vehicles,motor trans.
+9918: occupations in labouring and other elemental work, n.e.c.
+9918110: labourer, municipal,gov. serv.
+1135122: credit manager,prof.+tech., n.e.c.
+1137: sales and advertising management occupations
+1137118: manager, sales,prof.+tech., n.e.c.
+2163: draughtsmen
+2349: occupations in law and jurisprudence, n.e.c.
+2711199: other university teachers
+279: other teaching and related occupations
+4131134: accounting clerk,clerical
+4131142: bookkeeping clerk,clerical
+4133110: teller,bank.+finance
+5133114: pharmaceutical representative,whole. trade
+5135178: salesperson, wearing apparel,ret. trade whole. trade
+5145110: service-station attendant,motor vehicle ret. trade
+5172: real estate salesmen
+5172118: salesperson, real estate,insur.+real estate
+8131: metal smelting, converting and refining furnacemen
+821/822: food, beverageand related processing occupations
+825: pulp and papermaking and related occupations
+826/827: textile processing occupations
+8278: occupations in labouring and other elemental work, textile processing
+8551: patternmaking, marking and cutting occupations
+9171: bus drivers
+9171110: bus driver,motor trans.
+9310: foremen/women, material handling and related occupations, n.e.c.
+955: electronic and related communications equipment operating occupations, n.e.c.
+01: agricultural industries
+0119: livestock combination farms
+04: logging industry
+041: logging industry
+103: fruits and vegetable industries
+1031: canned and preserved fruits and vegetable industry
+2619: other ho hold furniture industries
+27: paper and allied products industries
+2711: pulp industry
+3039: other ornamental and architectural metal products industries
+3199: other machinery and equipment industries n.e.c.
+32: transportation equipment industries
+321: aircraft and aircraft parts industry
+3211: aircraft and aircraft parts industry
+354: concrete products industries
+356: glass and glass products industries
+3561: primary glass and glass containers industry
+424: plumbing, heating and air conditioning, mechanical work
+427: interior and finishing work
+451: air transport industries
+4511: scheduled air transport industry
+454: water transport industries
+4541: freight and passenger water transport industry
+4571: urban transit systems industry
+5512: trucks and b s, wholesale
+561: metal and metal products, wholesale
+599: other products n.e.c., wholesale
+5999: other products n.e.c., wholesale
+611: shoe stores
+6111: shoe stores
+70: deposit accepting intermediary industries
+702: chartered banks and other banking-type intermediaries
+7021: chartered banks
+72: investment intermediary industries
+8153: taxation administration, federal
+82: provincial and territorial government service industries
+822: protective services,provincial
+8225: regulatory services, provincial
+825: general administrative services,provincial
+92: food and beverageservice industries
+921: food services
+9212: restaurants, unlicensed,including drive-ins
+984: labour organizations
+9841: labour organizations
+986: civic and fraternal organizations
+9861: civic and fraternal organizations
+0111: dairy farms
+016: horticultural specialties
+0412: contract logging industry
+104: dairy products industries
+25: wood industries
+291: primary steel industries
+2919: other primary steel industries
+3331: lighting fixture industry
+4123: hydroelectric power plants and related structures,except transmission lines
+4214: excavating and grading
+4241: plumbing
+456: truck transport industries
+492: gas distribution systems industry
+4921: gas distribution systems industry
+6212: ho hold furniture stores,without appliances and furnishings
+633: gasoline service stations
+6331: gasoline service stations
+729: other investment intermediaries
+7299: other investment intermediaries n.e.c.
+81: federal government service industries
+8152: finance and economic administration, federal
+8164: recreation and culture administration, federal
+82: provincial and territorial government service industri
+8259: other general administrative services, provincial
+83: local government service industries
+8362: social service administration, municipal
+855: m ums and archives
+8551: m ums and archives
+864:non-institutional social services
+8642: child welfare services
+961: motion picture, audio and video production and distribution
+sprits
+alcohol intake
+pack
+teetotaller
+frequency of physical activity
+pulse
+systolic blood pressure
+blood glucose levels amongnon,diabetics
+educational attainment
+occupation
+total lifetime ethanol
+total lifetime ethanol,
+total lifetime ethanol from liquor
+total lifetime ethanol from wine and wine cooler
+ever abstained from drinking
+alcohol consumption
+drinks per drinking day
+animal linolenic acid
+vegetable linolenic acid
+vitamin d
+military service
+mufa-rich vegetable oil consumption
+high socioeconomic status+mufa-rich vegetable oil consumption
+middle socioeconomic status+mufa-rich vegetable oil consumption
+low socioeconomic status+mufa-rich vegetable oil consumption
+phytanic acid
+pristanic/phytanic acid ratio
+average lifetime alcohol
+barium meal
+barium enema
+ivp
+hip/pelvic x-ray
+upper leg x-ray
+sleep
+height+no family history
+body mass index+no family history
+physical activity+no family history
+alcohol+no family history
+serum a-tocopherol+no family history
+serum β-carotene+no family history
+serum retinol+no family history
+a-tocopherol+no family history
+β-carotene+no family history
+height+family history
+body mass index+family history
+physical activity+family history
+alcohol+family history
+serum a-tocopherol+family history
+serum β-carotene+family history
+serum retinol+family history
+a-tocopherol+family history
+β-carotene+family history
+total cholesterol
+high-density lipoproteins
+low-density lipoprotein
+triglycerides
+statin
+obese
+no. of agriculture areas
+no. of hazardous waste sites
+groundwater
+zinc
+25-hydroxyvitamin d3
+1α,252d3
+venereal disease
+sex with prostitutes
+no.of female sexual partners
+no. of marriages
+age at first marriage
+age at first birth
+five yr ago, usual experience of spontaneous erection
+age first shaved
+beard growth
+acne
+ever drank alcohol
+age at first alcohol
+lifetime duration of alcohol
+lifetime intake of alcohol
+ever had a period of heavy drinking
+non-drinker
+lifetime wine
+lifetime beer
+red wine
+white wine
+abstainers
+ex-drinkers
+current drinkers
+drinkers
+duration of drinking
+age at starting
+spirits
+chicken
+butter/cheese
+eggs
+total dairy products and eggs
+broiled fish
+fishd
+yellow/green vegetable
+pickled/salted vegetable
+seaweed
+total soya intake
+bread
+rice
+cake
+black tea
+plasma growth hormone
+height+age<57
+height+age≥57
+height+body mass index<25
+height+body mass index≥25
+height+cigarettes/d<20
+height+cigarettes/d≥20
+height+smoke duration <36
+height+smoke duration≥36
+height+no history of prostatomegaly
+height+history of prostatomegaly
+height+no diabetes
+height+diabetes
+height+inactive physical activity
+height+moderately active physical activity
+height+very active physical activity
+1 total offspring
+2 total offspring
+≥ 3 total offspring
+total offspring
+male offspring
+female offspring
+frequency of drinks
+frequency of white wine drinks
+frequency of red wine
+frequency of liquor
+red beer
+frequency of red beer
+low vitamin c+serum selenium
+high vitamin c+serum selenium
+low vitamin e+serum selenium
+high vitamin e+serum selenium
+low β-carotene+serum selenium
+high β-carotene+serum selenium
+low lycopene+serum selenium
+high lycopene+serum selenium
+no multivitamin+serum selenium
+multivitamin+serum selenium
+none smoke+serum selenium
+smokers+serum selenium
+folic acid supplementation
+dietary folate
+plasma folate
+red blood cell folate
+frequency of multivitamins
+selenium+multivitamins
+noselenium+frequency of multivitamin
+vitamin e+frequency of multivitamins
+no vitamin e+frequency of multivitamin
+folate+frequency of multivitamin
+no folate+frequency of multivitamin
+vitamin e≥ 800iu/day+frequency of multivitamin
+vitamin e400-799iu/day+frequency of multivitamin
+vitamin e400-799iu/day+frequency of multivitamins
+vitamin e200-399iu/day+frequency of multivitamins
+vitamin e100-199iu/day+frequency of multivitamins
+vitamin e≤ 99iu/day+frequency of multivitamin
+multivitamins+positive family history
+multivitamins+no family history
+25-hydroxyvitamin d
+parathyroid hormone
+albumin-calcium
+dairy cadmium
+dairy cadmium+waist circumference<94 cm
+dairy cadmium+waist circumference≥94 cm
+dairy cadmium+never smoke
+dairy cadmium+ever smoke
+dairy calcium+waist circumference≥94 cm
+black tea <8 yr of follow-up
+black tea ≥8 yr of follow-up
+current vs.non- of statin
+any method of contraception
+condoms
+bidi smoke
+cigaretteswith filter
+cigaretteswithout filter
+drinking habit
+mutton
+pulses
+orange
+melon
+sunflower oil
+other oil
+vitamins
+tomato
+total pufa
+total n-3 pufa
+ala
+epa
+dha
+total n-6 pufa
+aa
+la
+n-6/n-3 ratio
+total pufa in black
+total n-3 pufa in black
+ala in black
+epa in black
+dha in black
+total n-6 pufa in black
+aa in black
+la in black
+n-6/n-3 ratio in black
+total pufa in white
+total n-3 pufa in white
+ala in white
+epa in white
+dha in white
+total n-6 pufa in white
+aa in white
+la in white
+n-6/n-3 ratio in white
+work schedule
+serum retinol at baseline
+serum retinol in follow-up
+no regular,some decaf
+no decaf, some regular
+coenzyme q10
+fishoil
+garlic pills
+10-year average of garlic pills
+ginkgo biloba
+ginseng
+grapeseed
+glucosamine
+chondroitin
+saw palmetto
+dietary zinc
+diastolic blood pressure
+mean arterial pressure
+hdl cholesterol
+random blood glucose
+number of metabolic factors present
+blood pressure medication
+cardiovascular disease
+previous cardiovascular disease
+metabolic syndromeb
+birth region/country:foreign-born men
+birth region/country:africa
+birth region/country:asia
+birth region/country:europe
+birth region/country:eastern europe
+birth region/country:northern europe
+birth region/country:southern europe
+birth region/country:western europe
+birth region/country:latin america
+birth region/country:northern america
+birth region/country:oceania
+25-hydroxyvitamin d+calcium<1200mg/day
+frequency of red wine consumption+race:white
+frequency of red wine consumption+race:african american
+frequency of red wine consumption+positive family history
+combined intake from beer, white wine and liquor
+combined intake from red wine, beer, white wine and liquor
+smoke status
+age at starting to smoke
+no. of cigarettes smoked
+yr since quit smoke
+smoke status of long-term former smoke
+age at starting to smoke of long-term former smoke
+smoke duration of long-term former smoke
+recent former+current smokers
+age at starting to smoke of recent former+current smokers
+smoke duration of recent former+current smokers
+nonsmoker
+long-term former smoke
+alcohol+finasteride treat
+beer+finasteride treat
+wine+finasteride treat
+liquor+finasteride treat
+smoke+positive family history
+smoke+no family history
+smoke+body mass index18.5-24.9
+smoke+body mass index25-29.9
+smoke+body mass index>30
+smoke+alcohol
+smoke-quit-dose
+history of diagnosed bph
+history of transurethral prostatectomy
+bph not treated with turp
+history of any cancer
+diabetes treated with medication
+hypertension
+hypertension treated with medication
+history of cigarettes
+history of cigarettes, pipe, cigar, or smokeless tobacco
+total phytoestrogens
+total isoflavones
+formononetin
+total lignans
+total enterolignans
+enterolactone
+equol
+coumestrol
+hip circumference
+infertility
+energy intake
+cruciferous vegetable+age<65
+cruciferous vegetable age≥65
+igf-i
+igfbp-3
+igf-i/igfbp-3
+igf-ii
+igfbp-2
+milk+age<65
+bread+age<65
+pasta and rice+age<65
+soups+age<65
+poultry+age<65
+fish+age<65
+pulses+age<65
+cooked vegetable+age<65
+citrus fruits+age<65
+other fruits+age<65
+milk+age≥65
+bread+age≥65
+pasta and rice+age≥65
+soups+age≥65
+poultry+age≥65
+fish+age≥65
+pulses+age≥65
+cooked vegetable+age≥65
+citrus fruits+age≥65
+other fruits+age≥65
+milk+body mass index<26
+bread+body mass index<26
+pasta and rice+body mass index<26
+soups+body mass index<26
+poultry+body mass index<26
+fish+body mass index<26
+pulses+body mass index<26
+cooked vegetable+body mass index<26
+citrus fruits+body mass index<26
+other fruits+body mass index<26
+milk+body mass index≥26
+bread+body mass index≥26
+pasta and rice+body mass index≥26
+soups+body mass index≥26
+poultry+body mass index≥26
+fish+body mass index≥26
+pulses+body mass index≥26
+cooked vegetable+body mass index≥26
+citrus fruits+body mass index≥26
+other fruits+body mass index≥26
+green-yellow vegetable
+all soy products
+natto
+no diabetes
+total ala
+ala from meat and dairy sources
+ala fromnonanimal sources
+la:ala
+epa+dha
+la:epa+dha [cis-18:2n-6:]
+beef, pork, or lamb as a main dish
+skim milk
+mayonnaise or other creamy salad
+oil and vinegar dressing
+margarine
+number of prostate specific antigen tests in past 5 yr
+number of digital rectal exams in past 5 yr
+strenuous physical activity
+moderate physical activity
+alcohol status
+drinking duration
+length of right upper arm
+body mass index<20.5+waist:hip ratio<0.87
+body mass index<20.5+waist:hip ratio:0.87-0.90
+body mass index<20.5+waist:hip ratio>0.90
+body mass index<21+waist:hip ratio<0.87
+body mass index<21+waist:hip ratio:0.87-0.90
+body mass index<21+waist:hip ratio>0.90
+body mass index:20.5-22.8+waist:hip ratio<0.87
+body mass index:20.5-22.8+waist:hip ratio0.87-0.90
+body mass index:20.5-22.8+waist:hip ratio>0.90
+body mass index:21.0-25.0+waist:hip ratio<0.87
+body mass index:21.0-25.0+waist:hip ratio0.87-0.90
+body mass index:21.0-25.0+waist:hip ratio>0.90
+body mass index>22.8+waist:hip ratio<0.87
+body mass index>22.8+waist:hip ratio:0.87-0.90
+body mass index>22.8+waist:hip ratio>0.90
+body mass index>25+waist:hip ratio<0.87
+body mass index>25+waist:hip ratio:0.87-0.90
+body mass index>25+waist:hip ratio>0.90
+cigars
+pipe
+cigarettes and cigars
+cigarettes and pipe
+cigars and pipe
+cigarettes, cigars, and pipe
+cigar
+body mass index<26.660+never smoke
+body mass index<26.660+ever smoke
+pack-yr+body mass index<26.660
+body mass index>26.660+never smoke
+body mass index>26.660+ever smoke
+pack-yr+body mass index> 26.660
+never smoke+body mass index>26.660
+ever smoke+body mass index>26.660
+age at starting+body mass index>26.660
+duration+body mass index>26.660
+amount+body mass index>26.660
+quitting+body mass index>26.660
+nonaspirin nsaid
+finasteride
+red meatat least 5 × wk
+red wine at least 3 × wk
+non-hispanic white+family history
+non-hispanic white+relationship
+non-hispanic white+number of relatives
+hispanic+family history
+hispanic+relationship
+hispanic+number of relatives
+dairy intake
+hpv 16
+duration of tea dringking
+tea consumed
+tea leaves consumed
+no. of tea drinks
+no. of new batches
+quantity of green tealeaves
+yr of farming
+recency of last farming
+mixed/applied pesticides
+handle hay, grain, silage
+harvest tobacco
+plant/pick crops
+pick cotton
+repair pesticide equipment
+feed animals
+farming+caucausians
+yr of farming+caucausians
+recency of last farming+caucausians
+mixed/applied pesticides+caucausians
+handle hay, grain, silage+caucausians
+harvest tobacco+caucausians
+plant/pick crops+caucausians
+pick cotton+caucausians
+repair pesticide equipment+caucausians
+feed animals, work with poultry/swine+caucausians
+farming+african-americans
+yr of farming+african-americans
+recency of last farming+african-americans
+mixed/applied pesticides+african-americans
+handle hay, grain, silage+african-americans
+harvest tobacco+african-americans
+plant/pick crops, till soil+african-americans
+pick cotton+african-americans
+repair pesticide equipment+african-americans
+feed animals, work with poultry/swine+african-americans
+lycopene+all genotypes
+β-carotene+all genotypes
+alpha-tocopherol+all genotypes
+β-caroten+all genotypes
+α-tocophero+all genotypes
+lycopene+arg/arg genotype
+β-carotene+arg/arg genotype
+alpha-tocopherol+arg/arg genotype
+β-caroten+arg/arg genotype
+α-tocophero+arg/arg genotype
+lycopene+gln/gln or arg/gln genotype
+β-carotene+gln/gln or arg/gln genotype
+alpha-tocopherol+gln/gln or arg/gln genotype
+β-caroten+gln/gln or arg/gln genotype
+α-tocophero+gln/gln or arg/gln genotype
+lycopeneand β-carotene+all genotypes
+lycopeneand alpha-tocopherol+all genotypes
+β-carotene and alpha-tocopherol+all genotypes
+lycopene, alpha-tocopherol, and β-carotene+all genotypes
+lycopeneand β-carotene+arg/arg genotype
+lycopeneand alpha-tocopherol+arg/arg genotype
+β-carotene and alpha-tocopherol+arg/arg genotype
+lycopene, alpha-tocopherol, and β-carotene+arg/arg genotype
+full global perceived stress scale of african american men
+perceived stress subscale of african american men
+ability to control stress subscale of african american men
+active coping of african american men
+social support of african american men
+full global perceived stress scale of caucasian men
+perceived stress subscale of caucasian men
+ability to control stress subscale of caucasian men
+active coping of caucasian men
+social support of caucasian men
+duration of clinical prostatitis
+treatment for clinical prostatitis
+first degree relatives
+binge drinking
+drinking most days
+total folate
+monoglutamates
+polyglutamates
+tetrahydrofolate
+5-methyl-tetrahydrofolate
+5-formyl-tetrahydrofolate
+folic acid
+10-formyl-dihydrofolate
+10-formyl-folate
+thyroxine
+free thyroxine
+thyroid-binding globulin
+thyroid stimulating hormone
+clinical thyroid status
+calcium+african americans
+calcium+whites
+cdx-2+african americans
+cdx-2+white american
+fok1+african american
+fok1+white american
+taq1+african american
+taq1+white american
+cdx-2+low calcium+african americans
+cdx-2+low calcium+white american
+cdx-2+high calcium+african americans
+cdx-2+high calcium+white american
+vdr cdx2 aa genotype
+vdr cdx2 ag genotype
+vdr cdx2 gg genotype
+never night work
+ever night work
+types of night work
+permanent night work
+rotating night work
+benign prostatic hypertrophy
+non bph-history
+benign prostatic hypertrophy medication
+serum calcium
+25 vitamin d
+legume
+body mass index+white
+height+white
+smoke+white
+education+white
+diabetes+white
+physical activity+white
+alcohol+white
+calcium+white
+legume+white
+lycopene+white
+selenium+white
+body mass index+african american
+height+african american
+smoke+african american
+education+african american
+diabetes+african american
+physical activity+african american
+alcohol+african american
+calcium+african american
+legume+african american
+lycopene+african american
+lycopene+african american,μg/1000 kcal/day
+selenium+african american
+body mass index+native hawaiian
+height+native hawaiian
+smoke+native hawaiian
+education+native hawaiian
+diabetes+native hawaiian
+physical activity+native hawaiian
+alcohol+native hawaiian
+calcium+native hawaiian
+legume+native hawaiian
+lycopene+native hawaiian
+selenium+native hawaiian
+body mass index+japanese american
+height+japanese american
+smoke+japanese american
+education+japanese american
+diabetes+japanese american
+physical activity+japanese american
+alcohol+japanese american
+calcium+japanese american
+legume+japanese american
+lycopene+japanese american
+selenium+japanese american
+body mass index+latino
+height+latino
+smoke+latino
+education+latino
+diabetes+latino
+physical activity+latino
+alcohol+latino
+calciumin latino
+legume+latino
+lycopene+latino
+selenium+latino
+ejaculation frequency+age20-29
+ejaculation frequency+age20-29 yr
+ejaculation frequency+age40-49 yr
+paternal history of prostate cancer
+benign prostatic hyperplasia
+timing of commencing shaving regularly
+timing of voice break
+timing of reaching puberty group
+body mass indexat diagnosis
+balding pattern
+no. of sexual partners
+no.of orgasms
+ability to maintain erection
+agriculture worker, stock farmer
+horticulture, forest worker
+miner
+chemical worker
+iron and steel industry worker
+metal shaper
+metal construction worker
+mechanical engineer, maintenance worker
+vehicle construction and maintenance worker
+electrician
+textile workers
+nutrition professional
+structural engineering worker
+civil engineering
+unskilled construction worker
+interior worker
+wood/plastic processers
+painter/varnisher
+machinery operator
+engineer, architect, chemist
+technician
+businessman
+road and rail traffic worker
+stock and transport worker
+adminstrative professional, office occupation
+guard and serviceman
+soldier
+health professional
+dietary vitamin d
+calcium+european americans
+total vitamin d+african americans
+total vitamin d+european americans
+total vitamin d+african americans,
+total vitamin d+european americans,iu/day
+ige
+allergen-specific ige
+balding at age20 vs.not
+balding at age40 vs. never bald or balding after age40
+balding at age 20 vs.not
+0-<1 year of shift work
+ever ≥1 yr of shift work
+1-<10 yr of shift work
+10-<20 yr of shift work
+≥20 yr of shift work
+ever ≥1 year of shift work without night work during work life
+0-<1 year of night work
+ever ≥1 year of night work
+1-<10 yr of night work
+10-<20 yr of night work
+≥20 yr of night work
+preferred midpoint of sleep
+preferred midpoint of sleep:early
+preferred midpoint of sleep:intermediate
+preferred midpoint of sleep:late
+“low” vitamin dof shift worker
+“high” vitamin dof shift worker
+none baldness
+any baldness
+yellow-orange vegetable
+corn
+all vegetable
+all fruits
+soyfoods
+all legumes
+yellow-orange vegetable+african-americans
+cruciferous vegetable+african-americans
+corn+african-americans
+carrots+african-americans
+tomatoes+african-americans
+soyfoods+african-americans
+legumes+african-americans
+all legumes+african-americans
+yellow-orange vegetable+whites
+cruciferous vegetable+whites
+corn+whites
+carrots+whites
+tomatoes+whites
+soyfoods+whites
+legumes+whites
+all legumes+whites
+yellow-orange vegetable+japanese
+cruciferous vegetable+japanese
+corn+japanese
+carrots+japanese
+tomatoes+japanese
+soyfoods+japanese
+legumes+japanese
+all legumes+japanese
+yellow-orange vegetable+chinese
+cruciferous vegetable+chinese
+corn+chinese
+carrots+chinese
+tomatoes+chinese
+legumes+chinese
+all legumes+chinese
+home or furniture maintenance
+painting, stripping, or varnishing furniture
+carpentry
+gardening
+car or motorcycle maintenance
+sports or other outdoor activities
+paints, lacquers, or stains
+aerosols or spray paints
+chemical solvents
+dyes
+wood dust
+plastic cement
+plastic resins
+epoxy resins
+film-developing fluids
+metal dust
+lubricating oils or grease
+pesticides or garden sprays
+leptin
+igf-i:igfbp-3 ratio
+age<60+nucleotide excision repair
+age≥60+nucleotide excision repair
+no family history+nucleotide excision repair
+family history+nucleotide excision repair
+nucleotide excision repair median cut-off
+nucleotide excision repair
+duration of tea
+cumulative tea
+ferric reducing antioxidant potential  food only
+ferric reducing antioxidant potential  fruits+vegetable
+berries
+chocolate
+boiled potatoes
+statin dose
+statin type
+statin+caucasians
+statin dose+caucasians
+statin type+caucasians
+statin+african americans
+statin dose+african americans
+statin type+african americans
+hdl-c ≤1.05
+no. factors high body mass index+high systolic blood pressure present
+no. factors high body mass index+high systolic blood pressure, and low hdl-c present
+isoflavone
+soy
+serum equol
+serum daidzein
+serum daidzein+equol combined
+serum genistein
+serum enterolactone
+serum isoflavones
+history of stillbirths
+data from both sub-cohorts combined history of stillbirths
+data from both sub-cohorts combined number of stillbirths
+solar radiation in state of birth
+solar radiation in state of longest residence
+solar radiation in state of birth vs solar radiation in state of longest residence
+physician-assessed sun exposure
+physician-assessed skin damageinduced by sun exposure
+self-reported recreational sun exposure
+self-reported occupational sun exposure
+self-reported occupational or recreational sun exposure
+iodine/creatinine
+frequency of salt shaker
+thyroid disease
+thyroid medication
+canthaxanthin
+sum of carotenoids
+marital status:not married
+dietary boron
+peanut butter+nuts
+avocado
+apples
+total boron
+visceral fat area
+subcutaneous fat area
+total fat area
+hsv-2
+hhv-8
+no. of hsv-2/hhv-8 seropositive responses
+no. of seropositive responses
+dietary fiber
+β-sitosterol
+campesterol
+stigmasterol
+phytosterols
+quercetin
+kaempfero
+breads and cereals
+fruits+vegetable
+oil/fat
+vdr-cdx2
+low calcium<=680+vdr-cdx2
+high calcium>680+vdr-cdx2
+low calcium< = 680mg/day+aa
+low calcium< = 680mg/day+ag /gg
+high calcium> 680mg/day+aa
+high calcium> 680mg/day+ag /gg
+coronary artery disease
+selenium+vitamin e
+whole-body vibration intensity
+occupation known for whole-body vibration intensity
+standard occupational code
+ω-3 fatty acids:α-linolenic acid
+ω-3 fatty acids:total long-chain ω-3 pufa
+ω-3 fatty acids:epa
+ω-3 fatty acids:dpa
+ω-3 fatty acids:dha
+ω-6 fatty acids:linoleic acid
+ω-6 fatty acids:arachidonic acid
+ω-6 fatty acids:trans-fatty acids tfa 18:1
+ω-6 fatty acids:tfa 18:2
+ω-6 fatty acids:tfa 16:1
+hair colour
+skin phototype
+traditional mediterranean diet score
+digital rectal exams
+frequency of insomnia
+25-hydroxyvitamin din winter and spring
+25-hydroxyvitamin din summer and autumn
+25-hydroxyvitamin dper 30-nmol/l increase
+25-hydroxyvitamin dper 30-nmol/l increase in winter and spring
+25-hydroxyvitamin dper 30-nmol/l increase in summer and autumn
+educational
+serum retinol
+lifetime alcohol intake
+lifetime dose of alcohol intake
+french fries
+fried chicken
+fried fish
+doughnuts
+snack chips
+coffee+body mass index< 25
+coffee+body mass index≥ 25
+balding type
+no balding type at age30 of all ages
+no balding type at age30 of age<60
+any balding at age30 of all ages
+any balding at age30 of all age<60
+any balding at age30 of age60+
+excessive drinking during some period of life
+leisure-time physical activity
+frequency-intensity-duration-index of leisure-time physical activity
+blood glucose
+daily sitting
+daily sitting+body mass index
+television or video viewing
+television or video viewing+body mass index
+circumcision status
+age at circumcision
+yr since diabetes
+insulin treatment
+self-reportedacne
+smoke+body mass index<25.0
+smoke+body mass index<25.1
+smoke+body mass index<25.2
+smoke+body mass index≥25.0
+smoke+body mass index≥25.1
+smoke+body mass index≥25.2
+ever had sexual intercourse
+no. of female sexual partners
+no. of sexual partners over lifetime
+no. of female sexual partners over lifetime(includes subjects who also had male partners
+no. of female sexual partners over lifetime
+ever had male sexual partner
+no. of male sexual partners over lifetime
+no. of male sexual partners over lifetime(includes subjects who also had female partners
+self-identified sexual orientation
+genital herpes
+chlamydia
+hiv or aids
+trichomonas
+genital warts/condylomas
+ever infected with any stis
+no. of different types of stis
+ever had trichomonas
+ever had genital warts/condylomas
+# of different types of stis
+type of coffee
+all types of coffee
+not boiled coffee
+boiled andnot boiled
+boiled coffee only
+history of any genitourinary infection
+history of urethritis
+history of orchitis
+history of epididymitis
+urethritis
+railwaynoise exposure
+screened
+age at diagnosis
+ancestry
+vegan
+lacto-vegetarian
+pesco-vegetarian
+semi-vegetarian
+nonvegetarian
+vegan+black
+lacto-vegetarian+black
+pesco-vegetarian+black
+semi-vegetarian+black
+nonvegetarian+white
+vegan+white
+lacto-vegetarian+white
+pesco-vegetarian+white
+semi-vegetarian+white
+change in sleep duration
+waking up during the night
+difficulty falling asleep
+waking up too early
+feeling rested when wake up
+age at shaving initiation
+age of growth spurt
+puberty onset
+age of balding onset
+vitamin b
+multivitamin/mineral
+no. of vitamin supplements
+ibuprofen
+ketoprofen
+aspirin
+acetaminophen
+physical fitness
+mesa residency
+insurance
+comorbidity
+diabetes status
+coffee consumption
+coffee consumption+age<60
+coffee consumption+age≥60
+coffee consumption+body mass index
+coffee consumption+non-smoker or past smoker
+coffee consumption+current smoker
+coffee consumption+non-alocohol drinker
+coffee consumption+alocohol drinker
+coffee+non-smokers
+dyslipidemia
+region
+ethnicity
+unemployment
+lives with a wife or partner
+tea drinking
+green tea concentration
+oolong tea concentration
+pu’er tea concentration
+habitual egcg consumption
+cumulative consumption of egcg from tea
+lutein and zeaxanthin
+tomatog/day
+carrot g/day
+pumpkin g/day
+sweet potato g/day
+watermelong/day
+wine intake
+spirits intake
+no night work versus ever night work
+no night work versus yr of shift work
+shift work exposure
+dii quartiles
+available carbohydrate g/day
+glycemic index
+glycemic load g/day
+degree of browning strong/extreme
+degree of browning light/moderate
+zygosity
+birth year
+mother\'s age
+maternal parity
+parental socioeconomic status at birth:blue-collar worker
+white-collar worker
+self-employed
+effect of 500 g increase in birth weight
+brugada-like ecg
+radiation dose
+green vegetable
+soybean food
+frequency of soybean
+bacon and sausage
+beef steak
+pork chops/ham steak
+grilled meat
+broiled meat
+rare or medium total meat
+well and very well done total meat
+total fatty acids
+sfa
+mufa
+fatty acids
+: ratio
+magnesium
+ratio of polyunsaturated to saturated fat
+n-3 fatty acids g/1000 kcal
+a-linolenic acidg/1000 kcal
+eicosapentaenoic acid g/1000 kcal
+docosahexaenoic acid g/1000 kcal
+n-6 fatty acids g/1000 kcal
+ratio of n-6 to n-3 fatty acids
+cholesterol mg/1000 kcal
+shellfish
+african americans+total fat
+african americans+saturated fat
+african americans+monounsaturated fat
+african americans+polyunsaturated fat
+african americans+n-3 fatty acids
+african americans+a-linolenic acid
+african americans+eicosapentaenoic acid
+african americans+docohahexaenoic acid
+african americans+n-6 fatty acids
+african americans+n-6fatty acids
+african americans+ratio of n-6 to n-3 fatty acids
+japanese americans+total fat
+japanese americans+saturated fat
+japanese americans+monounsaturated fat
+japanese americans+polyunsaturated fat
+japanese americans+n-3 fatty acids
+japanese americans+a-linolenic acid
+japanese americans+eicosapentaenoic acid
+japanese americans+docohahexaenoic acid
+japanese americans+n-6 fatty acids
+japanese americans+n-6fatty acids
+japanese americans+ratio of n-6 to n-3 fatty acids
+latinos+total fat
+latinos+saturated fat
+latinos+monounsaturated fat
+latinos+polyunsaturated fat
+latinos+n-3 fatty acids
+latinos+a-linolenic acid
+latinos+eicosapentaenoic acid
+latinos+docohahexaenoic acid
+latinos+n-6 fatty acids
+latinos+ratio of n-6 to n-3 fatty acids
+whites+total fat
+whites+saturated fat
+whites+monounsaturated fat
+whites+polyunsaturated fat
+whites+n-3 fatty acids
+whites+a-linolenic acid
+whites+eicosapentaenoic acid
+whites+docohahexaenoic acid
+whites+n-6 fatty acids
+whites+ratio of n-6 to n-3 fatty acids
+african americans+total meat
+african americans+red meat
+african americans+processed meat
+african americans+fish
+japanese americans+total meat
+japanese americans+red meat
+japanese americans+processed meat
+japanese americans+fish
+latinos+total meat
+latinos+red meat
+latinos+processed meat
+latinos+fish
+whites+total meat
+whites+red meat
+whites+processed meat
+whites+fish
+total fruits and vegetable
+cereals
+workplace stress
+workplace stress(cumulative duration of exposure to workplace stress and aged 65 or more）
+workplace stress(exposure to workplace stress and younger than age65）
+workplace stress(cumulative duration of exposure to workplace stress and younger than age65）
+duration of alcohol consumption
+prostate diseases
+urinary system diseases
+prostate cancer
+animal
+soy products
+cooking methods:steam/stew
+boil
+barbecue
+fry
+introverted personality
+self-endure suffering
+high sensitivity to the personal comments form other people
+negative event frequency
+death of spouse
+occupayional setbacks
+serious disease
+life difficulty
+marital separation
+disharmonious relationship with spouse
+death of parent
+unfortunate of relatives
+supplement vitamin d
+total vitamin d
+total milk
+low-/nonfat milk
+whole milk
+yogurt
+dairy products+african americans
+total milk+african americans
+low-/nonfat milk+african americans
+whole milk+african americans
+yogurt+african americans
+cheese+african americans
+calcium+japanese americans
+total vitamin d+japanese americans
+dairy products+japanese americans
+total milk+japanese americans
+low-/nonfat milk+japanese americans
+whole milk+japanese americans
+yogurt+japanese americans
+cheese+japanese americans
+calcium+latinos
+total vitamin d+latinos
+dairy products+latinos
+total milk+latinos
+low-/nonfat milk+latinos
+whole milk+latinos
+yogurt+latinos
+cheese+latinos
+total vitamin d+whites
+dairy products+whites
+total milk+whites
+low-/nonfat milk+whites
+whole milk+whites
+yogurt+whites
+cheese+whites
+supplement vitamin e
+vitamin e supplement duration
+alpha-tocopherol from food
+beta-tocopherol from food
+gamma-tocopherol from food
+delta-tocopherol from food
+dairy vitamin e
+single selenium supplements
+selenium+age
+cholesterol-lowering drugs
+fibrates
+other cholesterol-lowering drugs
+sexual activity
+lipid
+serum estradiol level
+serum testosterone level
+first-degree family history of pca
+agrichemical exposure
+birth place
+stature
+phylloquinone
+menaquinones
+duration of diabetes exposure
+age at diabetes diagnosis
+diabetes treatment

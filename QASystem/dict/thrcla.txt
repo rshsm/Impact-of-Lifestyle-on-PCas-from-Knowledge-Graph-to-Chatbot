@@ -1,0 +1,222 @@
+body mass index(bmi)
+selenium(se)
+rice
+calcium(ca)
+phosphorus(p)
+dairy products
+milk
+lignans
+isoflavones
+lariciresinol
+matairesinol
+pinoresinol
+secoisolariciresinol
+daidzein
+genistein
+glycitein
+biochanin a
+folate
+vitamin b
+homocysteine
+testosterone
+hormone
+fish
+lamb
+beef
+dietary fat intake
+fruits
+vegetable
+green tea
+family history
+tobacco
+enterolactone
+psa
+logpase score
+blood glucose
+triglyceride
+high-density lipoprotein( hdl)
+blood pressure
+metabolic syndrome(mets)
+greenness
+lycopene
+plasma concentration
+anticoagulants
+vasectomy
+antidiabetic
+multivitamin
+vitamin e
+carotenoids
+zinc(zn)
+α-carotene+racial differences
+calories
+total fat
+vitamin c
+vitamin a
+glutathione
+sun exposure
+amino acids
+no2
+any cancer in fathers
+any cancer in mothers
+prostate cancer in fathers or brothers
+breast cancer in mothers or sisters
+uterine cancer in mothers or sisters
+colorectal cancer in parents or siblings
+pancreatic cancer in parents or siblings
+bile duct cancer in parents or siblings
+fatty acid
+saturated fat
+trans fat
+total meat
+body fat
+waist:hip ratio(whr)
+diabetes
+insulin
+metabolic factors
+lipids
+xenobiotics
+nucleotides
+dietary inflammatory index(dii)
+legume
+antiulcer drug
+processed meat
+ketchup
+serum creatinine
+alpha-tocopherol(a-tocopherol)
+serum creatinine+alpha-tocopherol(a-tocopherol)
+eggs
+shellfish
+fast food
+snacks
+spices and herbs
+sodium
+potassium
+cholesterol
+herbicide
+insecticide
+fertilizer
+fumigant
+dicofol
+mercury
+metaldehyde
+plant growth regulator
+antihypertensive
+comorbidity
+prostate diseases
+glucosinolate
+red meat
+white meat
+poultry
+polyunsaturated fat
+iron(fe)
+birth weight
+birth length
+head circumference
+ponderal index
+placental weight
+baked foods
+steak
+bacon
+sausage
+meat mutagens
+soups
+pork
+eclampsia
+gestational age
+allium
+garlic
+scallions
+beer
+liquor
+std
+history of any cancer
+luteind
+alcohol
+wine
+sprits
+teetotaller
+pulse
+educational attainment
+vitamin d
+ionising radiation
+alpha-tocopherol(a-tocopherol)+family medical hist
+β-carotene+family medical history
+retinol+family medical history
+low-density lipoprotein
+triglycerides
+statin
+obese
+agriculture areas
+shaving
+beard growth
+acne
+red wine
+white wine
+chicken
+black tea
+selenium(se)+β-carotene
+clinical thyroid status
+contraception
+mutton
+fats and oils
+waist:hip ratio(whr)(per sd, 0.06)
+cardiovascular disease(cvd)
+birth region
+transurethral prostatectomy(turp)
+benign prostatic hypertrophy(bph)+transurethral pr
+hypertension
+infertility
+igf
+beef, pork, or lamb as a main dish
+prostate specific antigen tests
+digital rectal exams(dre)
+length of right upper arm
+analgesic and anti-inflammatory drugs
+benign prostatic hypertrophy(bph) medication
+stress coping
+monoglutamates
+ige
+aerosols or spray paints
+wood dust
+plastic cement
+plastic resins
+metal dust
+pesticides or garden sprays
+leptin
+nucleotide excision repair(nerc)
+stillbirths
+iodine
+thyroid disease
+thyroid medication
+boron
+fat area
+cryptoxanthin
+phytosterol
+coronary artery disease(cad)
+skin phototype
+circumcision
+chlamydia
+trichomonas
+urinary system diseases
+orchitis
+epididymitis
+screen
+growth spurt
+puberty onset
+dyslipidemia
+glycemic index
+glycemic load
+degree of browning
+zygosity
+birth year
+mother's age
+maternal parity
+brugada-like ecg
+magnesium(mg)
+ratio of polyunsaturated to saturated fat
+meat
+animal
+cholesterol-lowering drugs
+lipid
+birth place
+vitamin k

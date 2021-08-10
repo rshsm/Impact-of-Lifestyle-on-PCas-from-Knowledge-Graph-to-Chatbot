@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Chat Widget</title>
+
+    <!--图标库-->
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
+
+    <!-- 默认样式-->
+    <link rel="stylesheet" href="{{url_for('static',filename ='css/reset.min.css')}}">
+
+    <!-- 主要样式-->
+    <link rel="stylesheet" href="{{url_for('static',filename ='css/style.css')}}">
+
+
+</head>
+
+<body>
+
+    <div class="container clearfix">
+        <div class="chat">
+            <div class="chat-header clearfix">
+                <img src="{{url_for('static',filename ='image/avatar.jpg')}}" alt="avatar" width="40" height="40"/>
+
+                <div class="chat-about">
+                    <div class="chat-with">Medical assistance</div>
+                    <div class="chat-num-messages">Ask questions about lifestyles for PCa!</div>
+                </div>
+            </div>
+            <!-- end chat-header -->
+
+            <div class="chat-history">
+                <ul id="chat-ul">
+                    <li class="clearfix">
+                        <div class="message-data align-right">
+                            <span class="message-data-name"><b>Questioner:</b></span>
+                        </div>
+                        <div class="message other-message float-right">
+                            Hello! Can you tell me what is your name?
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="message-data">
+                            <span class="message-data-name"><b>Bot:</b></span>
+                        </div>
+                        <div class="message my-message">
+                            Hi! I am a medical bot called Tony, Please tell me the name of a specific PCa lifestyle you want to query!
+                        </div>
+                    </li>
+
+                </ul>
+
+            </div>
+            <!-- end chat-history -->
+
+            <div class="chat-message clearfix">
+                <textarea name="message-to-send" id="message-to-send" placeholder="Type your message" rows="3"></textarea>
+                <button id="btnsend">Send</button>
+            </div>
+            <!-- end chat-message -->
+
+        </div>
+        <!-- end chat -->
+
+    </div>
+    <!-- end container -->
+
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
+    </script>
+    <script>
+        function getBotResponse() {
+          var rawText = $("#message-to-send").val();
+		  rawText = rawText.replace(/[\r\n]/g, "");
+		  arr=rawText.split(" ");
+		  if(arr.length <= 3){
+			var userHtml = '<li class="clearfix"><div class="message-data align-right"><span class="message-data-name"><b>Questioner:</b></span></div><div class="message other-message float-right">' + rawText + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + '</div></li>';
+		  }
+		  else{
+			var userHtml = '<li class="clearfix"><div class="message-data align-right"><span class="message-data-name"><b>Questioner:</b></span></div><div class="message other-message float-right">' + rawText + '</div></li>';
+          }
+		  $("#message-to-send").val("");
+          $("#chat-ul").append(userHtml);
+          $.get("/get", { msg: rawText }).done(function(data) {
+            var botHtml = '<li><div class="message-data"><span class="message-data-name"><b>Bot:</b></span></div><div class="message my-message">' + data + '</div></li>';
+            $("#chat-ul").append(botHtml);
+          });
+        }
+        $("#btnsend").click(function() {
+            getBotResponse();
+        });
+		$(document).keyup(function(event){
+			if(event.keyCode ==13){
+				$("#btnsend").trigger("click");
+			}
+		});
+    </script>
+</body>
+
+</html>

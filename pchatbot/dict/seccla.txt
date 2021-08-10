@@ -1,0 +1,294 @@
+age
+biochemical examination
+smoke
+mineral
+grains
+selenium(se)+racial differences
+age+selenium(se)
+smoke+selenium(se)
+calcium(ca)+phosphorus(p)
+milk and dairy products
+plant compounds
+selenium(se)+vitamin c
+selenium(se)+vitamin e
+selenium(se)+acarotene
+selenium(se)+bcarotene
+selenium(se)+bcryptoxanthin
+selenium(se)+lycopene
+selenium(se)+lutein/zeaxanthin
+vitamin
+age+calcium(ca)
+body mass index(bmi)+calcium(ca)
+testosterone+calcium(ca)
+estradiol+calcium(ca)
+sexual behavior
+diet style
+fish and shellfish
+meat and eggs
+lipid and fat
+vegetables and fruits
+tea
+family medical history
+alcohol
+body weight
+height
+waist circumference
+diseases
+residency environment
+pcb153
+tea+lycopene
+chlordecone plasma+family medical history
+chlordecone plasma+past residence
+drug
+surgery
+folate+vitamin b12
+folate+non-swedish
+folate+swedish
+zinc(zn)+selenium(se)
+calories+racial differences
+protein+racial differences
+carbohydrate+racial differences
+fat+racial differences
+fiber+racial differences
+vitamin c+racial differences
+vitamin e+racial differences
+vitamin a+racial differences
+total pcaglutathione+racial differences
+retinol+racial differences
+cryptoxanthin+racial differences
+folate+racial differences
+lutein+racial differences
+lycopene+racial differences
+genistein+racial differences
+daidzein+racial differences
+grains+racial differences
+vegetable+racial differences
+fruits+racial differences
+energy intake
+protein
+carbohydrate
+fiber
+chemical compound
+ultraviolet
+skin color
+hat wearing
+racial differences+grains
+biochemical+gene
+coffee+gene
+exercise+gene
+aspirin+gene
+statin+gene
+finasteride+gene
+alcohol+gene
+smoke+gene
+vasectomy+gene
+air pollution
+occupation
+sleep
+fat+family medical history
+dairy products+family medical history
+meat and eggs+family medical history
+dairy+smoke
+fruits+vegetable
+sedentary
+perceived health
+fruits+vegetable+age
+fruits+vegetable+racial differences
+fruits+vegetable+urbanicity
+smoke+age
+smoke+racial differences
+smoke+education
+smoke+urbanicity
+alcohol+age
+alcohol+racial differences
+alcohol+education
+alcohol+urbanicity
+sedentary+age
+sedentary+racial differences
+sedentary+education
+sedentary+urbanicity
+body mass index(bmi)+age
+body mass index(bmi)+racial differences
+body mass index(bmi)+education
+body mass index(bmi)+urbanicity
+perceived health+age
+perceived health+racial differences
+perceived health+education
+perceived health+urbanicity
+body mass index(bmi)+body weight
+c-peptide+age
+c-peptide+body mass index(bmi)
+others
+cofactors and vitamins
+pesticide
+eye color
+cook style/vegetables
+lutein+zeaxanthin
+legume
+coffee
+physical activity
+physical activity+age
+education
+condiment
+serum creatinine+age
+serum creatinine+cigarettes
+serum creatinine+height
+serum creatinine+body mass index(bmi)
+serum creatinine+blood pressure
+serum creatinine+hypertension
+serum creatinine+vitamin e
+serum creatinine+beta-carotene
+serum creatinine+serum homocysteine
+serum creatinine+proteine intake
+serum creatinine+alcohol
+cook style
+soups
+nuts
+processed foods and other foods
+beverage
+fungicide
+insecticide
+metallic element
+marital status
+quadrant
+income
+radiation
+water source
+psa+physical activity
+physical activity+body mass index(bmi)
+physical activity+smoke
+physical activity+alcohol
+physical activity+multivitamin
+physical activity+diabetes
+physical activity+hypertension
+physical activity+high cholesterol
+cook style/processed foods and other foods
+physical activity+body mass index(bmi)+age
+physical activity+racial differences
+physical activity+occupation
+body mass index(bmi)+meat and eggs
+body mass index(bmi)+fish
+body mass index(bmi)+protein
+body mass index(bmi)+fat
+body mass index(bmi)+iron(fe)
+body mass index(bmi)+phosphorus
+body mass index(bmi)+vitamin b12
+body mass index(bmi)+ndma
+birth characteristics
+fish+age
+food additives
+food additives+gene
+genistein+age
+daidzein+age
+miso soup+age
+soy food+age
+meat and eggs+racial differences
+prostate diseases+operation
+parity
+physiological characteristics
+no. of children
+racial differences+condiment
+vitamin e+smoke
+racial differences
+military service
+income+compounds
+accessory examination
+height+family medical history
+body mass index(bmi)+family medical history
+physical activity+family medical history
+alcohol+family medical history
+vitamin e+family medical history
+vitamin a+family medical history
+hazardous waste
+beard
+height+age
+height+body mass index(bmi)
+height+smoke
+height+prostatomegaly
+height+diabetes
+height+physical activity
+selenium(se)+vitamin a
+selenium(se)+multivitamin
+selenium(se)+smoke
+vitamin e+multivitamin
+folate+multivitamin
+multivitamin+family medical history
+calcium(ca)+waist circumference
+calcium(ca)+smoke
+health products
+region
+calcium(ca)+vitamin d
+alcohol+drug
+smoke+family medical history
+smoke+body mass index(bmi)
+smoke+alcohol
+hip circumference
+age+vegetable
+age+milk
+age+diet style
+age+grains
+age+soups
+age+meat and eggs
+age+fish
+age+pulses
+age+fruits
+body mass index(bmi)+milk
+body mass index(bmi)+diet style
+body mass index(bmi)+grains
+body mass index(bmi)+soups
+body mass index(bmi)+pulses
+body mass index(bmi)+vegetable
+body mass index(bmi)+fruits
+body mass index(bmi)+waist:hip ratio(whr)
+racial differences+family medical history
+occupation+racial differences
+envionment+racial differences
+compounds+gene
+stress
+calcium(ca)+racial differences
+biochemical+racial differences
+biochemical+calcium(ca)+racial differences
+vdr cdx2 aa genotype
+height+racial differences
+education+racial differences
+diabetes+racial differences
+legume+racial differences
+compounds+racial differences
+age+sexual behavior
+puberty
+baldness
+vitamin d+racial differences
+occupation+vitamin d
+paints, lacquers, or stains
+chemical solvents
+dyes
+plastic
+epoxy resins
+film-developing fluids
+lubricating oils or grease
+age+drug/operation
+family medical history+drug/operation
+fruits+vegetable+compounds
+racial differences+statin
+body mass index(bmi)+blood pressure
+ultraviolet+occupation
+condiment+nuts
+calcium(ca)+gene
+hair colour
+vitamin d+envionment
+body mass index(bmi)+coffee
+body mass index(bmi)+sedentary
+body mass index(bmi)+smoke
+noise
+diet style+racial differences
+insurance
+age+coffee
+coffee+smoke
+alcohol+coffee
+dietary exposure
+fish+racial differences
+personality
+dairy products+racial differences
+milk+racial differences
+selenium(se)+age
+stature

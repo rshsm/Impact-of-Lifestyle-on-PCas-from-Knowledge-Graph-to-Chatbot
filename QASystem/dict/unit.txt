@@ -1,0 +1,127 @@
+year
+kg/m²
+μg/l
+week
+μg/ml
+ng/ml
+mg/day
+g/day
+nm
+pm
+um
+n/day
+times/month
+times/week
+cups/day
+packs/year
+nmol/l
+kg
+cm
+m
+ng/day
+μg/day
+g/l
+servings/day
+pmol/l
+kcal
+g
+mg
+αte
+iu
+mcg
+hours
+grams/day
+mcg/day
+parts per billion,ppb
+glasses/day
+g/day.mj
+n
+%/d
+%
+servings/week
+μg
+days/week
+g/week
+kj/week
+y
+mmhg
+mg/l
+nmol/ml
+gethanol/day
+iu/day
+hours/week
+g/cm³
+portions p/w
+g/1000 kcal/day
+portions/month
+colonies/day
+drinks/day
+weeks
+mm
+grams/week
+glasses/week
+shot/week
+cans/week
+cigarettes/day
+μg/dl
+servings
+servings(simple updated)
+servings(cumulative averageupdated intake)
+day
+drinks/week
+% wine of total
+alcohol intake
+,drinks/week
+times
+beats/min
+mmol/l
+ounces
+hours/day
+ug/l
+ppm
+pg/ml
+ng/l
+packs/day
+lbs
+inches
+/week
+kcal/day
+ml/day
+cigarettes/year
+kg/year
+g/batch
+brewed/day
+units/week
+ng/dl
+μiu/m
+mets/db
+mg/1000 kcal/day
+μg/1000 kcal/day
+drinks/year
+ku/l
+≥1 positive
+cups/year
+n/month
+n/week
+kj/day
+μg/g
+met-hours/week
+kg/week
+kg/month
+hours/night
+nights/month
+μmol/l
+no. of drinks
+n/pack(20)
+lden
+how often
+kj/kg
+fifth cutoff %
+fifth cutoff cm
+fifth cutoff
+mets/week
+mg/year
+gy
+g/1000 kcal
+mg/1000 kcal
+mg a-te/day

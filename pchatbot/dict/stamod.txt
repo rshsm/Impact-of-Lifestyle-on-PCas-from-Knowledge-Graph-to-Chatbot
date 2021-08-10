@@ -1,0 +1,13 @@
+binary logistic regression model
+time-dependent cox proportional hazards regression
+multivariate logistic regression model
+multivariable-adjusted unconditional logistic regression
+conditional logistic regression
+proportional hazards model
+logistic regression model
+logistic regression
+analyses
+multivariable cox proportional hazards regression
+competing-risk regressions
+cox proportional hazards
+regression model

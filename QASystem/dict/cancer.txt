@@ -1,0 +1,79 @@
+early stagepca
+high histologic grade pca
+metastatic pca
+low grade pca
+organ confined pca
+advanced pca
+high‑grade pca
+grade 8-10 pca
+intermediate grade pca/gleason score = 7
+invasive pca
+gleason ≥8 pca
+sporadic pca
+advanced pca/metastatic pca
+grade 7 pca
+pca detection
+advanced pca(grade 3 or 4)
+low histologic grade pca
+unstaged pca
+gleason 8-10 pca
+less aggressive pca
+high grade pca/gleason ≥ 8
+grade 2-6 pca
+missing stagepca
+advanced pca(detected by subjective symptoms);
+intermediate grade pca
+advanced pca(grade 1 or 2)
+gleason 2-7 pca
+aggressive pca(gleason score≥7 or stageiii/iv)
+gleason <7 pca
+symptomatic pca
+gleason 7-10 pca
+total pca(detected by subjective symptoms)
+stage≥3 pca
+low grade pca(gleason sum <7)
+regional/remote pca
+non advanced pca
+incident pca
+high grade pca/gleason ≥ 7
+aggressive pca(intermediate versus low )
+intermediate to high grade pca
+local pca(detected by subjective symptoms)
+non fatal pca
+familial pca
+more aggressive pca
+gleason ≥7 pca
+stageiii or iv pca
+high risk pca
+low‑grade pca
+gleason 2-6 pca
+local pca/grade 1 or 2
+high risk pca(nccn )
+low risk pca
+advanced pca(detected by subjective symptoms)
+low grade pca/gleason <7 pca
+advanced pca(t3b or worse)
+total pca(detected by subjective symptoms);
+total pca
+local pca/grade 3 or 4
+moderate grade pca
+aggressive pca
+stage2-4 pca
+aggressive pca(high versus low)
+gleason 4-6 pca
+regionally advanced pca/metastatic pca
+regional/distant pca
+organ confined pca(≤t2 and n0m0)
+lethal pca
+local pca
+low grade pca(gleason sum < 7)
+non fatal pca/fatal pca
+high grade pca
+gleason 7 pca
+unknown pca
+low stagepca
+fatal pca
+extraprostatic pca
+non aggressive pca
+non local pca/high grade pca
+high stagepca
