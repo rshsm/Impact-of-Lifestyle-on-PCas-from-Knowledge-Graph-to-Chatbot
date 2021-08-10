@@ -68,8 +68,11 @@ Neo4j is available both as a standalone server, or an embeddable component. You 
 
 
 Step 1 Clone [this](https://github.com/neo4j/neo4j-browser) repo
+
 Step 2 Install yarn globally (not required but recommended): npm install -g yarn
+
 Step 3 Install project dependencies: yarn
+
 
 yarn start and point your web browser to http://localhost:8080.
 
