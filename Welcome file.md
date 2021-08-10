@@ -23,6 +23,11 @@ For more examples, visit our  [project page](http://rpg.ifi.uzh.ch/timelens).
 
 # Set-up
 
+## Data Acquisition
+
+The PCaLiStDB which is standardized for PCa_LWAS is publicly available [here](http://www.sysbio.org.cn/pcalistdb/). In the PCaListDB database, there exists a total of 3024 lifestyles items comprising 394 protective items, 556 risk items, 45 uninfluential items, 52 ambivalent items, and 1977 items that lack adequate literature support. These items are summarized and classified into three SQL tables.
+
+
 ## Install nodejs
 Node.js is a run-time environment which includes everything you need to execute a program written in JavaScript. It’s used for running scripts on the server to render content before it is delivered to a web browser.
 
@@ -63,7 +68,7 @@ def hello():
 $ flask run
   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
-# Neo4j
+## Neo4j
 Neo4j is available both as a standalone server, or an embeddable component. You can [download](https://neo4j.com/download/) from here .
 
 
@@ -75,6 +80,10 @@ Step 3 Install project dependencies: yarn
 
 
 yarn start and point your web browser to http://localhost:8080.
+
+## Project Set Up
+
+
 
 
 
