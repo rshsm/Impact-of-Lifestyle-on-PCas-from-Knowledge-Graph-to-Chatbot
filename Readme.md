@@ -146,7 +146,7 @@ Knowledge Graph
 ### Chat Bot
 
 
-		<p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/10841083/128831785-b15faee7-c309-43dd-a6ef-bc00c714a794.png" />
 	</br>
   <b>The realization principle of the dialogue system based on Pcalfst_KG</b>
