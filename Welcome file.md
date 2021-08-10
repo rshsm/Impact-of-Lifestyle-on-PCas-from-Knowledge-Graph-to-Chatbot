@@ -58,7 +58,7 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
     return "Hello, World!"
-    ```
+```
 ```python
 $ flask run
   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
@@ -66,51 +66,15 @@ $ flask run
 Neo4j
 Neo4j is available both as a standalone server, or an embeddable component. You can [download](https://neo4j.com/download/) from here .
 
-Extending Neo4j
-We encourage experimentation with Neo4j. You can build extensions to Neo4j, develop library or drivers atop the product, or make contributions directly to the product core. You’ll need to sign a Contributor License Agreement in order for us to accept your patches.
 
-Dependencies
-Neo4j is built using Apache Maven version 3.6.3 and a recent version of supported VM. Bash and Make are also required. Note that maven needs more memory than the standard configuration, this can be achieved with export MAVEN_OPTS="-Xmx512m".
+Step 1 Clone [this](https://github.com/neo4j/neo4j-browser) repo
+Step 2 Install yarn globally (not required but recommended): npm install -g yarn
+Step 3 Install project dependencies: yarn
 
-macOS users need to have Homebrew installed.
+yarn start and point your web browser to http://localhost:8080.
 
-With brew on macOS
-brew install maven
-Please note that we do not support building Debian packages on macOS.
 
-With apt-get on Ubuntu
-sudo apt install maven openjdk-11-jdk
-On top of that, to build Debian packages and Neo4j Desktop:
 
-apt install debhelper devscripts dos2unix dpkg make xmlstarlet
-# You will need a license for install4j, which is only needed for Neo4j Desktop
-curl -O https://download-keycdn.ej-technologies.com/install4j/install4j_linux_6_1_4.deb
-dpkg -i install4j_linux_6_1_4.deb
-Building Neo4j
-Before you start running the unit and integration tests in the Neo4j Maven project on a Linux-like system, you should ensure your limit on open files is set to a reasonable value. You can test it with ulimit -n. We recommend you have a limit of at least 40K.
-
-A plain mvn clean install will only build the individual jar files.
-
-Test execution is, of course, part of the build.
-
-In case you just want the jars, without running tests, this is for you: mvn clean install -DskipTests.
-
-To build product packages, do export PATH="bin:$PATH" && make clean all in the packaging directory after building artifacts with Maven.
-
-To build the documentation see the Neo4j documentation.
-
-If you are running into problems building on Windows you can try building Neo4j in a Ubuntu virtual machine.
-
-You may need to increase the memory available to Maven: export MAVEN_OPTS="-Xmx512m".
-
-Running Neo4j
-After running a mvn clean install, cd into packaging/standalone/target and extract the version you want, then:
-
-bin/neo4j start
-in the extracted folder to start Neo4j on localhost:7474. On Windows you want to run:
-
-bin\neo4j start
-instead.
 
 # Welcome to StackEdit!
 
