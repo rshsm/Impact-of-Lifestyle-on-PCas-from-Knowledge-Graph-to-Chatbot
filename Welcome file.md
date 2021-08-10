@@ -33,20 +33,23 @@ In a web browser, navigate to https://nodejs.org/en/download/. Click the Platfor
 
 Step 3: Verify Installation
 Open a command prompt (or PowerShell), and enter the following:
-
+```
 node -v
+```
 The system should display the Node.js version installed on your system. You can do the same for NPM:
-
+```
 npm -v
-
+```
 ## Flask
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. 
 
 Installing
 Install and update using pip:
-
+```python
 $ pip install -U Flask
+```
 A Simple Example
+```python
 # save this as app.py
 from flask import Flask
 
@@ -55,9 +58,11 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
     return "Hello, World!"
+    ```
+```python
 $ flask run
   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-
+```
 Using Neo4j
 Neo4j is available both as a standalone server, or an embeddable component. You can download or try online.
 
