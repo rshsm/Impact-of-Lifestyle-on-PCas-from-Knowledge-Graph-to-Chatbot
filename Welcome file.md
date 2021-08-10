@@ -28,6 +28,44 @@ For more examples, visit our  [project page](http://rpg.ifi.uzh.ch/timelens).
 The PCaLiStDB which is standardized for PCa_LWAS is publicly available [here](http://www.sysbio.org.cn/pcalistdb/). In the PCaListDB database, there exists a total of 3024 lifestyles items comprising 394 protective items, 556 risk items, 45 uninfluential items, 52 ambivalent items, and 1977 items that lack adequate literature support. These items are summarized and classified into three SQL tables.
 
 
+The types of entity and corresponding count in PCalfst_KG
+
+|       Entity   |Properties                     |Count                        |
+|----------------|-------------------------------|-----------------------------|
+|       Lifestyle   |Properties                     |Count                        |
+|       Paper   |Properties                     |Count                        |
+|       Baseline   |Properties                     |Count                        |
+|       Outcome   |Properties                     |Count                        |
+|       PCa   |Properties                     |Count                        |
+|       Nation   |Properties                     |Count                        |
+|       Unit   |Properties                     |Count                        |
+|       Gene   |Properties                     |Count                        |
+|       FirClass   |Properties                     |Count                        |
+|       SecClass   |Properties                     |Count                        |
+|       ThrClass   |Properties                     |Count                        |
+
+
+|Lifestyle	 |Isn't this fun?'`            |'Isn't this fun?'            |
+|Paper           |"Isn't this fun?"`            |"Isn't this fun?"            |
+|Baseline        |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+
+		
+Lifestyle	factor_type; fenlei; index_name; inv_papers; level_class; name; paper_count; pca_type; unit.	2290
+Paper	area; author; duration; gene; name; sample_size; study_type; title; year.	300
+Baseline	group_number; index_name; name; notes; pmid; stratification; value.	2570
+Outcome	aj_value; eaj; eunaj; index_name; name; notes; pcatype; pmid; stratification; unaj_value; unit.	15586
+PCa	-	79
+Nation	-	31
+Unit	-	125
+Gene	-	38
+FirClass	-	11
+SecClass	-	294
+ThrClass	-	222
+
+
+
+
 ## Install nodejs
 Node.js is a run-time environment which includes everything you need to execute a program written in JavaScript. It’s used for running scripts on the server to render content before it is delivered to a web browser.
 
@@ -83,9 +121,25 @@ yarn start and point your web browser to http://localhost:8080.
 
 ## Project Set Up
 
+Knowledge Graph
+
+### Flow chart for establishing the PCalfst_KG
 
 ![image](https://user-images.githubusercontent.com/10841083/128831502-adc810c0-980f-44ff-9e32-8893a3be5b4e.png)
 
+
+
+### The principle of visualizing the core knowledge graph for the inquired lifestyles
+
+![image](https://user-images.githubusercontent.com/10841083/128831706-8c9e7d19-3034-405c-98d6-49c9d793351f.png)
+
+
+
+
+Chat Bot
+
+### The realization principle of the dialogue system based on Pcalfst_KG
+![image](https://user-images.githubusercontent.com/10841083/128831785-b15faee7-c309-43dd-a6ef-bc00c714a794.png)
 
 
 
