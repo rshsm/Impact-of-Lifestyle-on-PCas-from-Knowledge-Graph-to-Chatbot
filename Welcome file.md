@@ -123,45 +123,88 @@ Knowledge Graph
 
 ## Architecture
 
-### KG
+### Knowledge Graph
 
 Flow chart for establishing the PCalfst_KG
-![image](https://user-images.githubusercontent.com/10841083/128831502-adc810c0-980f-44ff-9e32-8893a3be5b4e.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10841083/128831502-adc810c0-980f-44ff-9e32-8893a3be5b4e.png" />
+</p>
+	
+
 
 The principle of visualizing the core knowledge graph for the inquired lifestyles
-![image](https://user-images.githubusercontent.com/10841083/128831706-8c9e7d19-3034-405c-98d6-49c9d793351f.png)
+	<p align="center">
+  <img src="https://user-images.githubusercontent.com/10841083/128831706-8c9e7d19-3034-405c-98d6-49c9d793351f.png" />
+</p>
+	
+
 
 ### Chat Bot
 
 The realization principle of the dialogue system based on Pcalfst_KG
-![image](https://user-images.githubusercontent.com/10841083/128831785-b15faee7-c309-43dd-a6ef-bc00c714a794.png)
+		<p align="center">
+  <img src="https://user-images.githubusercontent.com/10841083/128831785-b15faee7-c309-43dd-a6ef-bc00c714a794.png" />
+</p>
 
 ## Result
 
-### KG
+### Knowledge Graph
 
 Figure. 2(a) KG of “genistein”; (b)&(c) outcomes of  PCa caused by “genistein” and “milk” 
-![image](https://user-images.githubusercontent.com/10841083/128837731-5b6a31ce-c88d-41ac-8cfd-89052b2a4b1f.png)
-![image](https://user-images.githubusercontent.com/10841083/128837758-8069726f-813d-40dc-a3ff-e527d93126ac.png)
-![image](https://user-images.githubusercontent.com/10841083/128837787-b35589b4-65d2-4972-bf6a-479d532daa03.png)
+		<p align="center">
+  <img src="https://user-images.githubusercontent.com/10841083/128837731-5b6a31ce-c88d-41ac-8cfd-89052b2a4b1f.png" />
+</p>
+		<p align="center">
+  <img src="https://user-images.githubusercontent.com/10841083/128837758-8069726f-813d-40dc-a3ff-e527d93126ac.png" />
+</p>
+		<p align="center">
+  <img src="https://user-images.githubusercontent.com/10841083/128837787-b35589b4-65d2-4972-bf6a-479d532daa03.png" />
+</p>
 
 
-Figure 4. Display of the core knowledge graph of four examples visualized by d3
-![image](https://user-images.githubusercontent.com/10841083/128837911-ba9dd54a-cb05-4d02-a571-328136e856bc.png)
+Display of the core knowledge graph of four examples visualized by d3
+		<p align="center">
+  <img src="https://user-images.githubusercontent.com/10841083/128837911-ba9dd54a-cb05-4d02-a571-328136e856bc.png" />
+</p>
+
+
 (a) “genistein”
 
-![image](https://user-images.githubusercontent.com/10841083/128837944-817f2800-11f7-4874-87c9-5ea54a5d4bf6.png)
+
+
+<p align = "center">
+  <img src="https://user-images.githubusercontent.com/10841083/128837944-817f2800-11f7-4874-87c9-5ea54a5d4bf6.png" />
+</p>
+
 (b) “green tea”
-![image](https://user-images.githubusercontent.com/10841083/128837980-d75ad465-1e51-409b-b29f-31a89b17eb3b.png)
+
+<p align = "center">
+  <img src="https://user-images.githubusercontent.com/10841083/128837980-d75ad465-1e51-409b-b29f-31a89b17eb3b.png" />
+</p>
+
+
 (c) “bacon”
-![image](https://user-images.githubusercontent.com/10841083/128838016-97cbd004-aac0-4202-947a-942ef75a7cec.png)
+<p align = "center">
+  <img src="https://user-images.githubusercontent.com/10841083/128838016-97cbd004-aac0-4202-947a-942ef75a7cec.png" />
+</p>
+
 (d) “miso soup”
+
+<p align = "center">
+  <img src="https://user-images.githubusercontent.com/10841083/128838086-273ac1d5-d4b4-4260-88ee-6dd119c2e073.png" />
+</p>
+
+
 Display of properties and values of associated nodes of “genistein”
-![image](https://user-images.githubusercontent.com/10841083/128838086-273ac1d5-d4b4-4260-88ee-6dd119c2e073.png)
+
 
 
 ### Chat Bot
-The realization principle of the chatbot based on Pcalfst_KG
-![image](https://user-images.githubusercontent.com/10841083/128838217-141ec9ce-bee9-4751-a85e-b341a17a40fe.png)
+
+<p align = "center">
+  <img src="https://user-images.githubusercontent.com/10841083/128838217-141ec9ce-bee9-4751-a85e-b341a17a40fe.png" />
+	</br>
+	<b>The realization principle of the chatbot based on Pcalfst_KG</b>
+</p>
 
 
