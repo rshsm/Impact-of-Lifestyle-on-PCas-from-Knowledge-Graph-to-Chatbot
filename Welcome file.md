@@ -125,80 +125,55 @@ Knowledge Graph
 
 ### Knowledge Graph
 
-Flow chart for establishing the PCalfst_KG
+
+
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10841083/128831502-adc810c0-980f-44ff-9e32-8893a3be5b4e.png" />
+	</br>
+  <b>Flow chart for establishing the PCalfst_KG </b>
 </p>
 	
 
 
-The principle of visualizing the core knowledge graph for the inquired lifestyles
-	<p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/10841083/128831706-8c9e7d19-3034-405c-98d6-49c9d793351f.png" />
+	</br>
+  <b>The principle of visualizing the core knowledge graph for the inquired lifestyles</b>
 </p>
 	
 
 
 ### Chat Bot
 
-The realization principle of the dialogue system based on Pcalfst_KG
+
 		<p align="center">
   <img src="https://user-images.githubusercontent.com/10841083/128831785-b15faee7-c309-43dd-a6ef-bc00c714a794.png" />
+	</br>
+  <b>The realization principle of the dialogue system based on Pcalfst_KG</b>
 </p>
 
 ## Result
 
 ### Knowledge Graph
 
-Figure. 2(a) KG of “genistein”; (b)&(c) outcomes of  PCa caused by “genistein” and “milk” 
-		<p align="center">
-  <img src="https://user-images.githubusercontent.com/10841083/128837731-5b6a31ce-c88d-41ac-8cfd-89052b2a4b1f.png" />
-</p>
-		<p align="center">
-  <img src="https://user-images.githubusercontent.com/10841083/128837758-8069726f-813d-40dc-a3ff-e527d93126ac.png" />
-</p>
-		<p align="center">
-  <img src="https://user-images.githubusercontent.com/10841083/128837787-b35589b4-65d2-4972-bf6a-479d532daa03.png" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/10841083/128841351-411cc5ab-649d-4d38-b700-8e9075af76b0.png" />
+  </br>
+  <b>KG of “genistein”; (b)&(c) outcomes of  PCa caused by “genistein” and “milk” </b>
 </p>
 
-
-Display of the core knowledge graph of four examples visualized by d3
-		<p align="center">
-  <img src="https://user-images.githubusercontent.com/10841083/128837911-ba9dd54a-cb05-4d02-a571-328136e856bc.png" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10841083/128841106-b61e7aae-46a5-4a11-a85d-e0548e31f357.png" />
+  </br>
+  <b>Display of the core knowledge graph of four examples visualized by d3</b>
 </p>
-
-
-(a) “genistein”
-
-
-
-<p align = "center">
-  <img src="https://user-images.githubusercontent.com/10841083/128837944-817f2800-11f7-4874-87c9-5ea54a5d4bf6.png" />
-</p>
-
-(b) “green tea”
-
-<p align = "center">
-  <img src="https://user-images.githubusercontent.com/10841083/128837980-d75ad465-1e51-409b-b29f-31a89b17eb3b.png" />
-</p>
-
-
-(c) “bacon”
-<p align = "center">
-  <img src="https://user-images.githubusercontent.com/10841083/128838016-97cbd004-aac0-4202-947a-942ef75a7cec.png" />
-</p>
-
-(d) “miso soup”
-
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/10841083/128838086-273ac1d5-d4b4-4260-88ee-6dd119c2e073.png" />
+	</br>
+	<b>Display of properties and values of associated nodes of “genistein”</b>
 </p>
-
-
-Display of properties and values of associated nodes of “genistein”
-
-
-
 ### Chat Bot
 
 <p align = "center">
