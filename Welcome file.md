@@ -121,202 +121,47 @@ yarn start and point your web browser to http://localhost:8080.
 
 Knowledge Graph
 
-### Flow chart for establishing the PCalfst_KG
+## Architecture
 
+### KG
+
+Flow chart for establishing the PCalfst_KG
 ![image](https://user-images.githubusercontent.com/10841083/128831502-adc810c0-980f-44ff-9e32-8893a3be5b4e.png)
 
-
-
-### The principle of visualizing the core knowledge graph for the inquired lifestyles
-
+The principle of visualizing the core knowledge graph for the inquired lifestyles
 ![image](https://user-images.githubusercontent.com/10841083/128831706-8c9e7d19-3034-405c-98d6-49c9d793351f.png)
 
+### Chat Bot
 
-
-
-Chat Bot
-
-### The realization principle of the dialogue system based on Pcalfst_KG
+The realization principle of the dialogue system based on Pcalfst_KG
 ![image](https://user-images.githubusercontent.com/10841083/128831785-b15faee7-c309-43dd-a6ef-bc00c714a794.png)
 
-Question and answer examples of 10 basic design questions
-|       Question   |Synoonym                     |Classification                        |Response                        |
-|----------------|-------------------------------|-----------------------------|-----------------------------|
-|Which papers are related to the lifestyle [genistein]?|survey, paper, investigation, research, report   |  Asks related papers   | The PMID of related papers about genistein is 17634273;19235037;…|
-|Can you give me brief information on paper whose PMID is [17634273]?|survey, paper, investigation, research, report   |  Asks related papers   | The detailed information of the paper is as follows: Title: xxx
-Author: xxx …|
-|Can you give me brief information of baseline whose ID is [pbase_102]?|survey, paper, investigation, research, report   |  Asks related papers   | index_name: xxx; group_number: xxx; stratification: xxx; …|
-Can you give me brief information of the outcome whose ID is [pcaoc_4584]?|survey, paper, investigation, research, report   |  Asks related papers   | index_name: xxx; pcatype: xxx;
-eaj: xxx; aj_value: xxx; …|
-How do we measure the lifestyle [genistein]?|measurement, unit, measure, dosage  |  Asks units   | The corresponding units of genistein are g/day; mg/day;…|
-Where the lifestyle [genistein] may appear?|where, area, country, nation, region, location, appear  |  Asks geographical areas   | From KG, we find that the genistein appears in Japan, China, Italy,|
-Can you give the involved baselines of lifestyle [genistein]?|-  | Asks baselines of lifestyle   | The possible baselines of genistein are pbase_102, …|
-What is the influence factor of lifestyle [genistein]?|-  | Asks influencing factor   | The influence factor of genistein is “No statistical significance factor”, “Protective factor; impact level: Strong”.|
-Which class level the lifestyle [genistein] belongs to?|kind, class, type, classification, belong  | Asks class level  |The genistein belongs to classes:  food composition, plant compounds, genistein|
-Lifestyle [genistein] can lead to which kind of PCas? |Pca, illness, sickness, disease, pathema, prostate cancer, prostatic carcinoma, CRPC, prostatic cancer, cancer | PCas led  by lifestyle |The genistein may lead to total/local/advanced PCa.|
-When lifestyle [genistein] leads [total PCa], please give possible outcomes. |- | Asks about the outcomes of PCas |The total PCa may bring about outcomes: pcaoc_4584,.|
-How many genes may [advance PCa] be associated with?  |-| Asks about associated genes |The advanced PCa is associated with genes such as xxx.|
+## Result
 
+### KG
 
-QUESTIONS exm	Synonym	Classification	R exm
-	information, introduction, detailed information, specific information, core information, brief introduction, brief information	ask information
-(paper/baseline/outcome)	The detailed information of the paper is as follows: Title: xxx
-Author: xxx …
-Can you give me brief information of baseline whose ID is [pbase_102]?			index_name: xxx; group_number: xxx; stratification: xxx; …
-Can you give me brief information of the outcome whose ID is [pcaoc_4584]?			index_name: xxx; pcatype: xxx;
-eaj: xxx; aj_value: xxx; …
-How do we measure the lifestyle [genistein]?	measurement, unit, measure, dosage	Asks units	The corresponding units of genistein are g/day; mg/day;…
-Where the lifestyle [genistein] may appear?	where, area, country, nation, region, location, appear	Asks geographical areas	From KG, we find that the genistein appears in Japan, China, Italy,…
-Can you give the involved baselines of lifestyle [genistein]?	-	asks baselines of lifestyle	The possible baselines of genistein are pbase_102, …
-What is the influence factor of lifestyle [genistein]?	-	Asks influencing factor	The influence factor of genistein is “No statistical significance factor”, “Protective factor; impact level: Strong”.
-Which class level the lifestyle [genistein] belongs to?	kind, class, type, classification, belong	Asks class level 	The genistein belongs to classes:  food composition, plant compounds, genistein.
-Lifestyle [genistein] can lead to which kind of PCas? 	Pca, illness, sickness, disease, pathema, prostate cancer, prostatic carcinoma, CRPC, prostatic cancer, cancer	PCas led  by lifestyle	The genistein may lead to total/local/advanced PCa.
-When lifestyle [genistein] leads [total PCa], please give possible outcomes.	-	Asks about the outcomes of PCas	The total PCa may bring about outcomes: pcaoc_4584,….
-How many genes may [advance PCa] be associated with? 	-	Asks about associated genes	The advanced PCa is associated with genes such as xxx.
+Figure. 2(a) KG of “genistein”; (b)&(c) outcomes of  PCa caused by “genistein” and “milk” 
+![image](https://user-images.githubusercontent.com/10841083/128837731-5b6a31ce-c88d-41ac-8cfd-89052b2a4b1f.png)
+![image](https://user-images.githubusercontent.com/10841083/128837758-8069726f-813d-40dc-a3ff-e527d93126ac.png)
+![image](https://user-images.githubusercontent.com/10841083/128837787-b35589b4-65d2-4972-bf6a-479d532daa03.png)
 
 
+Figure 4. Display of the core knowledge graph of four examples visualized by d3
+![image](https://user-images.githubusercontent.com/10841083/128837911-ba9dd54a-cb05-4d02-a571-328136e856bc.png)
+(a) “genistein”
 
+![image](https://user-images.githubusercontent.com/10841083/128837944-817f2800-11f7-4874-87c9-5ea54a5d4bf6.png)
+(b) “green tea”
+![image](https://user-images.githubusercontent.com/10841083/128837980-d75ad465-1e51-409b-b29f-31a89b17eb3b.png)
+(c) “bacon”
+![image](https://user-images.githubusercontent.com/10841083/128838016-97cbd004-aac0-4202-947a-942ef75a7cec.png)
+(d) “miso soup”
+Display of properties and values of associated nodes of “genistein”
+![image](https://user-images.githubusercontent.com/10841083/128838086-273ac1d5-d4b4-4260-88ee-6dd119c2e073.png)
 
-# Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+### Chat Bot
+The realization principle of the chatbot based on Pcalfst_KG
+![image](https://user-images.githubusercontent.com/10841083/128838217-141ec9ce-bee9-4751-a85e-b341a17a40fe.png)
 
 
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-
-# Synchronization
-
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
-
-There are two types of synchronization and they can complement each other:
-
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
