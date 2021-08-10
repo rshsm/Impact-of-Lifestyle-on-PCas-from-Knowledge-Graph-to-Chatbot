@@ -175,9 +175,10 @@ Knowledge Graph
 ### Chat Bot
 
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/10841083/128838217-141ec9ce-bee9-4751-a85e-b341a17a40fe.png" />
+  <img src="https://user-images.githubusercontent.com/10841083/128843213-29044bad-59ef-464d-810c-332ff3915322.png" />
 	</br>
 	<b>The realization principle of the chatbot based on Pcalfst_KG</b>
 </p>
+
 
 
