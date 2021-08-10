@@ -84,6 +84,7 @@ yarn start and point your web browser to http://localhost:8080.
 ## Project Set Up
 
 
+![image](https://user-images.githubusercontent.com/10841083/128831502-adc810c0-980f-44ff-9e32-8893a3be5b4e.png)
 
 
 
