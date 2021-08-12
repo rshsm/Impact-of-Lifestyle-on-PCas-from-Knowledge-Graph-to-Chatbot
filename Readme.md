@@ -42,27 +42,18 @@ The types of entity and corresponding count in PCalfst_KG
 |       SecClass   |Properties                     |294                        |
 |       ThrClass   |Properties                     |22                        |
 
+## Set up Knowledge Graph
 
+### 1. Install Java  
+- [Download Java version:1.8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)  
+- Configure environment variables  
 
+- Verify installation of Java,Open a command prompt,and enter the following:
+    ```
+    java -version
+    ```
 
-
-		
-Lifestyle	factor_type; fenlei; index_name; inv_papers; level_class; name; paper_count; pca_type; unit.	2290
-Paper	area; author; duration; gene; name; sample_size; study_type; title; year.	300
-Baseline	group_number; index_name; name; notes; pmid; stratification; value.	2570
-Outcome	aj_value; eaj; eunaj; index_name; name; notes; pcatype; pmid; stratification; unaj_value; unit.	15586
-PCa	-	79
-Nation	-	31
-Unit	-	125
-Gene	-	38
-FirClass	-	11
-SecClass	-	294
-ThrClass	-	222
-
-
-
-
-## Install nodejs
+### 2. Install nodejs
 Node.js is a run-time environment which includes everything you need to execute a program written in JavaScript. It’s used for running scripts on the server to render content before it is delivered to a web browser.
 
 NPM stands for Node Package Manager, which is an application and repository for developing and sharing JavaScript code.
@@ -79,7 +70,7 @@ The system should display the Node.js version installed on your system. You can 
 ```
 npm -v
 ```
-## Flask
+### 3. Flask
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. 
 
 Installing
@@ -102,7 +93,7 @@ def hello():
 $ flask run
   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
-## Neo4j
+### 4. Neo4j
 Neo4j is available both as a standalone server, or an embeddable component. You can [download](https://neo4j.com/download/) from here .
 
 
@@ -112,10 +103,54 @@ Step 2 Install yarn globally (not required but recommended): npm install -g yarn
 
 Step 3 Install project dependencies: yarn
 
+Step 4 yarn start and point your web browser to http://localhost:8080.
+Step 5 Configure environment variables
+- Verify installation of Neo4j,Open a command prompt,and enter the following:
+    ```
+    neo4j.bat console
+    ```
 
-yarn start and point your web browser to http://localhost:8080.
+###  5. Run Knowledge Graph
+- Open a command prompt
+- Enter the bin directory under the neo4j folder,and enter the following:
 
-## Project Set Up
+    ```
+    neo4j.bat console
+    ```
+- Open another command prompt, enther "mypro" project,and enter the following:
+    
+    ```
+    npm run dev
+    ```
+
+### 二.Set up Chatbot
+
+##### 1.Install Anaconda——[Download Link](https://www.anaconda.com/products/individual)
+
+##### 2.Import environment
+- Download "environment.yaml" and  "requirements.txt"
+- Open a command prompt,and enter the following:
+
+    ```
+    conda env create -f environment.yaml
+    
+    pip install -r requirements.txt
+    ```
+
+
+##### 3.Run Chatbot
+- Open a command prompt,and enter the following:
+    ```
+    conda activate dev
+    ```
+- Enter "pchatbot" project,and enter the following:
+
+    ```
+    python app.py
+    ```
+
+## Set up ChatBot
+
 
 Knowledge Graph
 
@@ -123,7 +158,29 @@ Knowledge Graph
 
 ### Knowledge Graph
 
+#### 1.Install Anaconda——[Download Link](https://www.anaconda.com/products/individual)
 
+#### 2.Import environment
+- Download "environment.yaml" and  "requirements.txt"
+- Open a command prompt,and enter the following:
+
+    ```
+    conda env create -f environment.yaml
+    
+    pip install -r requirements.txt
+    ```
+
+
+#### 3.Run Chatbot
+- Open a command prompt,and enter the following:
+    ```
+    conda activate dev
+    ```
+- Enter "pchatbot" project,and enter the following:
+
+    ```
+    python app.py
+    ```
 
 
 
