@@ -209,7 +209,7 @@ Knowledge Graph
   <b>The realization principle of the dialogue system based on Pcalfst_KG</b>
 </p>
 
-# Result
+# Results
 
 ### Knowledge Graph
 
