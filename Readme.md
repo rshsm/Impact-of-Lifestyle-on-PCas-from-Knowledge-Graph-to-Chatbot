@@ -123,11 +123,11 @@ Step 5 Configure environment variables
     npm run dev
     ```
 
-### 二.Set up Chatbot
+## Set up Chatbot
 
-##### 1.Install Anaconda——[Download Link](https://www.anaconda.com/products/individual)
+### 1.Install Anaconda——[Download Link](https://www.anaconda.com/products/individual)
 
-##### 2.Import environment
+### 2.Import environment
 - Download "environment.yaml" and  "requirements.txt"
 - Open a command prompt,and enter the following:
 
@@ -138,7 +138,7 @@ Step 5 Configure environment variables
     ```
 
 
-##### 3.Run Chatbot
+### 3.Run Chatbot
 - Open a command prompt,and enter the following:
     ```
     conda activate dev
@@ -149,7 +149,7 @@ Step 5 Configure environment variables
     python app.py
     ```
 
-## Set up ChatBot
+
 
 
 Knowledge Graph
