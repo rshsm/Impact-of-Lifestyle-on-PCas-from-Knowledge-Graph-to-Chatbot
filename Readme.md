@@ -171,10 +171,11 @@ Step 5 Configure environment variables
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10841083/128831706-8c9e7d19-3034-405c-98d6-49c9d793351f.png" />
+  <img src="https://user-images.githubusercontent.com/10841083/129159640-b3755360-722d-4309-826f-b8e2dd8589e1.png" />
 	</br>
   <b>The principle of visualizing the core knowledge graph for the inquired lifestyles</b>
 </p>
+
 
 ### Chat Bot
 
@@ -211,18 +212,26 @@ Step 5 Configure environment variables
 #### Sample Questions:
 
 > green tea
+
 > What is the unit of green tea?
+
 > Can you give me some surveys about green tea?
+
 > What kind of PCa may green tealeads?
+ 
 > Which gene may total pca connected with?
+
 > When green tea leads to the pca,please give me the possible outcomes?
+
 > Which factor is green tea belongsto?
 
+
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/10841083/129159092-ef71cb7b-5f61-4be3-b89c-beae50306372.png" />
+  <img src="https://user-images.githubusercontent.com/10841083/129159716-864fd937-8495-4445-964c-8d23f373fa2d.png" />
 	</br>
 	<b>The realization principle of the chatbot based on Pcalfst_KG</b>
 </p>
+
 
 
 
