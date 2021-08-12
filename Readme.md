@@ -125,6 +125,8 @@ Step 5 Configure environment variables
 
 ## Set up Chatbot
 
+
+
 ### 1.Install Anaconda——[Download Link](https://www.anaconda.com/products/individual)
 
 ### 2.Import environment
@@ -150,37 +152,9 @@ Step 5 Configure environment variables
     ```
 
 
-
-
-Knowledge Graph
-
 # Architecture
 
-### Knowledge Graph
 
-#### 1.Install Anaconda——[Download Link](https://www.anaconda.com/products/individual)
-
-#### 2.Import environment
-- Download "environment.yaml" and  "requirements.txt"
-- Open a command prompt,and enter the following:
-
-    ```
-    conda env create -f environment.yaml
-    
-    pip install -r requirements.txt
-    ```
-
-
-#### 3.Run Chatbot
-- Open a command prompt,and enter the following:
-    ```
-    conda activate dev
-    ```
-- Enter "pchatbot" project,and enter the following:
-
-    ```
-    python app.py
-    ```
 
 
 
