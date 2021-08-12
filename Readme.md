@@ -6,10 +6,12 @@ This repository is about the paper Modeling the Impact of Lifestyle on PCas: fro
 ><sup>2</sup>Department of Medical Informatics, School of Medicine, Nantong University, Nantong, China.
 ><sup>3</sup>Department of Urology, West China Hospital, Sichuan University, Chengdu, China.
 
-Live version of Chatbot
+*** Live version of Chatbot
+
 [Link to Knowledge Graph](http://sysbio.org.cn:3000/)
 
-Live Version of Knowledge Graph
+*** Live Version of Knowledge Graph
+
 [Link to Chatbot](http://sysbio.org.cn:5000/Pca/chatbot)
 
 **Background:** Personal lifestyle is an important cause of prostate cancer (PCa), hence establishing a corresponding knowledge graph (KG) is a convenient way for preventing and assessing risks. However, currently, there exists no work on the construction and application of this kind of KG.
