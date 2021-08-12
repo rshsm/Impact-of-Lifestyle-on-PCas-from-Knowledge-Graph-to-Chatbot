@@ -208,11 +208,23 @@ Step 5 Configure environment variables
 
 ### Chat Bot
 
+#### Sample Questions:
+
+> green tea
+> What is the unit of green tea?
+> Can you give me some surveys about green tea?
+> What kind of PCa may green tealeads?
+> Which gene may total pca connected with?
+> When green tea leads to the pca,please give me the possible outcomes?
+> Which factor is green tea belongsto?
+
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/10841083/128843213-29044bad-59ef-464d-810c-332ff3915322.png" />
+  <img src="https://user-images.githubusercontent.com/10841083/129159092-ef71cb7b-5f61-4be3-b89c-beae50306372.png" />
 	</br>
 	<b>The realization principle of the chatbot based on Pcalfst_KG</b>
 </p>
+
+
 
 
 
