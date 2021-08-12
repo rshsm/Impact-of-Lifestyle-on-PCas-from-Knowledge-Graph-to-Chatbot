@@ -6,11 +6,11 @@ This repository is about the paper Modeling the Impact of Lifestyle on PCas: fro
 ><sup>2</sup>Department of Medical Informatics, School of Medicine, Nantong University, Nantong, China.
 ><sup>3</sup>Department of Urology, West China Hospital, Sichuan University, Chengdu, China.
 
-*** Live version of Chatbot
+### Live version of Chatbot
 
 [Link to Knowledge Graph](http://sysbio.org.cn:3000/)
 
-*** Live Version of Knowledge Graph
+### Live Version of Knowledge Graph
 
 [Link to Chatbot](http://sysbio.org.cn:5000/Pca/chatbot)
 
@@ -140,7 +140,7 @@ Step 5 Configure environment variables
 - Download "environment.yaml" and  "requirements.txt"
 - Open a command prompt,and enter the following:
 
-    ```
+    ```python
     conda env create -f environment.yaml
     
     pip install -r requirements.txt
@@ -149,20 +149,17 @@ Step 5 Configure environment variables
 
 ### 3.Run Chatbot
 - Open a command prompt,and enter the following:
-    ```
+    ```python
     conda activate dev
     ```
 - Enter "pchatbot" project,and enter the following:
 
-    ```
+    ```python
     python app.py
     ```
 
 
 # Architecture
-
-
-
 
 
 <p align="center">
@@ -178,8 +175,6 @@ Step 5 Configure environment variables
 	</br>
   <b>The principle of visualizing the core knowledge graph for the inquired lifestyles</b>
 </p>
-	
-
 
 ### Chat Bot
 
@@ -190,7 +185,7 @@ Step 5 Configure environment variables
   <b>The realization principle of the dialogue system based on Pcalfst_KG</b>
 </p>
 
-# Results
+# Results 
 
 ### Knowledge Graph
 
