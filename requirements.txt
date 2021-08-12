@@ -1,0 +1,7 @@
+numpy==1.19.5
+pyahocorasick==1.4.0
+ChatterBot==1.0.4
+py2neo==2021.1.5
+Flask==2.0.1
+ahocorasick==0.9
+scikit_learn==0.24.2
