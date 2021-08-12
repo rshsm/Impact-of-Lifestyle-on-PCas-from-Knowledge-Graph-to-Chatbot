@@ -229,6 +229,7 @@ Knowledge Graph
 	</br>
 	<b>Display of properties and values of associated nodes of “genistein”</b>
 </p>
+
 ### Chat Bot
 
 <p align = "center">
