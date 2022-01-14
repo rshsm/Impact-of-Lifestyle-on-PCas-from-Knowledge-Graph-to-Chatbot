@@ -1,10 +1,15 @@
-# Impact-of-Lifestyle-on-PCas-from-Knowledge-Graph-to-Chatbot-
+# Prostate Cancer Management with Lifestyle Intervention: from Knowledge Graph to Chatbot
 
-This repository is about the paper Modeling the Impact of Lifestyle on PCas: from Knowledge Graph to Chatbot by Fei Ye <sup>1*</sup>, ; Baivab Sinha<sup>1*</sup>; Yalan Chen<sup>2*</sup>;Tong Tang<sup>1</sup>; Rongrong Wu<sup>1</sup>; Mengqiao He<sup>1</sup>,Xiaonan Zheng<sup>3</sup>; Qiang Wei<sup>3</sup>, Bairong Shen<sup>1</sup>
+This repository is about the paper Modeling the Impact of Lifestyle on PCas: from Knowledge Graph to Chatbot by
+Yalan Chen<sup>1,2#</sup>, Baivab Sinha<sup>1#</sup>, Fei Ye<sup>1#</sup>, Tong Tang<sup>1</sup>, Rongrong Wu<sup>1</sup>, Mengqiao He<sup>1</sup>, Xiaonan Zheng<sup>1,3</sup> and Bairong Shen <sup>1</sup>
 
-><sup>1</sup>Institutes for Systems Genetics, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, 610041, China.
-><sup>2</sup>Department of Medical Informatics, School of Medicine, Nantong University, Nantong, China.
-><sup>3</sup>Department of Urology, West China Hospital, Sichuan University, Chengdu, China.
+Fei Ye <sup>1*</sup>, ; Baivab Sinha<sup>1*</sup>; Yalan Chen<sup>2*</sup>;Tong Tang<sup>1</sup>; Rongrong Wu<sup>1</sup>; Mengqiao He<sup>1</sup>,Xiaonan Zheng<sup>3</sup>; Qiang Wei<sup>3</sup>, Bairong Shen<sup>1</sup>
+
+<sup>1</sup>Institutes for Systems Genetics, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, 610041, China.
+</br>
+<sup>2</sup>Department of Medical Informatics, School of Medicine, Nantong University, Nantong, China.
+</br>
+<sup>3</sup>Department of Urology, West China Hospital, Sichuan University, Chengdu, China.
 
 ### Live version of Chatbot
 
@@ -14,16 +19,11 @@ This repository is about the paper Modeling the Impact of Lifestyle on PCas: fro
 
 [Link to Chatbot](http://sysbio.org.cn:5000/Pca/chatbot)
 
-**Background:** Personal lifestyle is an important cause of prostate cancer (PCa), hence establishing a corresponding knowledge graph (KG) is a convenient way for preventing and assessing risks. However, currently, there exists no work on the construction and application of this kind of KG.
+**Background:** Personal lifestyle is an important cause of prostate cancer (PCa), hence establishing a corresponding knowledge graph and chatbot is a convenient way for preventing and assessing risks. A chatbot based on knowledge graph of PCa-associated lifestyles will be helpful to the prostate cancer management, then save health care resources in the aging society. 
 
-**Objective:** In this paper, we established a KG based on PCa-associated lifestyles, called PCalfst_KG, which extracts knowledge from the existing Knowledge Base (KB). Then we visualized it and designed a chatbot based on a dialogue system whose responses come from PCalfst_KG.
+**Results:** Based on our established knowledge base, we define entities and corresponding relationships to construct the PCa-associated lifestyles knowledge graph for visualization by importing the triples into the Neo4j graph server. The dialogue system uses the Flask framework to determine the classification of questions through entity recognition and relationship extraction and later uses the query template to search the answers from the PCa-associated lifestyles knowledge graph. The PCa-associated lifestyles knowledge graph contains 11 types of entities and 14 types of relationships, the total number of nodes and links is 21546 and 66493, respectively. Also, the entity “Lifestyle”, “Paper”, “Baseline” and “Outcome” contain multiple attributes. The established chatbot can answer 12 types of basic questions and predict the probability of a certain lifestyle resulting in a certain PCa. The chatbot is available at http://sysbio.org.cn:5000/Pca/chatbot.
 
-**Methods:** From the existing KB, we define entities based on the items and corresponding relationships based on the primary key and foreign key. We establish the PCalfst_KG by importing the triples into the Neo4j server. The visualization is based on node.js and d3.js technology. The dialogue system uses the Flask framework to determine the classification of questions through entity recognition and relationship extraction and later uses the query template to search the answers from the PCalfst_KG.
-
-**Results:** The PCalfst_KG contains 11 types of entities and 14 types of relationships, the total number of nodes and links is 21546 and 66493, respectively. Also, the entity “Lifestyle”, “Paper”, “Baseline” and “Outcome” contain multiple attributes. The established chatbot can answer 12 basic questions and predict the probability of a certain lifestyle resulting in a certain PCa.
-
-**Conclusions:** The lifestyle-associated KB is transformed into a professional KG and conveniently visualized. We have initially constructed a chatbot based on PCalfst_KG to help researchers or physicians learn more about PCa interactively.
-
+**Conclusion:** A chatbot based on PCa-associated lifestyles knowledge graph was constructed to help researchers, physicians or patients learn more about PCa lifestyle management interactively
 
 
 # Set-up
